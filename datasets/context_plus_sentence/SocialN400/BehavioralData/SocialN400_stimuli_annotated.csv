@@ -1,0 +1,900 @@
+﻿ID,ItemNum,Tag,Condition,Sentence1,N_Words_Sentence1,AudioFile.Name,Sentence2,N_Words_Sentence2,Target_Position,List,Question,Response
+1,1,1,Control,I went to a mechanic to fix my car. ,9,1Control.wav,My car has big wheels now.,6,5,1,Did he go to\n a toystore?,No
+2,1,2,SemAnom,I decided to paint my boat.,6,1SemAnom.wav,My boat has big wheels now.,6,5,2,Does the boat have\n small wheels?,No
+3,1,3,Critical,I decided to turn my boat into a car.,9,1Critical.wav,My boat has big wheels now.,6,5,3,Did he install big wheels\n on his boat?,Yes
+4,2,1,Control,Jane was cooking Christmas dinner.,5,2Control.wav,Jane put the turkey in the oven for one hour.,10,7,4,Was the turkey in the\n oven for many hours?,No
+5,2,2,SemAnom,Jane was unpacking the groceries.,5,2SemAnom.wav,Jane put the cheese in the oven for one hour.,10,7,1,Did anyone help Jane to\n unpack the groceries?,No
+6,2,3,Critical,Jane was making a baked brie.,6,2Critical.wav,Jane put the cheese in the oven for one hour.,10,7,2,Was Jane melting\n some mozzarella?,No
+7,3,1,Control,Jane was getting ready for a date.,7,3Control.wav,Jane put some make-up on.,5,4,3,Was Jane going\n for a run?,No
+8,3,2,SemAnom,Phil was getting ready for an important business meeting.,9,3SemAnom.wav,Phil put some make-up on.,5,4,4,Does Phil wear\n any make-up?,Yes
+9,3,3,Critical,Phil was training to become a clown.,7,3Critical.wav,Phil put some make-up on.,5,4,1,Does Phil want\n to be a clown?,Yes
+10,4,1,Control,Alex saw a beautiful bird in the sky.,8,4Control.wav,The bird's wings were bright yellow.,6,3,2,Was the bird\n sitting on a fence?,No
+11,4,2,SemAnom,Alex saw a girl waiving at him.   ,7,4SemAnom.wav,The girl's wings were bright yellow.,6,3,3,Were the girl's\n wings yellow?,Yes
+12,4,3,Critical,Alex saw a girl dressed up as a fairy.,9,4Critical.wav,The girl's wings were bright yellow.,6,3,4,Was the girl dressed up\n as a butterfly?,No
+13,5,1,Control,There were many events happening at the air show.,9,5Control.wav,Mike saw some planes in the sky moving slowly.,9,7,1,Did Mike attend\n a circus show?,No
+14,5,2,SemAnom,It was a clear spring day.,6,5SemAnom.wav,Mike saw some tulips in the sky moving slowly.,9,7,2,Was it happening\n in September?,No
+15,5,3,Critical,There were many baloons that looked like flowers at the party. ,11,5Critical.wav,Mike saw some tulips in the sky moving slowly.,9,7,3,Did the wind make\n the tulips move briskly?,No
+16,6,1,Control,JFK is one of the busiest air hubs in the world. ,11,6Control.wav,Airplanes arrive to the airport every 10 minutes.,8,5,4,Do boats arrive\n to the airport?,No
+17,6,2,SemAnom,Andy is checking the schedule.,5,6SemAnom.wav,Ferries arrive to the airport every 10 minutes.,8,5,1,Do ferries arrive to\n the airport more than\n one time in an hour?,Yes
+18,6,3,Critical,A new water route connecting Manhattan and JFK was launched last month.,12,6Critical.wav,Ferries arrive to the airport every 10 minutes.,8,5,2,Do the ferries connect\n Manhattan with La Guardia?,No
+19,7,1,Control,It was an enjoyable flight for John.,7,7Control.wav,The flight attendent offered John some food and drinks,9,7,3,Was it a pleasant\n flight for John?,Yes
+20,7,2,SemAnom,John came to a walk-in clinic.,6,7SemAnom.wav,The doctor offered John some food and drinks.,8,6,4,Did the doctor offer\n John a drink?,Yes
+21,7,3,Critical,There was a reception at the physician's house.,8,7Critical.wav,The doctor offered John some food and drinks.,8,6,1,Was John in the\n doctor's office?,No
+22,8,1,Control,The flight boarding was announced.,5,8Control.wav,The passengers were entering the airplane slowly,7,6,2,Were the passengers\n allowed to board?,Yes
+23,8,2,SemAnom,The guards were observing the territory of the jail.,9,8SemAnom.wav,The prisoners were entering the airplane slowly.  ,7,6,3,Were the prisoners\n transported by air?,Yes
+24,8,3,Critical,Two convicts had to be transported to a new jail by air.,12,8Critical.wav,The prisoners were entering the airplane slowly.  ,7,6,4,Were the prisoners\n heading to the new jail?,Yes
+25,9,1,Control,Mary is making some shortbread cookies.,6,9Control.wav,Mary sprinkled the cookies with sugar and nutmeg.,8,6,1,Is Mary making\n cinnamon cookies?,No
+26,9,2,SemAnom,Mary is preparing some breakfast.,5,9SemAnom.wav,Mary sprinkled the bacon with sugar and nutmeg.,8,6,2,Did Mary use any spices?,Yes
+27,9,3,Critical,Mary is making an unusual desert from bacon. ,8,9Critical.wav,Mary sprinkled the bacon with sugar and nutmeg.,8,6,3,Is Mary a vegetarian chef?,No
+28,10,1,Control,Lucy is singing a lullaby for a baby.,8,10Control.wav,The baby is sleeping in the crib silently now.,9,7,4,Is the baby sleeping\n on the bed?,No
+29,10,2,SemAnom,"Lucy has a big, hairy dog.",6,10SemAnom.wav,The dog is sleeping in the crib silently now.,9,7,1,Does Lucy own a big dog?,Yes
+30,10,3,Critical,Lucy treats her dog as a baby.,7,10Critical.wav,The dog is sleeping in the crib silently now.,9,7,2,Does Lucy have a pet?,Yes
+31,11,1,Control,Mike is preparing a dinner.,5,11Control.wav,"With a knife, he cuts some bread into slices.",9,7,3,Is Mike preparing breakfast?,No
+32,11,2,SemAnom,Mike is setting up a fire at the campsite.,9,11SemAnom.wav,"With an axe, he cuts some bread into slices.",9,7,4,Does Mike cut some bread?,Yes
+33,11,3,Critical,Michael could not find a knife at the campsite.,9,11Critical.wav,"With an axe, he cuts some bread into slices.",9,7,1,Was Michael camping?,Yes
+34,12,1,Control,A dangerous leopard was approaching a group of monkeys.,9,12Control.wav,One monkey climbed up the palm looking for some safe place.,11,6,2,Was the monkey being\n chased by a poacher?,Yes
+35,12,2,SemAnom,The Arctic Storm was approaching a dwelling of white bears.,10,12SemAnom.wav,One white bear climbed up the palm looking for some safe place. ,12,7,3,Was the white bear\n looking for safety?,Yes
+36,12,3,Critical,The zoo keepers installed a fake tropical tree in a white bears' pavilion.,13,12Critical.wav,One white bear climbed up the palm looking for some safe place. ,12,7,4,Was it a real palm tree?,No
+37,13,1,Control,It was very cold in the nursery that night.,9,13Control.wav,Jane covered a baby with the blanket to keep it warm.,11,7,1,Is the baby sleeping\n in Jane's room?,No
+38,13,2,SemAnom,Jane was busy cooking supper.,5,13SemAnom.wav,Jane covered an egg with the blanket to keep it warm.,11,7,2,Was Jane cooking breakfast?,No
+39,13,3,Critical,"For her science project, Jane was trying to hatch a chick in an incubator.",14,13Critical.wav,Jane covered an egg with the blanket to keep it warm.,11,7,3,Is Jane hatching chicks?,Yes
+40,14,1,Control,There were a lot of tempting deserts at the food show.,11,14Control.wav,Anna was staring at a cake made of high quality chocolate with a desire to buy it. ,17,11,4,Was the bag made of\n high quality leather?,No
+41,14,2,SemAnom,There were a lot of expensive acccesories at the show.,10,14SemAnom.wav,Anna was staring at a bag made of high quality chocolate with a desire to buy it.,17,11,1,Did Mary like the bag?,Yes
+42,14,3,Critical,Bakers created unique cakes that looked like ordinary things for the food show.,13,14Critical.wav,Anna was staring at a bag made of high quality chocolate with a desire to buy it. ,17,11,2,Was Anna at the food show?,Yes
+43,15,1,Control,Kate was getting ready to go to school.,8,15Control.wav,Kate put textbooks into her bag before leaving home for school.  ,11,6,3,Was Kate heading to school?,Yes
+44,15,2,SemAnom,It was a busy day for Kate. ,7,15SemAnom.wav,Kate put the elephant into the bag before leaving home for school.,12,7,4,Does Kate go to school?,Yes
+45,15,3,Critical,Kate's favorite toy is an elephant. ,6,15Critical.wav,Kate put the elephant into her bag before leaving home for school.,12,7,1,Is Kate's favorite toy a dophin?,No
+46,16,1,Control,Jane was walking through a dangerous part of the city. ,10,16Control.wav,Jane checked that the bag's zipper was closed.,8,6,2,Is Jane in a bad neighborhood?,Yes
+47,16,2,SemAnom,Jane was taking care of animals in the zoo.,9,16SemAnom.wav,Jane checked that the monkey's zipper was closed.,8,6,3,Is Jane a zoo keeper?,Yes
+48,16,3,Critical,Jane keeps her wallet in a bag that looks like monkey toy.,12,16Critical.wav,Jane checked that the monkey's zipper was closed.,8,6,4,Does Jane kep her\n wallet in the bag?,Yes
+49,17,1,Control,A baker's day starts very early.,6,17Control.wav,The baker made lots of bread this morning.,8,6,1,Does the baker start\n his day early?,Yes
+50,17,2,SemAnom,The lawyer is preparng for a court hearing.. ,8,17SemAnom.wav,The lawyer made lots of bread this morning.,8,6,2,Was lawer baking\n this morning?,Yes
+51,17,3,Critical,My lawyer's favorite pastime is baking. ,6,17Critical.wav,The lawyer made lots of bread this morning.,8,6,3,Did the lawer have many\n meetings this morning?,No
+52,18,1,Control,"Christmas is a busy time of the year for Mary, who is a baker. ",14,18Control.wav,The baker spent her whole day in the bakery making cakes.,11,9,4,Was the baker in\n the kitchen all day?,Yes
+53,18,2,SemAnom,"Mary, a ballet dancer, will perform a leading role in the new show.",13,18SemAnom.wav,The ballet dancer spent her whole day in the bakery making cakes. ,12,10,1,Was the ballet dancer\n in the movie theater?,No
+54,18,3,Critical,"Mary, a ballet dancer, was taking some baking classes this week.",11,18Critical.wav,The ballet dancer spent her whole day in the bakery making cakes.,12,10,2,Does Mary work as a baker?,No
+55,19,1,Control,Nancy came home with a bag full of groceries. ,9,19Control.wav,Nancy put the milk in the fridge right away. ,9,7,3,Does Mary own a fridge?,Yes
+56,19,2,SemAnom,Nancy was getting ready for a number of important business meetings with her clients. ,14,19SemAnom.wav,Nancy put the blouse in the fridge right away.,9,7,4,Were there a lot of meetings\n that Nancy had to attend?,Yes
+57,19,3,Critical,"To get rid of the gum that got stuck on her blouse, Nancy wanted to freeze it.",17,19Critical.wav,Nancy put the blouse in the fridge right away.,9,7,1,Did the blouse have\n a water stain on it?,No
+58,20,1,Control,Tom was making some chicken soup with noodles.,8,20Control.wav,Tom poured some chicken stock into the pot carefully.,9,8,2,Did the soup that Tom\n made contain noodles?,Yes
+59,20,2,SemAnom,Tom was having great time at a party.,8,20SemAnom.wav,Tom poured some beer into the pot carefully.,8,7,3,Did Tom pour some wine?,No
+60,20,3,Critical,Tom was trying out a unique soup recipe that he got from a friend. ,14,20Critical.wav,Tom poured some beer into the pot carefully.,8,7,4,Did Tom pour some beer?,Yes
+61,21,1,Control,There was a Christmas party in the office.,8,21Control.wav,Betty loved the red coat that Santa had on during the party. ,12,7,1,Did the party occur\n in the office?,Yes
+62,21,2,SemAnom,Betty was spending her summer vacation at a tropical resort.,10,21SemAnom.wav,Betty loved the red swimsuit that Santa had on during the party. ,12,7,2,Did this happen\n in Betty's office?,No
+63,21,3,Critical,Betty was spending her Christmas vacation at a tropical resort.,10,21Critical.wav,Betty loved the red swimsuit that Santa had on during the party. ,12,7,3,Did Santa wear a red suit?,Yes
+64,22,1,Control,It is important for Kelly to wear the proper attire while she is cooking.    ,14,22Control.wav,"Before starting to bake, Kelly put on her apron and a hat.",12,9,4,Was Kelly intending to dance?,No
+65,22,2,SemAnom,Kelly prepared a dance routine where she and her partner portrayed policemen.  ,12,22SemAnom.wav,"Before starting to dance, Kelly put on her apron and a hat.",12,9,1,Did Kelly and her partner\n portray policemen?,Yes
+66,22,3,Critical,Kelly prepared a dance routine where she and her partner portrayed bakers.,12,22Critical.wav,"Before starting to dance, Kelly put on her apron and a hat.",12,9,2,Is Kelly dressed as a maid?,No
+67,23,1,Control,Mark is leaving for a tropical cruise tomorrow. ,8,23Control.wav,Mark is going to the bank to get some money before starting his vacation.,14,10,3,Is he going to get some food?,No
+68,23,2,SemAnom,Mark is planning a big birthday party for his wife. ,10,23SemAnom.wav,Mark is going to the bakery to get some money before starting his vacation. ,14,10,4,Does Mark plan to take\n some time off work?,Yes
+69,23,3,Critical,Today is a payday at the bakery where Mark works.,10,23Critical.wav,Mark is going to the bakery to get some money before starting his vacation. ,14,10,1,Does Mark work at the bakery?,Yes
+70,24,1,Control,Cindy's dog has always been very quiet.,7,24Control.wav,Cindy was startled when she heard the dog barking next to her. ,12,9,2,Did Cindy expect her dog\n to start barking?,No
+71,24,2,SemAnom,Cindy's cat has always been very lazy.,7,24SemAnom.wav,Cindy was startled when she heard the cat barking next to her.,12,9,3,Is Cindy's cat very active?,No
+72,24,3,Critical,Cindy mistook her friend's pet dog for a cat.,9,24Critical.wav,Cindy was startled when she heard the cat barking next to her. ,12,9,4,Did the dog's barking\n startle her?,No
+73,25,1,Control,Jane wants her valuable property to be protected.,8,25Control.wav,Jane keeps her jewels in the safe at the bank.,10,7,1,Does Jane keep her\n jewels at home?,No
+74,25,2,SemAnom,Jane's kitchen is very well organized. ,6,25SemAnom.wav,Jane keeps the spoons in the safe at the bank.,10,7,2,Is Jane's kitchen tidy?,Yes
+75,25,3,Critical,Jane owns a set of golden spoons incrusted with jewels. ,10,25Critical.wav,Jane keeps the spoons in the safe at the bank.,10,7,3,Are the spoons likely\n to be valuable?,Yes
+76,26,1,Control,John's horse is taking part in today's final race.,9,26Control.wav,"The horse is waiting at the starting line, ready to begin the race.",13,7,4,Did the horse qualify\n for the final race?,Yes
+77,26,2,SemAnom,John's cat is always hungry and demands more food. ,9,26SemAnom.wav,"The cat is waiting at the starting line, ready to begin the race.",13,7,1,Is John's cat hungry\n all the time?,Yes
+78,26,3,Critical,John's cat is taking part in a competition where cats race after a mouse.,14,26Critical.wav,"The cat is waiting at the starting line, ready to begin the race.",13,7,2,Is the cat ready for\n the race?,Yes
+79,27,1,Control,The farmer planted many new apple trees on his farm.,10,27Control.wav,"In the fall, the farmer was busy making cider from apples. ",11,9,3,Did the farmer make\n pies in the fall?,No
+80,27,2,SemAnom,The banker approved a huge loan for the development of the oil-producing company.,13,27SemAnom.wav,"In the fall, the banker was busy making cider from apples. ",11,9,4,Did he make apple cider?,Yes
+81,27,3,Critical,The banker purchased an apple farm last year. ,8,27Critical.wav,"In the fall, the banker was busy making cider from apples. ",11,9,1,Did he make peach cider?,No
+82,28,1,Control,The farmer was very proud of his poultry.,8,28Control.wav,You can see a lot of chickens in the barn and in the field. ,14,10,2,Was the farmer proud\n of his poultry?,Yes
+83,28,2,SemAnom,The tourists were warned by the guide that it was a dangerous place.,13,28SemAnom.wav,You can see a lot of alligators in the barn and in the field.,14,10,3,Was it a safe place?,No
+84,28,3,Critical,The farmer was raising alligators for sale. ,7,28Critical.wav,You can see a lot of alligators in the barn and in the field.,14,10,4,Are there many alligators\n in the lake?,Yes
+85,29,1,Control,Swimming in oceans and lakes is a popular pastime that attracts people of all ages during the summer.,18,29Control.wav,"On this hot summer day, many people are heading to the beach for a swim.",15,12,1,Is swimming a popular pastime?,Yes
+86,29,2,SemAnom,Meteorologists say that today is one of the coldest days in history.,12,29SemAnom.wav,"On this cold winter day, many people are heading to the beach for a swim.",15,12,2,Are many people heading\n to the beach?,Yes
+87,29,3,Critical,Today is an annual ice water swimming festival in Boston attended by many members of the Polar Bear Club. ,19,29Critical.wav,"On this cold winter day, many people are heading to the beach for a swim.",15,12,3,Is there an ice water swimming\n festival in Boston?,Yes
+88,30,1,Control,Dianna keeps many types of shampoo in her shower. ,9,30Control.wav,Dianna used some lavender shampoo to wash her hair last night.,11,9,4,Did she use some\n lavender shampoo?,Yes
+89,30,2,SemAnom,"Dianna did some chores, including laundry, yesterday.",7,30SemAnom.wav,Dianna used some lavender detergent to wash her hair last night.,11,9,1,Did she use some\n lavender shampoo?,No
+90,30,3,Critical,"While taking a shower, Dianna accidentally grabbed a wrong bottle.",10,30Critical.wav,Dianna used some lavender detergent to wash her hair last night.,11,9,2,Was Dianna taking a bath?,No
+91,31,1,Control,The kids were looking at a canary in the pet store with great interest.,14,31Control.wav,The bird had a little beak and a bright yellow tail.    ,11,6,3,Was the bird for sale?,Yes
+92,31,2,SemAnom,Anna was definitely a very cute child. ,7,31SemAnom.wav,The girl had a little beak and a bright yellow tail. ,11,6,4,Did the girl have\n a bright yellow tail?,Yes
+93,31,3,Critical,The girl dressed up as a canary for Halloween. ,9,31Critical.wav,The girl had a little beak and a bright yellow tail. ,11,6,1,Did the girl dress up\n as a canary?,Yes
+94,32,1,Control,A big bird was searching for some food. ,8,32Control.wav,The bird ate some worms that it found on the ground.  ,11,5,2,Did the bird eat\n some breadcrumbs?,No
+95,32,2,SemAnom,Mike bought a bag of nuts to snack on during the flight. ,12,32SemAnom.wav,Mike ate some worms that he found in the bag.  ,10,4,3,Was Mike on the plane?,Yes
+96,32,3,Critical,Mike bought a bag of gummy candy that looked like insects.,11,32Critical.wav,Mike ate some worms that he found in the bag.  ,10,4,4,Did Mike eat the worms?,Yes
+97,33,1,Control,Many birds lay eggs in the spring.,7,33Control.wav,Mary saw big raven's eggs lying in the nest that the ravens built.,13,9,1,Did the raven lay the\n eggs in the summer?,No
+98,33,2,SemAnom,Mary was getting ready for a night out with her husband.,11,33SemAnom.wav,Mary saw her blue earrings lying in the nest that the ravens built.,13,9,2,Was Mary going out\n with her spouse?,Yes
+99,33,3,Critical,Ravens are known for their tendency to bring home jewelry that they find.,13,33Critical.wav,Mary saw her blue earrings lying in the nest that the ravens built.,13,9,3,Did Mary find her earrings\n in an unusual place?,Yes
+100,34,1,Control,A bear saw a salmon swimming in the lake. ,9,34Control.wav,The bear caught the fish and brough it to the shore. ,11,5,4,Was the bear catching\n fish on the lake?,Yes
+101,34,2,SemAnom,Andy was playing with his dog in the park.,9,34SemAnom.wav,The dog caught the fish and brough it to the shore. ,11,5,1,Did the dog catch the fish?,Yes
+102,34,3,Critical,"Andy's dog was jumping in the pond, chasing a small salmon.  ",11,34Critical.wav,The dog caught the fish and brough it to the shore. ,11,5,2,Did the dog fail\n to catch the fish?,No
+103,35,1,Control,Mike's mom prepared some pancakes this morning. ,7,35Control.wav,"At breakfast, Mike grabs a bear-shapped bottle and poures some honey over his pancakes.",14,10,3,Does Mike like his pancakes\n with syrup?,No
+104,35,2,SemAnom,Mike enjoys his food with some citrus flavour. ,8,35SemAnom.wav,"At breakfast, Mike grabs a lemon-shapped bottle and poures some honey over his pancakes.",14,10,4,Does Mike eat pancakes\n for breakfast?,Yes
+105,35,3,Critical,Mike purchased some wimsically packaged produce from the bee-keeping farm yesterday.    ,11,35Critical.wav,"At breakfast, Mike grabs a lemon-shapped bottle and poures some honey over his pancakes.",14,10,1,Did Mike purchase\n this honey last month?,No
+106,36,1,Control,It was a long day for Dan with a large number of meetings.,13,36Control.wav,Dan came home very sleepy and went to bed early. ,10,9,2,Was it a busy day for Dan?,Yes
+107,36,2,SemAnom,Dan learned about being promoted.,5,36SemAnom.wav,Dan came home very excited and went to bed early. ,10,9,3,Was Dan promoted?,Yes
+108,36,3,Critical,Dan had an early flight to Paris next morning.  ,9,36Critical.wav,Dan came home very excited and went to bed early. ,10,9,4,Did Dan go to bed early?,Yes
+109,37,1,Control,Jane's bedroom is very well decorated. ,6,37Control.wav,Jane's bed has several small pillows and a comforter.   ,9,6,1,Does Jane like big pillows?,No
+110,37,2,SemAnom,"By accident, Jane backed her car up into a garage door. ",11,37SemAnom.wav,Jane's car has several small pillows and a comforter.   ,9,6,2,Does Jane have some\n pillows in her car?,Yes
+111,37,3,Critical,Jane often takes naps in her car.,7,37Critical.wav,Jane's car has several small pillows and a comforter.   ,9,6,3,Does Jane have some\n pillows in her car?,Yes
+112,38,1,Control,John was stopped by a police officer on the highway.,10,38Control.wav,The man was going too fast in the car that day.,11,9,4,Was John stopped\n by a police officer?,Yes
+113,38,2,SemAnom,John owns a greyhound who loves running and chasing other dogs.,11,38SemAnom.wav,The dog was going too fast in the car that day.,11,9,1,Does John own a greyhound?,Yes
+114,38,3,Critical,A dog that was trained by the clown to operate vehicles was a part of the circus show.,18,38Critical.wav,The dog was going too fast in the car that day.,11,9,2,Was the dog a part\n of the circus show?,Yes
+115,39,1,Control,Daniel had many guests attending his birthday party.,8,39Control.wav,Daniel was interacting with the guests at the party.,9,6,3,Was Daniel interacting with\n anyone at the party?,Yes
+116,39,2,SemAnom,"Daniel, a zoologist, was observing the behavior of monkeys in the wild.",12,39SemAnom.wav,The monkey was interacting with the guests at the party.,10,7,4,Was there a clown\n at the party?,No
+117,39,3,Critical,Daniel was dressed up as a monkey for Halloween.,9,39Critical.wav,The monkey was interacting with the guests at the party.,10,7,1,Did this event\n occur at the zoo?,No
+118,40,1,Control,Mary was taking an overnight flight. ,6,40Control.wav,The flight attendant was serving drinks on the plane to Seattle.,11,9,2,Was the flight\n going to Detroit?,No
+119,40,2,SemAnom,There was a huge bbq party at my neighbour's place.,10,40SemAnom.wav,My neighbour was serving drinks on the plane to Seattle.,10,8,3,Was it a bbq party?,No
+120,40,3,Critical,My neighbour works as a flight attendant.,7,40Critical.wav,My neigbour was serving drinks on the plane to Seattle.,10,8,4,Did the neighbor serve\n drinks on the boat?,No
+121,41,1,Control,Mary was attending a funeral ceremony at the church.,9,41Control.wav,Mary had on a black shirt and a skirt for the occasion.  ,12,9,1,Was Mary attending\n a funeral ceremony?,Yes
+122,41,2,SemAnom,Mark was attending a formal meeting with his potential business partners.,11,41SemAnom.wav,Mark had on a black shirt and a skirt for the occasion.  ,12,9,2,Was Mark attending\n a business meeting?,Yes
+123,41,3,Critical,Mark was Scottish and often wore his traditional kilt costume to parties.,12,41Critical.wav,Mark had on a black shirt and a skirt for the occasion.  ,12,9,3,Did Mark wear pants?,No
+124,42,1,Control,Kelly has a new pet rabbit.,6,42Control.wav,The rabbit's favorite foods are carrots and cabbage.,8,6,4,Has Kelly had this\n pet for a long time?,No
+125,42,2,SemAnom,Kelly has a new pet cat.,6,42SemAnom.wav,The cat's favorite foods are carrots and cabbage.,8,6,1,Does the cat like\n veggies?,Yes
+126,42,3,Critical,Kelly's cat enjoys eating veggies.,5,42Critical.wav,The cat's favorite foods are carrots and cabbage.,8,6,2,Does the cat have\n unusual eating habits?,Yes
+127,43,1,Control,It was a happy day for the bride and the groom.,11,43Control.wav,Thomas wore a nice suite to the wedding yesterday.,9,8,3,Did Thomas wear\n a suit to the wedding?,Yes
+128,43,2,SemAnom,Thomas was very excited about the upcoming game.,8,43SemAnom.wav,Thomas wore a hockey jersey to the wedding yesterday.,9,8,4,Did Thomas wear\n a suit to the wedding?,No
+129,43,3,Critical,The bride and groom decided to have a hockey-themed celebration.,10,43Critical.wav,Thomas wore a hockey jersey to the wedding yesterday.,9,8,1,Are bride and groom\n likely to be hockey fans?,Yes
+130,44,1,Control,The hotel had a nice outdoor aquatic area with a pool and water slides. ,14,44Control.wav,"On this hot summer day, many guests went for a swim outside.",12,11,2,Is the pool located\n indoors in this hotel?,No
+131,44,2,SemAnom,It was an unusually cold winter for Masachussetts.,8,44SemAnom.wav,"On this cold winter day, many guests went for a swim outside.",12,11,3,Was it unusually\n warm that day?,No
+132,44,3,Critical,There was a heated outdoor pool at the hotel.,9,44Critical.wav,"On this cold winter day, many guests went for a swim outside.",12,11,4,Did the guests\n swim inside?,No
+133,45,1,Control,Sarah was enjoying the view of the starry sky.,9,45Control.wav,The stars shone brightly that night in the sky.,9,6,1,Could one see\n the stars that night?,Yes
+134,45,2,SemAnom,Sarah was looking at the clear sky.,7,45SemAnom.wav,The sun shone brightly that night in the sky.,9,6,2,Were the skies clear?,Yes
+135,45,3,Critical,Sarah was looking at a fluorescent sun sticker that she attached to her bedroom wall.,15,45Critical.wav,The sun shone brightly that night in the sky.,9,6,3,Were there posters\n on the walls of the bedroom?,No
+136,46,1,Control,Joseph learned that the weather forcast was not very favourable. ,10,46Control.wav,Joseph grabbed the umbrella because it was raining outside.,9,8,4,Did meteorologists say that\n it would be a sunny day?,No
+137,46,2,SemAnom,Joseph was in a hurry to an important business meeting.,10,46SemAnom.wav,Joseph grabbed the bag because it was raining outside.,9,8,1,Was Joseph going for a date?,No
+138,46,3,Critical,Joseph forgot his umbrella at home and decided to use a plastic bag instead.,14,46Critical.wav,Joseph grabbed the bag because it was raining outside.,9,8,2,Did Joseph have an umbrella?,No
+139,47,1,Control,There were many patients in the hospital.,7,47Control.wav,The nurse administered several injections that day.,7,5,3,Did the nurse administer\n CPR that day?,No
+140,47,2,SemAnom,The brigade members were practicing their combat skills.,8,47SemAnom.wav,The soldier administered several injections that day.,7,5,4,Did the soldier administer\n CPR that day?,No
+141,47,3,Critical,A soldier was the only person with medical experience on the plane. ,12,47Critical.wav,The soldier administered several injections that day.,7,5,1,Was it the nurse who provided\n some medical care that day?,No
+142,48,1,Control,Amanda is a renowned lawyer in her city.,8,48Control.wav,Amanda wears a suit to work every day.,8,6,2,Does Amanda wear\n formal attire to work?,Yes
+143,48,2,SemAnom,Amanda is working as a secretary at a law company.,10,48SemAnom.wav,Amanda wears a swimsuit to work every day.,8,6,3,Does Amanda work\n as a secretary?,Yes
+144,48,3,Critical,Amanda is a swimming instructor at the local pool.,9,48Critical.wav,Amanda wears a swimsuit to work every day.,8,6,4,Does Amanda swim\n everyday?,Yes
+145,49,1,Control,Mark prefers tea to coffee. ,5,49Control.wav,Mark has tea with honey every night. ,7,5,1,Does Mark have\n sugar in his tea?,No
+146,49,2,SemAnom,Mark comes home at 6 pm from work. ,8,49SemAnom.wav,Mark has beer with honey every night. ,7,5,2,Does Mark a beer drinker?,Yes
+147,49,3,Critical,Mark tends to put some natural sweeteners into his alcoholic drinks.,11,49Critical.wav,Mark has beer with honey every night. ,7,5,3,Does Mark a beer drinker?,Yes
+148,50,1,Control,Tami is one of the leading florists in the shop.,10,50Control.wav,Tami made a bouqet out of flowers for her client.,10,7,4,Does Tami have a lot\n of experience as a florist?,Yes
+149,50,2,SemAnom,Tami is designing a business costume. ,6,50SemAnom.wav,Tami made a hat out of flowers for her client.,10,7,1,Does Tami make\n business costumes?,Yes
+150,50,3,Critical,"In Tami's floral shop, Jane ordered a very unusual headware. ",10,50Critical.wav,Tami made a hat out of flowers for her client.,10,7,2,Was the hat made of felt?,No
+151,51,1,Control,Mark and Peter have been friends since high school.,9,51Control.wav,The friends were having beer and chips while watching the game.,11,7,3,Did the friends watch\n the horror movie?,No
+152,51,2,SemAnom,Mark and Peter had some high tea in an upscale restaurant.,11,51SemAnom.wav,The friends were having tea and chips while watching the game.,11,7,4,Did the friends watch\n the horror movie?,No
+153,51,3,Critical,Mark came to his friend to watch some football and brought a bag of Lays with him. ,17,51Critical.wav,The friends were having tea and chips while watching the game.,11,7,1,Did the friends watch\n the horror movie?,No
+154,52,1,Control,A beautiful canary was sitting on a branch of an apple tree. ,12,52Control.wav,The bird was cleaning its feathers when Bob saw it.    ,10,6,2,Was the bird siting\n on a tree branch?,Yes
+155,52,2,SemAnom,A girl was getting ready for a day of work. ,10,52SemAnom.wav,The girl was cleaning her feathers when Bob saw her.    ,10,6,3,Was the girl getting\n ready for work?,Yes
+156,52,3,Critical,A girl dressed up as a canary for the play.,10,52Critical.wav,The girl was cleaning her feathers when Bob saw her.    ,10,6,4,Was the girl dressed\n up as a canary?,Yes
+157,53,1,Control,"In the forest, Jake saw a bald eagle, a rare species of bird. ",13,53Control.wav,The bird was sitting on a tree high above the ground. ,11,7,1,Was the bird sitting\n on a fence?,No
+158,53,2,SemAnom,Jake was relaxing after a hard day of work.,9,53SemAnom.wav,The man was sitting on a tree high above the ground. ,11,7,2,Was the man sitting\n on a fence?,No
+159,53,3,Critical, Jake saw a pack of wolves in the forest and decided to hide in a safe place. ,17,53Critical.wav,The man was sitting on a tree high above the ground. ,11,7,3,Was he hiding\n from bears?,No
+160,54,1,Control,Melissa has an adorable hamster in her apartment.  ,8,54Control.wav,Melissa just puts some food into the hamster's cage and leaves.,11,9,4,Does the hamster live\n in Melissa's apartment?,Yes
+161,54,2,SemAnom,Melissa works as a babysitter in the Smiths household.,9,54SemAnom.wav,Melissa just puts some food into the baby's cage and leaves.,11,9,1,Does Melissa work\n as a babysitter?,Yes
+162,54,3,Critical,Melissa kidnapped a baby and kept it in a prison like environment. ,12,54Critical.wav,Melissa just puts some food into the baby's cage and leaves.,11,9,2,Is the baby in the cage?,Yes
+163,55,1,Control,Dan is an avid bird watcher who spends every free minute outside looking for birds.,15,55Control.wav,Dan saw some birds eating bugs and grasshoppers.,8,6,3,Did birds eat\n grasshoppers?,Yes
+164,55,2,SemAnom,Dan was invited to attend a formal reception at the most popular bakery in New York.,16,55SemAnom.wav,Dan saw some women eating bugs and grasshoppers.,8,6,4,Did women eat steak?,No
+165,55,3,Critical,"In many Asian countries, fried insects are a great delicacy.",10,55Critical.wav,Dan saw some women eating bugs and grasshoppers.,8,6,1,Did women eat steak?,No
+166,56,1,Control,Our cat has very strong predatory instincts.,7,56Control.wav,"As a result, our cat likes to chase mice from morning till night.",13,9,2,Does their cat\n spend a lot of time\n chasing rodents?,Yes
+167,56,2,SemAnom,Our dog does not get along with cats very well.,10,56SemAnom.wav,"As a result, our dog likes to chase mice from morning till night.",13,9,3,Is their dog friendly\n to cats?,No
+168,56,3,Critical,The puppy was raised by the cat like a kitten.,10,56Critical.wav,"As a result, our dog likes to chase mice from morning till night.",13,9,4,Was the puppy raised\n by the cat?,Yes
+169,57,1,Control,There was a big sailing show at the fair on the weekend.,12,57Control.wav,The sailors were preparing their boat for the show. ,9,6,1,Were the sailors\n performing in the show?,Yes
+170,57,2,SemAnom,There was a big musical performance at the fair on the weekend.,12,57SemAnom.wav,The musicians were preparing their boat for the show. ,9,6,2,Was the show on\n a weekday?,No
+171,57,3,Critical,The musicains formed a rowing team and decided to take part in a rowing show. ,15,57Critical.wav,The musicians were preparing their boat for the show. ,9,6,3,Were the musicians\n playing on the boat?,No
+172,58,1,Control,John has been cleaning his boat the whole day.,9,58Control.wav,His boat has a shiny anchor now.,7,6,4,Did it take two days\n to clean John's boat?,No
+173,58,2,SemAnom,John is cleaning his house before Easter.,7,58SemAnom.wav,His house has a shiny anchor now.,7,6,1,Does it happen\n before Christmas?,No
+174,58,3,Critical,The former sailsman has decorated his house with many parts of his old boat.,14,58Critical.wav,His house has a shiny anchor now.,7,6,2,Is the anchor dull?,No
+175,59,1,Control,Mary's car stopped in the middle of highway.,8,59Control.wav,Mary opened a car hood and saw a high-tech motor inside.,11,10,3,Was there a motor inside?,Yes
+176,59,2,SemAnom,Mary was deciding what gown to wear to the theater .,11,59SemAnom.wav,Mary opened a closet door and saw a high-tech motor inside.,11,10,4,Was there a motor inside?,Yes
+177,59,3,Critical,Mary's husband redesigned her closet in such a way that the shelves would move automatically.   ,15,59Critical.wav,Mary opened a closet door and saw a high-tech motor inside.,11,10,1,Was there a motor\n inside the closet?,Yes
+178,60,1,Control,Alex purchased a new boat.,5,60Control.wav,Alex will be boating on a lake this summer.,9,7,2,Did Alex get a new boat?,Yes
+179,60,2,SemAnom,Alex got a new snowsuit and a pair of skis.,10,60SemAnom.wav,Alex will be skiing on a lake this summer.  ,9,7,3,Did Alex get a new snowsuit?,Yes
+180,60,3,Critical,Alex enjoys extreme water sports.,5,60Critical.wav,Alex will be skiing on a lake this summer.  ,9,7,4,is Alex fond of water sports?,Yes
+181,61,1,Control,Dog owners often bring treats to their pets.,8,61Control.wav,In this picture you see a dog chewing on a bone with great pleasure.,14,11,1,Is the dog chewing\n on the bone?,Yes
+182,61,2,SemAnom,Teething is a painful time for babies.,7,61SemAnom.wav,In this picture you see a baby chewing on a bone with great pleasure.,14,11,2,Is the dog chewing\n on the pacifier?,No
+183,61,3,Critical,"In pre-historic times, animal parts that were not good for eating were given to children to play with.  ",18,61Critical.wav,In this picture you see a baby chewing on a bone with great pleasure.,14,11,3,Is the baby playing\n with the bone?,No
+184,62,1,Control,"During the school break, children went to the National Museum of Natural History.",13,62Control.wav,"At the dinosaur exposition, the kids saw many bones of different sizes.",12,9,4,Did the children go to\n the Museum of Natural Science?,No
+185,62,2,SemAnom,"During the school break, chldren went to the botanical garden.",10,62SemAnom.wav,"At the flower exposition, the kids saw many bones of different sizes.",12,9,1,Did the children go\n to the art gallery?,No
+186,62,3,Critical,The art musem prepared a new avangard exposition of flowers made of skeleton parts.,14,62Critical.wav,"At the flower exposition, the kids saw many bones of different sizes.",12,9,2,Were the kids at\n the flower exposition?,Yes
+187,63,1,Control,Breakfast is the main meal of the day for Lucy.,10,63Control.wav,She pours some milk into her cereal and grabs a spoon.,11,7,3,Does she have\n some cereal?,Yes
+188,63,2,SemAnom,Lucy stops for a break during the marathon.,8,63SemAnom.wav,She pours some water into her cereal and grabs a spoon.,11,7,4,Does she have\n some cereal?,Yes
+189,63,3,Critical,"Being lactose intolerant, Lucy always uses water instead of milk in her breakfast foods.",14,63Critical.wav,She pours some water into her cereal and grabs a spoon.,11,7,1,Does she have\n some cereal?,Yes
+190,64,1,Control,"For her birthday, Cindy got a book with many vegan recipes. ",11,64Control.wav,Cindy takes the book and starts reading the recipe.,9,7,2,Is she checking\n a vegan recipe?,Yes
+191,64,2,SemAnom,Cindy has found a picture of her and her friends vacationing in New Zealand.,14,64SemAnom.wav,Cindy takes the photo and starts reading the recipe.,9,7,3,Was the photo taken\n in England?,No
+192,64,3,Critical,Cindy took a picture with her phone of a cake recipe she found in a journal,16,64Critical.wav,Cindy takes the photo and starts reading the recipe.,9,7,4,Was the photo taken\n by Cindy?,Yes
+193,65,1,Control,There are many specialized retailers in this outlet mall.,9,65Control.wav,"In the optical shop, you can purchase glasses and contacts.",10,8,1,Can you buy flowers\n in this shop?,No
+194,65,2,SemAnom,Many new shops have opened in the downtown area.,9,65SemAnom.wav,"In the flower shop, you can purchase glasses and contacts.",10,8,2,Can you buy glasses\n in this shop?,Yes
+195,65,3,Critical,The optical shop was flooded and all its merchandise was moved to a nearby flower shop.,16,65Critical.wav,"In this flower shop, you can purchase glasses and contacts.",10,8,3,Was the optical shop\n burned down?,No
+196,66,1,Control,Everything was ready for the birthday celebration. ,7,66Control.wav,The cake had birthday candles in it.,7,5,4,Were they celebrating\n a birthday?,Yes
+197,66,2,SemAnom,Anna received a postcard from her German friend this morning.,10,66SemAnom.wav,The postcard had birthday candles in it.,7,5,1,Was the postcard\n from Anna's friend?,Yes
+198,66,3,Critical,The cake was baked in the form of a large postcard.,11,66Critical.wav,The postcard had birthday candles in it.,7,5,2,Were the candles\n on the postcard?,Yes
+199,67,1,Control,"At the British Museum, we purchased a book titled The Treasure of Impressionism.",13,67Control.wav,The book was made of the highest quality paper and was very expensive.,13,9,3,Was the book cheap?,No
+200,67,2,SemAnom,"In the British Museum, we saw a coronation dress belonging to Queen Elizabeth II.",14,67SemAnom.wav,The dress was made of the highest quality paper and was very expensive.,13,9,4,Was the dress expensive?,Yes
+201,67,3,Critical,The fashion designer used pages from fashion magazines to create his new dress. ,13,67Critical.wav,The dress was made of the highest quality paper and was very expensive.,13,9,1,Was the dress expensive?,Yes
+202,68,1,Control,John was solving a crossword puzzle.,6,68Control.wav,John opened the dictionary to look up the word that he did not know.,14,9,2,Did he look for the word\n in the thesaurus?,No
+203,68,2,SemAnom,John is expecting some guest tonight and decides to make lemon chicken for them.,14,68SemAnom.wav,John opened the cookbook to look up the word that he did not know.,14,9,3,Does John want\n to make sushi?,No
+204,68,3,Critical,John's cookbook has a glossary containing names of many exotic ingredients and brief descriptions of what they are.,18,68Critical.wav,John opened the cookbook to look up the word that he did not know.,14,9,4,Does the cookbook\n have a glossary?,Yes
+205,69,1,Control,The fate of a writer changed overnight.,7,69Control.wav,The writer became famous when his new book hit the shelves.  ,11,8,1,Did the writer release\n a new book?,Yes
+206,69,2,SemAnom,Larry Black is a talented singer with great passion for music.,11,69SemAnom.wav,The singer became famous when his new book hit the shelves.  ,11,8,2,Did the singer release\n a new book?,Yes
+207,69,3,Critical,A singer from a small town wrote a book about his encounter with the Beatles.,15,69Critical.wav,The singer became famous when his new book hit the shelves.  ,11,8,3,Was the book about\n an encounter with\n the Beatles?,Yes
+208,70,1,Control,Nick was preparing a report for his history class.,9,70Control.wav,Nick decided to get some books from the school's library at the end of the school day.  ,17,10,4,Was the report for\n his English class?,No
+209,70,2,SemAnom,Nick realized that he was very hungry.,7,70SemAnom.wav,Nick decided to get some snacks from the school's library  at the end of the school day.  ,17,10,1,Was Nick thirsty?,No
+210,70,3,Critical,The librarians organized a Halloween party for their patrons.,9,70Critical.wav,Nick decided to get some snacks from the school's library  at the end of the school day.  ,17,10,2,Was Nick at the Christmas party?,No
+211,71,1,Control,John received a book written by his favorite author as his birthday present.,13,71Control.wav,John put the new book on the bookshelf in the living room.,12,8,3,Is the bookshelf\n in the livingroom?,Yes
+212,71,2,SemAnom,John purchased an orthopedic pillow that has memory foam inside.,10,71SemAnom.wav,John put the new pillow on the bookshelf in the livingroom.,11,8,4,Is the bookshelf\n in the livingroom?,Yes
+213,71,3,Critical,John has a collection of miniature decorative pillows that he keeps next to his books.,15,71Critical.wav,John put the new pillow on the bookshelf in the livingroom.,11,8,1,Is the bookshelf\n in the livingroom?,Yes
+214,72,1,Control,"John, a builder, is on his way to work.",9,72Control.wav,The builder is heading to the construction site.,8,7,2,Is the builder heading\n to the construction site?,Yes
+215,72,2,SemAnom,"John, a librarian, is on his way to work.",9,72SemAnom.wav,The librarian is heading to the construction site.,8,7,3,Is John a librarian?,Yes
+216,72,3,Critical,A new library is being erected in the downtown Boston.,10,72Critical.wav,The librarian is heading to the construction site.,8,7,4,Is the library in Cambridge?,No
+217,73,1,Control,Safety is the main priority for this construction company.,9,73Control.wav,Builders are required to wear helmets on the construction site.,10,6,1,Can the builders wear\n baseball hats?,No
+218,73,2,SemAnom,Hygiene and infection control standards are very high in St. Michaels Hospital.,12,73SemAnom.wav,Nurses are required to wear helmets on the construction site.,10,6,2,Is St. Michaels Hospital\n known for its\n poor hygiene?,No
+219,73,3,Critical,A group of nurses tours the construction site of a new hospital. ,12,73Critical.wav,Nurses are required to wear helmets on the construction site.,10,6,3,Are they building\n a new hospital?,Yes
+220,74,1,Control,Nathan was looking at a picture of a beautiful girl.,10,74Control.wav,The girl's lips were red and her skin was pale.,10,5,4,Did he think the girl\n was ugly?,No
+221,74,2,SemAnom,Nathan's daughter was one of the most attractive girls in their village.,12,74SemAnom.wav,The girl's eyes were red and her skin was pale. ,10,5,1,Does Nathan\n have a daughter?,Yes
+222,74,3,Critical,A little girl stayed home alone and watched TV for ten hours.,12,74Critical.wav,The girls eyes were red and her skin was pale. ,10,5,2,Was the girl's skin pale?,Yes
+223,75,1,Control,"In the hallway, the kids broke a pot containg the palm tree. ",12,75Control.wav,The servant was cleaning the floors in a hurry.,9,6,3,Did the kids break\n a pot with the plant?,Yes
+224,75,2,SemAnom,A princess starts every morning with the same beauty routine,10,75SemAnom.wav,The princess was cleaning the floors in a hurry.,9,6,4,Did the princess clean\n windows?,No
+225,75,3,Critical,The pirates captured a princess and made her do all the house chores.,13,75Critical.wav,The princess was cleaning the floors in a hurry.,9,6,1,Were the floors being\n cleaned by a maid?,No
+226,76,1,Control,Mary put the flowers into the vase.,7,76Control.wav,The vase is made of glass and is very fragile.,10,6,2,Is the vase made of glass?,Yes
+227,76,2,SemAnom,Mary purchased a toy car for her 2 year old son.,11,76SemAnom.wav,The car is made of glass and is very fragile.,10,6,3,Is the car made of metal?,No
+228,76,3,Critical,Mary purchased a Swarovski Christmas decoration that looks like a mini car.,12,76Critical.wav,The car is made of glass and is very fragile.,10,6,4,Is the car made of metal?,No
+229,77,1,Control,Dan is very proud of his pet bird.,8,77Control.wav,Dan's parrot is smart enough to open the cage's lock without any trouble.,13,10,1,Does Dan own\n a highly-intelligent bird?,Yes
+230,77,2,SemAnom,Dan's parrot often steals treats from the fridge.,8,77SemAnom.wav,Dan's parrot is smart enough to open the fridge's lock without any trouble.,13,10,2,Does Dan own\n a highly-intelligent bird?,Yes
+231,77,3,Critical,A key is needed to open Dan's fridge.,8,77Critical.wav,Dan's parrot is smart enough to open the fridge's lock without any trouble.,13,10,3,Does Dan own\n a highly-intelligent bird?,Yes
+232,78,1,Control,Nancy is fond of elephants and zebras.,7,78Control.wav,"In order to see the animlas, Nancy went to the zoo with her mother.",14,11,4,Are elephants and lions\n Nancy's favorite animals?,No
+233,78,2,SemAnom,Nancy has heard a lot about Mona Lisa and The Last Supper by da Vinci.,15,78SemAnom.wav,"In order to see the paintings, Nancy went to the zoo with her mother.",14,11,1,Did Nancy want to see\n the paintings by Van Gogh?,No
+234,78,3,Critical,Paintings of animals by a famous artist were exhibited next to the cages with animals. ,15,78Critical.wav,"In order to see the paintings, Nancy went to the zoo with her mother.",14,11,2,Did Nancy go to\n the zoo with her daughter?,No
+235,79,1,Control,Berta was preparing for the party.,6,79Control.wav,Berta put some icing on the cake as a decoration.,10,7,3,Did Berta have any\n icing on the cake?,Yes
+236,79,2,SemAnom,Berta was making breakfast for her kids.,7,79SemAnom.wav,Berta put some eggs on the cake as a decoration.  ,10,7,4,Was Berta baking\n for her kids?,Yes
+237,79,3,Critical,Berta was baking a desert for Easter.,7,79Critical.wav,Berta put some eggs on the cake as a decoration.  ,10,7,1,Did Berta make roses\n as decoration?,No
+238,80,1,Control,Elsa was serving some cake to her guests.,8,80Control.wav,She put a piece of cake on the plate for Jim.,11,9,2,Were they having\n cake for dessert?,Yes
+239,80,2,SemAnom,Elsa was showing Jim her collection of semi precious stones.,10,80SemAnom.wav,She put a piece of rock on the plate for Jim.,11,9,3,Does Elsa have a collection\n of precious stones?,No
+240,80,3,Critical,The girl was making mudpies out of rocks and sand. ,10,80Critical.wav,She put a piece of rock on the plate for Jim.,11,9,4,Was she making\n mudpies with the rocks?,Yes
+241,81,1,Control,Nick turns seven today.,4,81Control.wav,Mom purchased a big cake for the bithrday party.,9,8,1,Did mom get a cake\n for the party?,Yes
+242,81,2,SemAnom,Many family members will come to Nick's house for Christmas.,10,81SemAnom.wav,Mom purchased a Christmas tree for the bithrday party.,9,8,2,Did mom get a Christmas\n tree for the party?,Yes
+243,81,3,Critical,Nick was born on Christmas day. ,6,81Critical.wav,Mom purchased a Christmas tree for his bithrday party.,9,8,3,Was Nick born\n on Christmas day?,Yes
+244,82,1,Control,"For desert, Ryan ordered a piece of carrot cake.",9,82Control.wav,Ryan was eating the cake with a fork and knife.,10,8,4,Did Ryan have a piece\n of velvet cake?,No
+245,82,2,SemAnom,Ryan purchased a blizzard at Dairy Queen.,7,82SemAnom.wav,Ryan was eating the ice cream with a fork and knife.,11,9,1,Was ice cream purchased\n at Dairy Queen?,Yes
+246,82,3,Critical,Ice cream was so frozen that Ryan could not scoop any out with a spoon.,15,82Critical.wav,Ryan was eating the ice cream with a fork and knife.,11,9,2,Was Ryan eating\n ice cream?,Yes
+247,83,1,Control,Mary took her kids to the zoo to see a camel and a giraffe.,14,83Control.wav,The kids noticed that the camel had a large hump and a long tail. ,14,10,3,Did the kids go\n see the giraffes\n and the hippos?,No
+248,83,2,SemAnom,The kids were playing with Mary's labrador.,7,83SemAnom.wav,The kids noticed that the dog had a large hump and a long tail. ,14,10,4,Was the dog's tail short?,No
+249,83,3,Critical,Mary dressed her pet dog as a camel for Halloween.,10,83Critical.wav,The kids noticed that the dog had a large hump and a long tail. ,14,10,1,Was the dog's tail short?,No
+250,84,1,Control,A group of camels was used to transport precious water to oil drilling stations.,14,84Control.wav,The camels were travelling through the desert slowly.,8,7,2,Were the camels travelling\n through the desert?,Yes
+251,84,2,SemAnom,"In search for food, a family of monkeys moved to a land with abundant vegetation.",15,84SemAnom.wav,The monkeys were travelling through the desert slowly.,8,7,3,Were the monkeys travelling\n through the desert?,Yes
+252,84,3,Critical,Wild fires pushed a family of monkeys on to the territory of the Sahara.,14,84Critical.wav,The monkeys were travelling through the desert slowly.,8,7,4,Were the monkeys being chased\n by a predator?,No
+253,85,1,Control,Ted purchased some candles and candleholders at the crafts fair.,10,85Control.wav,The Easter candles were made of high quality wax and could burn for 5 hours.,15,9,1,Can these candles burn\n for more than 3 hours?,Yes
+254,85,2,SemAnom,Ted purchased some Christmas ornaments that were very fragile.,9,85SemAnom.wav,The Christmas ornaments were made of high quality wax and could burn for 5 hours.,15,9,2,Is it easy to break\n Christmas ornaments\n that Ted purchased?,Yes
+255,85,3,Critical,Ted purchased some Christmas ornaments that could also be used as candles.,12,85Critical.wav,The Christmas ornaments were made of high quality wax and could burn for 5 hours.,15,9,3,Could Christmas ornaments\n be used as candles?,Yes
+256,86,1,Control,Nancy knows that her son has a sweet tooth.,9,86Control.wav,Nancy's yongest son enjoys eating candy most of all. ,9,6,4,Is ice-cream his favorite treat?,No
+257,86,2,SemAnom,Nancy is very fond of her goldfish and takes good care of it.,13,86SemAnom.wav,Nancy's goldfish enjoys eating candy most of all. ,8,5,1,Does Nancy take\n good care of her fish?,Yes
+258,86,3,Critical,Nancy's son dropped tiny pieces of peanut butter cups into a fishtank.,12,86Critical.wav,Nancy's goldfish enjoys eating candy most of all. ,8,5,2,Does the goldfish\n eat peanut butter cups?,Yes
+259,87,1,Control,Tina is leaving home for work.,6,87Control.wav,"Tina looked into her bag seaching for the car key, without any success.",13,10,3,Is Tina going to a party?,No
+260,87,2,SemAnom,Tina is waiting for a bus at a bus stop.,10,87SemAnom.wav,"Tina looked into her bag seaching for the bus key, without any success.",13,10,4,Did Tina find the bus key?,No
+261,87,3,Critical,"Tina, a bus driver, cannot start her shift on time.",10,87Critical.wav,"Tina looked into her bag seaching for the bus key, without any success.",13,10,1,Did Tina find the bus key?,No
+262,88,1,Control,Larry is very fond of his red Ferrarri.,8,88Control.wav,The car is placed in the garage overnight.,8,7,2,Is the car outside\n in the driveway?,No
+263,88,2,SemAnom,Larry's son is very fond of his new puppy.,9,88SemAnom.wav,The puppy is placed in the garage overnight.,8,7,3,Was the puppy in the house?,No
+264,88,3,Critical,"Larry hid a puppy, a surprise birthday gift for his son, next to the car for one night.   ",18,88Critical.wav,The puppy is placed in the garage overnight.,8,7,4,Was the puppy inside the car?,No
+265,89,1,Control,The king summoned the knights before an important battle.,9,89Control.wav,The knights gathered in the castle to hear the king's speech. ,11,6,1,Were the knights\n waiting for the queen?,No
+266,89,2,SemAnom,A group of astronauts was about to start their expedition to Mars.,12,89SemAnom.wav,The astronauts gathered in the castle to hear the king's speech. ,11,6,2,Were the astronauts preparing\n for an expedition to Moon?,No
+267,89,3,Critical,A group of astronauts went to the Royal Medieval Faire to have some fun.,14,89Critical.wav,The astronauts gathered in the castle to hear the king's speech. ,11,6,3,Were the astronauts at\n the Royal Medieval Faire?,Yes
+268,90,1,Control,The Tower of London is one of the oldest castles in London.,12,90Control.wav,The old castle belonged to the king of England.,9,7,4,Is the Tower of London\n the oldest castle in London?,Yes
+269,90,2,SemAnom,This drugstore is open for 24 hours 7 days a week.,11,90SemAnom.wav,The drugstore belongs to the king of England.,8,6,1,Is this store closed\n on Sunday?,No
+270,90,3,Critical,Richard I transformed one of his castles into the first drugstore in England.,13,90Critical.wav,The drugstore belonged to the king of England.,8,6,2,Did this drugstore\n belong to the teacher?,No
+271,91,1,Control,My pet cat was a big coward.,7,91Control.wav,The cat was afraid to leave the house even for a second.,12,8,3,Was his cat brave?,No
+272,91,2,SemAnom,One of the swines that we kept on our farm never ventured outside.,13,91SemAnom.wav,The pig was afraid to leave the house even for a second.,12,8,4,Did the pig ever leave\n the house?,No
+273,91,3,Critical,My daugter owned a cute mini pig as a pet. ,10,91Critical.wav,The pig was afraid to leave the house even for a second.,12,8,1,Did the pig ever leave\n the house?,No
+274,92,1,Control,Mike is figuring out what products have high content of lactose.,11,92Control.wav,Mike learned that milk is the main ingredient in the cheese that he bought. ,14,11,2,Did Mike buy yoghurt?,No
+275,92,2,SemAnom,The doctors advised Mike to cut down on the consumption of rice and other carbohydrates. ,15,92SemAnom.wav,Mike learned that rice is the main ingredient in the cheese that he bought. ,14,11,3,Did Mike buy cheese?,No
+276,92,3,Critical,Daya Company uses rice milk to produce lactose-free dairy products.,10,92Critical.wav,Mike learned that rice is the main ingredient in the cheese that he bought. ,14,11,4,Does Daya use rice milk\n in its products?,Yes
+277,93,1,Control,Rodents are known to be attracted to cheese products.,9,93Control.wav,Robert put a piece of cheese in the trap to catch the mouse. ,13,9,1,Did Robert have a rodent\n living in his house?,Yes
+278,93,2,SemAnom,Robert finished his report and was about to print it.,10,93SemAnom.wav,Robert put a piece of paper in the trap to catch the mouse. ,13,9,2,Was Robert ready to\n print his report?,Yes
+279,93,3,Critical,Robert noticed that a mouse living in his house was snatching paper.,12,93Critical.wav,Robert put a piece of paper in the trap to catch the mouse. ,13,9,3,Did Robert put a piece of cheese\n in the trap?,No
+280,94,1,Control,Many tourists come to Paris to taste food prepared by Kyle Jacobs.,12,94Control.wav,The famous sous chef works at the popular restaurant in Paris.,11,9,4,Is restaurant where Kyle Jacobs\n works popular?,Yes
+281,94,2,SemAnom,Many tourists come to Paris to attend Kyle Jacobs' performance.,10,94SemAnom.wav,The famous opera singer works at the popular restaurant in Paris.,11,9,1,Is singer's name George?,No
+282,94,3,Critical,"Kyle Jacobs, a world-known singer, turned his passion of cooking into a business.",13,94Critical.wav,The famous opera singer works at the popular restaurant in Paris.,11,9,2,Is singer's name George?,No
+283,95,1,Control,Linda noticed that her dog was feeble and refused to eat. ,11,95Control.wav,"Linda broght her sick dog to a vet, hoping for some help.",12,8,3,Did Linda's dog refuse to eat?,Yes
+284,95,2,SemAnom,Linda's daughter had a high fever and kept coughing through the night.,12,95SemAnom.wav,"Linda broght her sick daughter to a vet, hoping for some help.",12,8,4,Did Linda bring her\n daughter to the vet?,Yes
+285,95,3,Critical,"In the small, distant village, an animal clinic was the only medical facility.",13,95Critical.wav,"Linda broght her sick daughter to a vet, hoping for some help.",12,8,1,Did Linda bring her\n daughter to the vet?,Yes
+286,96,1,Control,The circus pitched its tent in the middle of the town.,11,96Control.wav,Many people went to the circus to see clowns and acrobats.,11,9,2,Was the circus located\n in the suburbs?,No
+287,96,2,SemAnom,"In a small town, the church was the only place where people convened on a regular basis.",17,96SemAnom.wav,Many people went to the church to see clowns and acrobats.,11,9,3,Did people go to\n the church  to attend\n a Sunday service?,No
+288,96,3,Critical,The circus gave its performance in the building of an old church,12,96Critical.wav,Many people went to the church to see clowns and acrobats.,11,9,4,Was the circus held\n in a theater?,No
+289,97,1,Control,the kids noticed a brightly dressed clown crossing the street.,10,97Control.wav,The clown's nose was red and he had a yellow wig on.,12,5,1,Was his wig pink?,No
+290,97,2,SemAnom,The dentist had difficulty breathing due to a cold.,9,97SemAnom.wav,The dentist's nose was red and he had a yellow wig on.,12,5,2,Was his wig pink?,No
+291,97,3,Critical,The dentist dressed up as a clown to entartain his patients.,11,97Critical.wav,The dentist's nose was red and he had a yellow wig on.,12,5,3,Was his wig pink?,No
+292,98,1,Control,Drinking coffee helps Steve to wake up and stay alert.,10,98Control.wav,Steve has a cup of coffee every morning on his way to work.,13,8,4,Does coffee help\n Steve to boost\n his energy?,Yes
+293,98,2,SemAnom,Drinking beer helps Steve to calm down and relax after a hard day of work.,15,98SemAnom.wav,Steve has a glass of beer every morning on his way to work.,13,8,1,Does beer help\n Steve to boost\n his energy?,No
+294,98,3,Critical,Steve believes that the best way to start the day is to have some beer.,15,98Critical.wav,Steve has a glass of beer every morning on his way to work.,13,8,2,Does beer help\n Steve to boost\n his energy?,Yes
+295,99,1,Control,The Smiths will spend their vacation in Europe.,8,99Control.wav,It is often hot and sunny in summer there.,9,8,3,Does it rain often\n there in summer?,No
+296,99,2,SemAnom,The Smiths decided to spend their Christmas in London.,9,99SemAnom.wav,It is often cold and snowing in summer there.,9,8,4,Is snow a rare event there?,No
+297,99,3,Critical,"In Australia, winter is the warmest out of the four seasons.",11,99Critical.wav,It is often cold and snowing in summer there.,9,8,1,Is snow a rare event there?,No
+298,100,1,Control,Henry VIII's crown can be seen at the British Museum.,10,100Control.wav,The crown is made of gold and decorated with diamonds.,10,6,2,Is the crown made of silver?,No
+299,100,2,SemAnom,Mary purchased her baby boy's first shoes.,7,100SemAnom.wav,The shoes are made of gold and decorated with diamonds.,10,6,3,Did Mary purchase\n shoes for herself?,No
+300,100,3,Critical,Jewelry makers created special shoes for the Queen.,8,100Critical.wav,The shoes are made of gold and decorated with diamonds.,10,6,4,Were these shoes\n made for the King?,No
+,,,,,,,,10.52666667,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

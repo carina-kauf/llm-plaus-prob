@@ -1,0 +1,1565 @@
+"ItemNum","Sentence","Plausibility","Voice","TrialType","SynonymPair","NumSyn"
+"1","The raider caught the illness.","Plausible","active","AI",1,"Version1"
+"1","The illness caught the raider.","Implausible","active","AI",1,"Version1"
+"1","The illness was caught by the raider.","Plausible","passive","AI",1,"Version1"
+"1","The raider was caught by the illness.","Implausible","passive","AI",1,"Version1"
+"2","The marauder contracted the disease.","Plausible","active","AI",1,"Version2"
+"2","The disease contracted the marauder.","Implausible","active","AI",1,"Version2"
+"2","The disease was contracted by the marauder.","Plausible","passive","AI",1,"Version2"
+"2","The marauder was contracted by the disease.","Implausible","passive","AI",1,"Version2"
+"3","The convict dreaded the prison.","Plausible","active","AI",2,"Version1"
+"3","The prison dreaded the convict.","Implausible","active","AI",2,"Version1"
+"3","The prison was dreaded by the convict.","Plausible","passive","AI",2,"Version1"
+"3","The convict was dreaded by the prison.","Implausible","passive","AI",2,"Version1"
+"4","The criminal feared the jail.","Plausible","active","AI",2,"Version2"
+"4","The jail feared the criminal.","Implausible","active","AI",2,"Version2"
+"4","The jail was feared by the criminal.","Plausible","passive","AI",2,"Version2"
+"4","The criminal was feared by the jail.","Implausible","passive","AI",2,"Version2"
+"5","The prostitute squandered the cash.","Plausible","active","AI",3,"Version1"
+"5","The cash squandered the prostitute.","Implausible","active","AI",3,"Version1"
+"5","The cash was squandered by the prostitute.","Plausible","passive","AI",3,"Version1"
+"5","The prostitute was squandered by the cash.","Implausible","passive","AI",3,"Version1"
+"6","The call girl wasted the money.","Plausible","active","AI",3,"Version2"
+"6","The money wasted the call girl.","Implausible","active","AI",3,"Version2"
+"6","The money was wasted by the call girl.","Plausible","passive","AI",3,"Version2"
+"6","The call girl was wasted by the money.","Implausible","passive","AI",3,"Version2"
+"7","The adventurer requested the beverage.","Plausible","active","AI",NA,NA
+"7","The beverage requested the adventurer.","Implausible","active","AI",NA,NA
+"7","The beverage was requested by the adventurer.","Plausible","passive","AI",NA,NA
+"7","The adventurer was requested by the beverage.","Implausible","passive","AI",NA,NA
+"8","The undertaker prepared the funeral.","Plausible","active","AI",4,"Version1"
+"8","The funeral prepared the undertaker.","Implausible","active","AI",4,"Version1"
+"8","The funeral was prepared by the undertaker.","Plausible","passive","AI",4,"Version1"
+"8","The undertaker was prepared by the funeral.","Implausible","passive","AI",4,"Version1"
+"9","The mortician arranged the burial.","Plausible","active","AI",4,"Version2"
+"9","The burial arranged the mortician.","Implausible","active","AI",4,"Version2"
+"9","The burial was arranged by the mortician.","Plausible","passive","AI",4,"Version2"
+"9","The mortician was arranged by the burial.","Implausible","passive","AI",4,"Version2"
+"10","The supervisor supplied the liquor.","Plausible","active","AI",5,"Version1"
+"10","The liquor supplied the supervisor.","Implausible","active","AI",5,"Version1"
+"10","The liquor was supplied by the supervisor.","Plausible","passive","AI",5,"Version1"
+"10","The supervisor was supplied by the liquor.","Implausible","passive","AI",5,"Version1"
+"11","The overseer provided the alcohol.","Plausible","active","AI",5,"Version2"
+"11","The alcohol provided the overseer.","Implausible","active","AI",5,"Version2"
+"11","The alcohol was provided by the overseer.","Plausible","passive","AI",5,"Version2"
+"11","The overseer was provided by the alcohol.","Implausible","passive","AI",5,"Version2"
+"12","The troublemaker crashed the car.","Plausible","active","AI",6,"Version1"
+"12","The car crashed the troublemaker.","Implausible","active","AI",6,"Version1"
+"12","The car was crashed by the troublemaker.","Plausible","passive","AI",6,"Version1"
+"12","The troublemaker was crashed by the car.","Implausible","passive","AI",6,"Version1"
+"13","The hooligan wrecked the vehicle.","Plausible","active","AI",6,"Version2"
+"13","The vehicle wrecked the hooligan.","Implausible","active","AI",6,"Version2"
+"13","The vehicle was wrecked by the hooligan.","Plausible","passive","AI",6,"Version2"
+"13","The hooligan was wrecked by the vehicle.","Implausible","passive","AI",6,"Version2"
+"14","The repairman fixed the tap.","Plausible","active","AI",7,"Version1"
+"14","The tap fixed the repairman.","Implausible","active","AI",7,"Version1"
+"14","The tap was fixed by the repairman.","Plausible","passive","AI",7,"Version1"
+"14","The repairman was fixed by the tap.","Implausible","passive","AI",7,"Version1"
+"15","The handyman repaired the faucet.","Plausible","active","AI",7,"Version2"
+"15","The faucet repaired the handyman.","Implausible","active","AI",7,"Version2"
+"15","The faucet was repaired by the handyman.","Plausible","passive","AI",7,"Version2"
+"15","The handyman was repaired by the faucet.","Implausible","passive","AI",7,"Version2"
+"16","The secretary organized the desk.","Plausible","active","AI",8,"Version1"
+"16","The desk organized the secretary.","Implausible","active","AI",8,"Version1"
+"16","The desk was organized by the secretary.","Plausible","passive","AI",8,"Version1"
+"16","The secretary was organized by the desk.","Implausible","passive","AI",8,"Version1"
+"17","The receptionist tidied the table.","Plausible","active","AI",8,"Version2"
+"17","The table tidied the receptionist.","Implausible","active","AI",8,"Version2"
+"17","The table was tidied by the receptionist.","Plausible","passive","AI",8,"Version2"
+"17","The receptionist was tidied by the table.","Implausible","passive","AI",8,"Version2"
+"18","The pilot steered the airplane.","Plausible","active","AI",9,"Version1"
+"18","The airplane steered the pilot.","Implausible","active","AI",9,"Version1"
+"18","The airplane was steered by the pilot.","Plausible","passive","AI",9,"Version1"
+"18","The pilot was steered by the airplane.","Implausible","passive","AI",9,"Version1"
+"19","The aviator maneuvered the jet.","Plausible","active","AI",9,"Version2"
+"19","The jet maneuvered the aviator.","Implausible","active","AI",9,"Version2"
+"19","The jet was maneuvered by the aviator.","Plausible","passive","AI",9,"Version2"
+"19","The aviator was maneuvered by the jet.","Implausible","passive","AI",9,"Version2"
+"20","The chef sauteed the squid.","Plausible","active","AI",10,"Version1"
+"20","The squid sauteed the chef.","Implausible","active","AI",10,"Version1"
+"20","The squid was sauteed by the chef.","Plausible","passive","AI",10,"Version1"
+"20","The chef was sauteed by the squid.","Implausible","passive","AI",10,"Version1"
+"21","The cook grilled the octopus.","Plausible","active","AI",10,"Version2"
+"21","The octopus grilled the cook.","Implausible","active","AI",10,"Version2"
+"21","The octopus was grilled by the cook.","Plausible","passive","AI",10,"Version2"
+"21","The cook was grilled by the octopus.","Implausible","passive","AI",10,"Version2"
+"22","The ship captain promised the triumph.","Plausible","active","AI",11,"Version1"
+"22","The triumph promised the ship captain.","Implausible","active","AI",11,"Version1"
+"22","The triumph was promised by the ship captain.","Plausible","passive","AI",11,"Version1"
+"22","The ship captain was promised by the triumph.","Implausible","passive","AI",11,"Version1"
+"23","The skipper guaranteed the victory.","Plausible","active","AI",11,"Version2"
+"23","The victory guaranteed the skipper.","Implausible","active","AI",11,"Version2"
+"23","The victory was guaranteed by the skipper.","Plausible","passive","AI",11,"Version2"
+"23","The skipper was guaranteed by the victory.","Implausible","passive","AI",11,"Version2"
+"24","The milliner adorned the fedora.","Plausible","active","AI",12,"Version1"
+"24","The fedora adorned the milliner.","Implausible","active","AI",12,"Version1"
+"24","The fedora was adorned by the milliner.","Plausible","passive","AI",12,"Version1"
+"24","The milliner was adorned by the fedora.","Implausible","passive","AI",12,"Version1"
+"25","The hatter decorated the bowler.","Plausible","active","AI",12,"Version2"
+"25","The bowler decorated the hatter.","Implausible","active","AI",12,"Version2"
+"25","The bowler was decorated by the hatter.","Plausible","passive","AI",12,"Version2"
+"25","The hatter was decorated by the bowler.","Implausible","passive","AI",12,"Version2"
+"26","The serviceman hoisted the flag.","Plausible","active","AI",13,"Version1"
+"26","The flag hoisted the serviceman.","Implausible","active","AI",13,"Version1"
+"26","The flag was hoisted by the serviceman.","Plausible","passive","AI",13,"Version1"
+"26","The serviceman was hoisted by the flag.","Implausible","passive","AI",13,"Version1"
+"27","The soldier raised the banner.","Plausible","active","AI",13,"Version2"
+"27","The banner raised the soldier.","Implausible","active","AI",13,"Version2"
+"27","The banner was raised by the soldier.","Plausible","passive","AI",13,"Version2"
+"27","The soldier was raised by the banner.","Implausible","passive","AI",13,"Version2"
+"28","The agent failed the mission.","Plausible","active","AI",14,"Version1"
+"28","The mission failed the agent.","Implausible","active","AI",14,"Version1"
+"28","The mission was failed by the agent.","Plausible","passive","AI",14,"Version1"
+"28","The agent was failed by the mission.","Implausible","passive","AI",14,"Version1"
+"29","The operative blew the assignment.","Plausible","active","AI",14,"Version2"
+"29","The assignment blew the operative.","Implausible","active","AI",14,"Version2"
+"29","The assignment was blown by the operative.","Plausible","passive","AI",14,"Version2"
+"29","The operative was blown by the assignment.","Implausible","passive","AI",14,"Version2"
+"30","The anchorman garbled the expression.","Plausible","active","AI",15,"Version1"
+"30","The expression garbled the anchorman.","Implausible","active","AI",15,"Version1"
+"30","The expression was garbled by the anchorman.","Plausible","passive","AI",15,"Version1"
+"30","The anchorman was garbled by the expression.","Implausible","passive","AI",15,"Version1"
+"31","The announcer mispronounced the word.","Plausible","active","AI",15,"Version2"
+"31","The word mispronounced the announcer.","Implausible","active","AI",15,"Version2"
+"31","The word was mispronounced by the announcer.","Plausible","passive","AI",15,"Version2"
+"31","The announcer was mispronounced by the word.","Implausible","passive","AI",15,"Version2"
+"32","The author finished the novel.","Plausible","active","AI",16,"Version1"
+"32","The novel finished the author.","Implausible","active","AI",16,"Version1"
+"32","The novel was finished by the author.","Plausible","passive","AI",16,"Version1"
+"32","The author was finished by the novel.","Implausible","passive","AI",16,"Version1"
+"33","The writer completed the book.","Plausible","active","AI",16,"Version2"
+"33","The book completed the writer.","Implausible","active","AI",16,"Version2"
+"33","The book was completed by the writer.","Plausible","passive","AI",16,"Version2"
+"33","The writer was completed by the book.","Implausible","passive","AI",16,"Version2"
+"34","The financier sponsored the project.","Plausible","active","AI",17,"Version1"
+"34","The project sponsored the financier.","Implausible","active","AI",17,"Version1"
+"34","The project was sponsored by the financier.","Plausible","passive","AI",17,"Version1"
+"34","The financier was sponsored by the project.","Implausible","passive","AI",17,"Version1"
+"35","The banker funded the program.","Plausible","active","AI",17,"Version2"
+"35","The program funded the banker.","Implausible","active","AI",17,"Version2"
+"35","The program was funded by the banker.","Plausible","passive","AI",17,"Version2"
+"35","The banker was funded by the program.","Implausible","passive","AI",17,"Version2"
+"36","The tourist exited the bus.","Plausible","active","AI",18,"Version1"
+"36","The bus exited the tourist.","Implausible","active","AI",18,"Version1"
+"36","The bus was exited by the tourist.","Plausible","passive","AI",18,"Version1"
+"36","The tourist was exited by the bus.","Implausible","passive","AI",18,"Version1"
+"37","The vacationer left the shuttle.","Plausible","active","AI",18,"Version2"
+"37","The shuttle left the vacationer.","Implausible","active","AI",18,"Version2"
+"37","The shuttle was left by the vacationer.","Plausible","passive","AI",18,"Version2"
+"37","The vacationer was left by the shuttle.","Implausible","passive","AI",18,"Version2"
+"38","The dietitian loathed the jam.","Plausible","active","AI",19,"Version1"
+"38","The jam loathed the dietitian.","Implausible","active","AI",19,"Version1"
+"38","The jam was loathed by the dietitian.","Plausible","passive","AI",19,"Version1"
+"38","The dietitian was loathed by the jam.","Implausible","passive","AI",19,"Version1"
+"39","The nutritionist detested the marmalade.","Plausible","active","AI",19,"Version2"
+"39","The marmalade detested the nutritionist.","Implausible","active","AI",19,"Version2"
+"39","The marmalade was detested by the nutritionist.","Plausible","passive","AI",19,"Version2"
+"39","The nutritionist was detested by the marmalade.","Implausible","passive","AI",19,"Version2"
+"40","The scientist discovered the cure.","Plausible","active","AI",20,"Version1"
+"40","The cure discovered the scientist.","Implausible","active","AI",20,"Version1"
+"40","The cure was discovered by the scientist.","Plausible","passive","AI",20,"Version1"
+"40","The scientist was discovered by the cure.","Implausible","passive","AI",20,"Version1"
+"41","The researcher found the remedy.","Plausible","active","AI",20,"Version2"
+"41","The remedy found the researcher.","Implausible","active","AI",20,"Version2"
+"41","The remedy was found by the researcher.","Plausible","passive","AI",20,"Version2"
+"41","The researcher was found by the remedy.","Implausible","passive","AI",20,"Version2"
+"42","The doctor closed the school.","Plausible","active","AI",NA,NA
+"42","The school closed the doctor.","Implausible","active","AI",NA,NA
+"42","The school was closed by the doctor.","Plausible","passive","AI",NA,NA
+"42","The doctor was closed by the school.","Implausible","passive","AI",NA,NA
+"43","The maid lifted the cushion.","Plausible","active","AI",NA,NA
+"43","The cushion lifted the maid.","Implausible","active","AI",NA,NA
+"43","The cushion was lifted by the maid.","Plausible","passive","AI",NA,NA
+"43","The maid was lifted by the cushion.","Implausible","passive","AI",NA,NA
+"48","The servant wiped the sink.","Plausible","active","AI",23,"Version1"
+"48","The sink wiped the servant.","Implausible","active","AI",23,"Version1"
+"48","The sink was wiped by the servant.","Plausible","passive","AI",23,"Version1"
+"48","The servant was wiped by the sink.","Implausible","passive","AI",23,"Version1"
+"49","The domestic cleaned the wash basin.","Plausible","active","AI",23,"Version2"
+"49","The wash basin cleaned the domestic.","Implausible","active","AI",23,"Version2"
+"49","The wash basin was cleaned by the domestic.","Plausible","passive","AI",23,"Version2"
+"49","The domestic was cleaned by the wash basin.","Implausible","passive","AI",23,"Version2"
+"50","The friend donned the pullover.","Plausible","active","AI",NA,NA
+"50","The pullover donned the friend.","Implausible","active","AI",NA,NA
+"50","The pullover was donned by the friend.","Plausible","passive","AI",NA,NA
+"50","The friend was donned by the pullover.","Implausible","passive","AI",NA,NA
+"51","The convalescent took the pill.","Plausible","active","AI",24,"Version1"
+"51","The pill took the convalescent.","Implausible","active","AI",24,"Version1"
+"51","The pill was taken by the convalescent.","Plausible","passive","AI",24,"Version1"
+"51","The convalescent was taken by the pill.","Implausible","passive","AI",24,"Version1"
+"52","The patient swallowed the medicine.","Plausible","active","AI",24,"Version2"
+"52","The medicine swallowed the patient.","Implausible","active","AI",24,"Version2"
+"52","The medicine was swallowed by the patient.","Plausible","passive","AI",24,"Version2"
+"52","The patient was swallowed by the medicine.","Implausible","passive","AI",24,"Version2"
+"53","The hoarder hid the stash.","Plausible","active","AI",25,"Version1"
+"53","The stash hid the hoarder.","Implausible","active","AI",25,"Version1"
+"53","The stash was hidden by the hoarder.","Plausible","passive","AI",25,"Version1"
+"53","The hoarder was hidden by the stash.","Implausible","passive","AI",25,"Version1"
+"54","The packrat concealed the stockpile.","Plausible","active","AI",25,"Version2"
+"54","The stockpile concealed the packrat.","Implausible","active","AI",25,"Version2"
+"54","The stockpile was concealed by the packrat.","Plausible","passive","AI",25,"Version2"
+"54","The packrat was concealed by the stockpile.","Implausible","passive","AI",25,"Version2"
+"55","The reporter abandoned the story.","Plausible","active","AI",26,"Version1"
+"55","The story abandoned the reporter.","Implausible","active","AI",26,"Version1"
+"55","The story was abandoned by the reporter.","Plausible","passive","AI",26,"Version1"
+"55","The reporter was abandoned by the story.","Implausible","passive","AI",26,"Version1"
+"56","The journalist ditched the article.","Plausible","active","AI",26,"Version2"
+"56","The article ditched the journalist.","Implausible","active","AI",26,"Version2"
+"56","The article was ditched by the journalist.","Plausible","passive","AI",26,"Version2"
+"56","The journalist was ditched by the article.","Implausible","passive","AI",26,"Version2"
+"57","The carnivore ate the steak.","Plausible","active","AI",27,"Version1"
+"57","The steak ate the carnivore.","Implausible","active","AI",27,"Version1"
+"57","The steak was eaten by the carnivore.","Plausible","passive","AI",27,"Version1"
+"57","The carnivore was eaten by the steak.","Implausible","passive","AI",27,"Version1"
+"58","The meat-eater devoured the filet.","Plausible","active","AI",27,"Version2"
+"58","The filet devoured the meat-eater.","Implausible","active","AI",27,"Version2"
+"58","The filet was devoured by the meat-eater.","Plausible","passive","AI",27,"Version2"
+"58","The meat-eater was devoured by the filet.","Implausible","passive","AI",27,"Version2"
+"59","The man drank the soda.","Plausible","active","AI",NA,NA
+"59","The soda drank the man.","Implausible","active","AI",NA,NA
+"59","The soda was drunk by the man.","Plausible","passive","AI",NA,NA
+"59","The man was drunk by the soda.","Implausible","passive","AI",NA,NA
+"60","The teacher bought the laptop.","Plausible","active","AI",28,"Version1"
+"60","The laptop bought the teacher.","Implausible","active","AI",28,"Version1"
+"60","The laptop was bought by the teacher.","Plausible","passive","AI",28,"Version1"
+"60","The teacher was bought by the laptop.","Implausible","passive","AI",28,"Version1"
+"61","The instructor purchased the computer.","Plausible","active","AI",28,"Version2"
+"61","The computer purchased the instructor.","Implausible","active","AI",28,"Version2"
+"61","The computer was purchased by the instructor.","Plausible","passive","AI",28,"Version2"
+"61","The instructor was purchased by the computer.","Implausible","passive","AI",28,"Version2"
+"62","The lady cooked the supper.","Plausible","active","AI",29,"Version1"
+"62","The supper cooked the lady.","Implausible","active","AI",29,"Version1"
+"62","The supper was cooked by the lady.","Plausible","passive","AI",29,"Version1"
+"62","The lady was cooked by the supper.","Implausible","passive","AI",29,"Version1"
+"63","The woman prepared the dinner.","Plausible","active","AI",29,"Version2"
+"63","The dinner prepared the woman.","Implausible","active","AI",29,"Version2"
+"63","The dinner was prepared by the woman.","Plausible","passive","AI",29,"Version2"
+"63","The woman was prepared by the dinner.","Implausible","passive","AI",29,"Version2"
+"64","The traveler lost the souvenir.","Plausible","active","AI",30,"Version1"
+"64","The souvenir lost the traveler.","Implausible","active","AI",30,"Version1"
+"64","The souvenir was lost by the traveler.","Plausible","passive","AI",30,"Version1"
+"64","The traveler was lost by the souvenir.","Implausible","passive","AI",30,"Version1"
+"65","The sightseer misplaced the memento.","Plausible","active","AI",30,"Version2"
+"65","The memento misplaced the sightseer.","Implausible","active","AI",30,"Version2"
+"65","The memento was misplaced by the sightseer.","Plausible","passive","AI",30,"Version2"
+"65","The sightseer was misplaced by the memento.","Implausible","passive","AI",30,"Version2"
+"66","The comedian confirmed the itinerary.","Plausible","active","AI",31,"Version1"
+"66","The itinerary confirmed the comedian.","Implausible","active","AI",31,"Version1"
+"66","The itinerary was confirmed by the comedian.","Plausible","passive","AI",31,"Version1"
+"66","The comedian was confirmed by the itinerary.","Implausible","passive","AI",31,"Version1"
+"67","The humorist verified the schedule.","Plausible","active","AI",31,"Version2"
+"67","The schedule verified the humorist.","Implausible","active","AI",31,"Version2"
+"67","The schedule was verified by the humorist.","Plausible","passive","AI",31,"Version2"
+"67","The humorist was verified by the schedule.","Implausible","passive","AI",31,"Version2"
+"68","The woodworker skimmed the brochure.","Plausible","active","AI",NA,NA
+"68","The brochure skimmed the woodworker.","Implausible","active","AI",NA,NA
+"68","The brochure was skimmed by the woodworker.","Plausible","passive","AI",NA,NA
+"68","The woodworker was skimmed by the brochure.","Implausible","passive","AI",NA,NA
+"69","The guide reached the target.","Plausible","active","AI",NA,NA
+"69","The target reached the guide.","Implausible","active","AI",NA,NA
+"69","The target was reached by the guide.","Plausible","passive","AI",NA,NA
+"69","The guide was reached by the target.","Implausible","passive","AI",NA,NA
+"70","The townsperson farmed the grain.","Plausible","active","AI",32,"Version1"
+"70","The grain farmed the townsperson.","Implausible","active","AI",32,"Version1"
+"70","The grain was farmed by the townsperson.","Plausible","passive","AI",32,"Version1"
+"70","The townsperson was farmed by the grain.","Implausible","passive","AI",32,"Version1"
+"71","The villager cultivated the crop.","Plausible","active","AI",32,"Version2"
+"71","The crop cultivated the villager.","Implausible","active","AI",32,"Version2"
+"71","The crop was cultivated by the villager.","Plausible","passive","AI",32,"Version2"
+"71","The villager was cultivated by the crop.","Implausible","passive","AI",32,"Version2"
+"72","The mentor revised the manuscript.","Plausible","active","AI",33,"Version1"
+"72","The manuscript revised the mentor.","Implausible","active","AI",33,"Version1"
+"72","The manuscript was revised by the mentor.","Plausible","passive","AI",33,"Version1"
+"72","The mentor was revised by the manuscript.","Implausible","passive","AI",33,"Version1"
+"73","The advisor edited the paper.","Plausible","active","AI",33,"Version2"
+"73","The paper edited the advisor.","Implausible","active","AI",33,"Version2"
+"73","The paper was edited by the advisor.","Plausible","passive","AI",33,"Version2"
+"73","The advisor was edited by the paper.","Implausible","passive","AI",33,"Version2"
+"74","The accountant made the chart.","Plausible","active","AI",34,"Version1"
+"74","The chart made the accountant.","Implausible","active","AI",34,"Version1"
+"74","The chart was made by the accountant.","Plausible","passive","AI",34,"Version1"
+"74","The accountant was made by the chart.","Implausible","passive","AI",34,"Version1"
+"75","The bookkeeper created the graph.","Plausible","active","AI",34,"Version2"
+"75","The graph created the bookkeeper.","Implausible","active","AI",34,"Version2"
+"75","The graph was created by the bookkeeper.","Plausible","passive","AI",34,"Version2"
+"75","The bookkeeper was created by the graph.","Implausible","passive","AI",34,"Version2"
+"76","The logger felled the pine tree.","Plausible","active","AI",NA,NA
+"76","The pine tree felled the logger.","Implausible","active","AI",NA,NA
+"76","The pine tree was felled by the logger.","Plausible","passive","AI",NA,NA
+"76","The logger was felled by the pine tree.","Implausible","passive","AI",NA,NA
+"77","The tycoon ran the company.","Plausible","active","AI",35,"Version1"
+"77","The company ran the tycoon.","Implausible","active","AI",35,"Version1"
+"77","The company was run by the tycoon.","Plausible","passive","AI",35,"Version1"
+"77","The tycoon was run by the company.","Implausible","passive","AI",35,"Version1"
+"78","The mogul governed the corporation.","Plausible","active","AI",35,"Version2"
+"78","The corporation governed the mogul.","Implausible","active","AI",35,"Version2"
+"78","The corporation was governed by the mogul.","Plausible","passive","AI",35,"Version2"
+"78","The mogul was governed by the corporation.","Implausible","passive","AI",35,"Version2"
+"79","The campaigner biased the ballot.","Plausible","active","AI",36,"Version1"
+"79","The ballot biased the campaigner.","Implausible","active","AI",36,"Version1"
+"79","The ballot was biased by the campaigner.","Plausible","passive","AI",36,"Version1"
+"79","The campaigner was biased by the ballot.","Implausible","passive","AI",36,"Version1"
+"80","The activist prejudiced the vote.","Plausible","active","AI",36,"Version2"
+"80","The vote prejudiced the activist.","Implausible","active","AI",36,"Version2"
+"80","The vote was prejudiced by the activist.","Plausible","passive","AI",36,"Version2"
+"80","The activist was prejudiced by the vote.","Implausible","passive","AI",36,"Version2"
+"81","The stewardess pulled the suitcase.","Plausible","active","AI",37,"Version1"
+"81","The suitcase pulled the stewardess.","Implausible","active","AI",37,"Version1"
+"81","The suitcase was pulled by the stewardess.","Plausible","passive","AI",37,"Version1"
+"81","The stewardess was pulled by the suitcase.","Implausible","passive","AI",37,"Version1"
+"82","The flight-attendant dragged the luggage.","Plausible","active","AI",37,"Version2"
+"82","The luggage dragged the flight-attendant.","Implausible","active","AI",37,"Version2"
+"82","The luggage was dragged by the flight-attendant.","Plausible","passive","AI",37,"Version2"
+"82","The flight-attendant was dragged by the luggage.","Implausible","passive","AI",37,"Version2"
+"83","The congressman delivered the speech.","Plausible","active","AI",38,"Version1"
+"83","The speech delivered the congressman.","Implausible","active","AI",38,"Version1"
+"83","The speech was delivered by the congressman.","Plausible","passive","AI",38,"Version1"
+"83","The congressman was delivered by the speech.","Implausible","passive","AI",38,"Version1"
+"84","The representative gave the address.","Plausible","active","AI",38,"Version2"
+"84","The address gave the representative.","Implausible","active","AI",38,"Version2"
+"84","The address was given by the representative.","Plausible","passive","AI",38,"Version2"
+"84","The representative was given by the address.","Implausible","passive","AI",38,"Version2"
+"85","The sheriff inspected the estate.","Plausible","active","AI",39,"Version1"
+"85","The estate inspected the sheriff.","Implausible","active","AI",39,"Version1"
+"85","The estate was inspected by the sheriff.","Plausible","passive","AI",39,"Version1"
+"85","The sheriff was inspected by the estate.","Implausible","passive","AI",39,"Version1"
+"86","The constable examined the property.","Plausible","active","AI",39,"Version2"
+"86","The property examined the constable.","Implausible","active","AI",39,"Version2"
+"86","The property was examined by the constable.","Plausible","passive","AI",39,"Version2"
+"86","The constable was examined by the property.","Implausible","passive","AI",39,"Version2"
+"87","The celebrity signed the photograph.","Plausible","active","AI",40,"Version1"
+"87","The photograph signed the celebrity.","Implausible","active","AI",40,"Version1"
+"87","The photograph was signed by the celebrity.","Plausible","passive","AI",40,"Version1"
+"87","The celebrity was signed by the photograph.","Implausible","passive","AI",40,"Version1"
+"88","The star autographed the picture.","Plausible","active","AI",40,"Version2"
+"88","The picture autographed the star.","Implausible","active","AI",40,"Version2"
+"88","The picture was autographed by the star.","Plausible","passive","AI",40,"Version2"
+"88","The star was autographed by the picture.","Implausible","passive","AI",40,"Version2"
+"89","The nanny tutored the boy.","Plausible","active","AAN",41,"Version1"
+"89","The boy tutored the nanny.","Implausible","active","AAN",41,"Version1"
+"89","The boy was tutored by the nanny.","Plausible","passive","AAN",41,"Version1"
+"89","The nanny was tutored by the boy.","Implausible","passive","AAN",41,"Version1"
+"90","The governess instructed the lad.","Plausible","active","AAN",41,"Version2"
+"90","The lad instructed the governess.","Implausible","active","AAN",41,"Version2"
+"90","The lad was instructed by the governess.","Plausible","passive","AAN",41,"Version2"
+"90","The governess was instructed by the lad.","Implausible","passive","AAN",41,"Version2"
+"91","The blackmailer threatened the senator.","Plausible","active","AAN",42,"Version1"
+"91","The senator threatened the blackmailer.","Implausible","active","AAN",42,"Version1"
+"91","The senator was threatened by the blackmailer.","Plausible","passive","AAN",42,"Version1"
+"91","The blackmailer was threatened by the senator.","Implausible","passive","AAN",42,"Version1"
+"92","The extortionist menaced the legislator.","Plausible","active","AAN",42,"Version2"
+"92","The legislator menaced the extortionist.","Implausible","active","AAN",42,"Version2"
+"92","The legislator was menaced by the extortionist.","Plausible","passive","AAN",42,"Version2"
+"92","The extortionist was menaced by the legislator.","Implausible","passive","AAN",42,"Version2"
+"93","The artist portrayed the philosopher.","Plausible","active","AAN",43,"Version1"
+"93","The philosopher portrayed the artist.","Implausible","active","AAN",43,"Version1"
+"93","The philosopher was portrayed by the artist.","Plausible","passive","AAN",43,"Version1"
+"93","The artist was portrayed by the philosopher.","Implausible","passive","AAN",43,"Version1"
+"94","The painter depicted the thinker.","Plausible","active","AAN",43,"Version2"
+"94","The thinker depicted the painter.","Implausible","active","AAN",43,"Version2"
+"94","The thinker was depicted by the painter.","Plausible","passive","AAN",43,"Version2"
+"94","The painter was depicted by the thinker.","Implausible","passive","AAN",43,"Version2"
+"95","The mechanic berated the intern.","Plausible","active","AAN",44,"Version1"
+"95","The intern berated the mechanic.","Implausible","active","AAN",44,"Version1"
+"95","The intern was berated by the mechanic.","Plausible","passive","AAN",44,"Version1"
+"95","The mechanic was berated by the intern.","Implausible","passive","AAN",44,"Version1"
+"96","The technician rebuked the aide.","Plausible","active","AAN",44,"Version2"
+"96","The aide rebuked the technician.","Implausible","active","AAN",44,"Version2"
+"96","The aide was rebuked by the technician.","Plausible","passive","AAN",44,"Version2"
+"96","The technician was rebuked by the aide.","Implausible","passive","AAN",44,"Version2"
+"97","The fairy enchanted the troll.","Plausible","active","AAN",45,"Version1"
+"97","The troll enchanted the fairy.","Implausible","active","AAN",45,"Version1"
+"97","The troll was enchanted by the fairy.","Plausible","passive","AAN",45,"Version1"
+"97","The fairy was enchanted by the troll.","Implausible","passive","AAN",45,"Version1"
+"98","The pixie mesmerized the ogre.","Plausible","active","AAN",45,"Version2"
+"98","The ogre mesmerized the pixie.","Implausible","active","AAN",45,"Version2"
+"98","The ogre was mesmerized by the pixie.","Plausible","passive","AAN",45,"Version2"
+"98","The pixie was mesmerized by the ogre.","Implausible","passive","AAN",45,"Version2"
+"99","The orderly assisted the dentist.","Plausible","active","AAN",46,"Version1"
+"99","The dentist assisted the orderly.","Implausible","active","AAN",46,"Version1"
+"99","The dentist was assisted by the orderly.","Plausible","passive","AAN",46,"Version1"
+"99","The orderly was assisted by the dentist.","Implausible","passive","AAN",46,"Version1"
+"100","The nurse helped the orthodontist.","Plausible","active","AAN",46,"Version2"
+"100","The orthodontist helped the nurse.","Implausible","active","AAN",46,"Version2"
+"100","The orthodontist was helped by the nurse.","Plausible","passive","AAN",46,"Version2"
+"100","The nurse was helped by the orthodontist.","Implausible","passive","AAN",46,"Version2"
+"101","The owner evicted the tenant.","Plausible","active","AAN",47,"Version1"
+"101","The tenant evicted the owner.","Implausible","active","AAN",47,"Version1"
+"101","The tenant was evicted by the owner.","Plausible","passive","AAN",47,"Version1"
+"101","The owner was evicted by the tenant.","Implausible","passive","AAN",47,"Version1"
+"103","The critic attacked the conservative.","Plausible","active","AAN",48,"Version1"
+"103","The conservative attacked the critic.","Implausible","active","AAN",48,"Version1"
+"103","The conservative was attacked by the critic.","Plausible","passive","AAN",48,"Version1"
+"103","The critic was attacked by the conservative.","Implausible","passive","AAN",48,"Version1"
+"104","The reviewer criticized the right-winger.","Plausible","active","AAN",48,"Version2"
+"104","The right-winger criticized the reviewer.","Implausible","active","AAN",48,"Version2"
+"104","The right-winger was criticized by the reviewer.","Plausible","passive","AAN",48,"Version2"
+"104","The reviewer was criticized by the right-winger.","Implausible","passive","AAN",48,"Version2"
+"105","The admirer badgered the director.","Plausible","active","AAN",49,"Version1"
+"105","The director badgered the admirer.","Implausible","active","AAN",49,"Version1"
+"105","The director was badgered by the admirer.","Plausible","passive","AAN",49,"Version1"
+"105","The admirer was badgered by the director.","Implausible","passive","AAN",49,"Version1"
+"106","The fan pestered the filmmaker.","Plausible","active","AAN",49,"Version2"
+"106","The filmmaker pestered the fan.","Implausible","active","AAN",49,"Version2"
+"106","The filmmaker was pestered by the fan.","Plausible","passive","AAN",49,"Version2"
+"106","The fan was pestered by the filmmaker.","Implausible","passive","AAN",49,"Version2"
+"107","The paramedic revived the youth.","Plausible","active","AAN",50,"Version1"
+"107","The youth revived the paramedic.","Implausible","active","AAN",50,"Version1"
+"107","The youth was revived by the paramedic.","Plausible","passive","AAN",50,"Version1"
+"107","The paramedic was revived by the youth.","Implausible","passive","AAN",50,"Version1"
+"108","The EMT resuscitated the youngster.","Plausible","active","AAN",50,"Version2"
+"108","The youngster resuscitated the EMT.","Implausible","active","AAN",50,"Version2"
+"108","The youngster was resuscitated by the EMT.","Plausible","passive","AAN",50,"Version2"
+"108","The EMT was resuscitated by the youngster.","Implausible","passive","AAN",50,"Version2"
+"109","The prankster duped the marketer.","Plausible","active","AAN",51,"Version1"
+"109","The marketer duped the prankster.","Implausible","active","AAN",51,"Version1"
+"109","The marketer was duped by the prankster.","Plausible","passive","AAN",51,"Version1"
+"109","The prankster was duped by the marketer.","Implausible","passive","AAN",51,"Version1"
+"110","The joker tricked the distributor.","Plausible","active","AAN",51,"Version2"
+"110","The distributor tricked the joker.","Implausible","active","AAN",51,"Version2"
+"110","The distributor was tricked by the joker.","Plausible","passive","AAN",51,"Version2"
+"110","The joker was tricked by the distributor.","Implausible","passive","AAN",51,"Version2"
+"111","The playboy courted the damsel.","Plausible","active","AAN",52,"Version1"
+"111","The damsel courted the playboy.","Implausible","active","AAN",52,"Version1"
+"111","The damsel was courted by the playboy.","Plausible","passive","AAN",52,"Version1"
+"111","The playboy was courted by the damsel.","Implausible","passive","AAN",52,"Version1"
+"112","The womanizer wooed the maiden.","Plausible","active","AAN",52,"Version2"
+"112","The maiden wooed the womanizer.","Implausible","active","AAN",52,"Version2"
+"112","The maiden was wooed by the womanizer.","Plausible","passive","AAN",52,"Version2"
+"112","The womanizer was wooed by the maiden.","Implausible","passive","AAN",52,"Version2"
+"113","The nomad cherished the clergyman.","Plausible","active","AAN",53,"Version1"
+"113","The clergyman cherished the nomad.","Implausible","active","AAN",53,"Version1"
+"113","The clergyman was cherished by the nomad.","Plausible","passive","AAN",53,"Version1"
+"113","The nomad was cherished by the clergyman.","Implausible","passive","AAN",53,"Version1"
+"114","The vagabond revered the priest.","Plausible","active","AAN",53,"Version2"
+"114","The priest revered the vagabond.","Implausible","active","AAN",53,"Version2"
+"114","The priest was revered by the vagabond.","Plausible","passive","AAN",53,"Version2"
+"114","The vagabond was revered by the priest.","Implausible","passive","AAN",53,"Version2"
+"115","The assassin shot the statesman.","Plausible","active","AAN",54,"Version1"
+"115","The statesman shot the assassin.","Implausible","active","AAN",54,"Version1"
+"115","The statesman was shot by the assassin.","Plausible","passive","AAN",54,"Version1"
+"115","The assassin was shot by the statesman.","Implausible","passive","AAN",54,"Version1"
+"116","The hit man killed the politician.","Plausible","active","AAN",54,"Version2"
+"116","The politician killed the hit man.","Implausible","active","AAN",54,"Version2"
+"116","The politician was killed by the hit man.","Plausible","passive","AAN",54,"Version2"
+"116","The hit man was killed by the politician.","Implausible","passive","AAN",54,"Version2"
+"117","The clerk charged the elderly person.","Plausible","active","AAN",55,"Version1"
+"117","The elderly person charged the clerk.","Implausible","active","AAN",55,"Version1"
+"117","The elderly person was charged by the clerk.","Plausible","passive","AAN",55,"Version1"
+"117","The clerk was charged by the elderly person.","Implausible","passive","AAN",55,"Version1"
+"118","The cashier billed the senior citizen.","Plausible","active","AAN",55,"Version2"
+"118","The senior citizen billed the cashier.","Implausible","active","AAN",55,"Version2"
+"118","The senior citizen was billed by the cashier.","Plausible","passive","AAN",55,"Version2"
+"118","The cashier was billed by the senior citizen.","Implausible","passive","AAN",55,"Version2"
+"119","The mediator rescued the hostage.","Plausible","active","AAN",56,"Version1"
+"119","The hostage rescued the mediator.","Implausible","active","AAN",56,"Version1"
+"119","The hostage was rescued by the mediator.","Plausible","passive","AAN",56,"Version1"
+"119","The mediator was rescued by the hostage.","Implausible","passive","AAN",56,"Version1"
+"120","The negotiator saved the captive.","Plausible","active","AAN",56,"Version2"
+"120","The captive saved the negotiator.","Implausible","active","AAN",56,"Version2"
+"120","The captive was saved by the negotiator.","Plausible","passive","AAN",56,"Version2"
+"120","The negotiator was saved by the captive.","Implausible","passive","AAN",56,"Version2"
+"121","The detective found the assailant.","Plausible","active","AAN",57,"Version1"
+"121","The assailant found the detective.","Implausible","active","AAN",57,"Version1"
+"121","The assailant was found by the detective.","Plausible","passive","AAN",57,"Version1"
+"121","The detective was found by the assailant.","Implausible","passive","AAN",57,"Version1"
+"122","The sleuth located the attacker.","Plausible","active","AAN",57,"Version2"
+"122","The attacker located the sleuth.","Implausible","active","AAN",57,"Version2"
+"122","The attacker was located by the sleuth.","Plausible","passive","AAN",57,"Version2"
+"122","The sleuth was located by the attacker.","Implausible","passive","AAN",57,"Version2"
+"123","The artisan trained the apprentice.","Plausible","active","AAN",58,"Version1"
+"123","The apprentice trained the artisan.","Implausible","active","AAN",58,"Version1"
+"123","The apprentice was trained by the artisan.","Plausible","passive","AAN",58,"Version1"
+"123","The artisan was trained by the apprentice.","Implausible","passive","AAN",58,"Version1"
+"124","The craftsman taught the trainee.","Plausible","active","AAN",58,"Version2"
+"124","The trainee taught the craftsman.","Implausible","active","AAN",58,"Version2"
+"124","The trainee was taught by the craftsman.","Plausible","passive","AAN",58,"Version2"
+"124","The craftsman was taught by the trainee.","Implausible","passive","AAN",58,"Version2"
+"125","The biker defied the trainer.","Plausible","active","AAN",59,"Version1"
+"125","The trainer defied the biker.","Implausible","active","AAN",59,"Version1"
+"125","The trainer was defied by the biker.","Plausible","passive","AAN",59,"Version1"
+"125","The biker was defied by the trainer.","Implausible","passive","AAN",59,"Version1"
+"126","The cyclist disobeyed the coach.","Plausible","active","AAN",59,"Version2"
+"126","The coach disobeyed the cyclist.","Implausible","active","AAN",59,"Version2"
+"126","The coach was disobeyed by the cyclist.","Plausible","passive","AAN",59,"Version2"
+"126","The cyclist was disobeyed by the coach.","Implausible","passive","AAN",59,"Version2"
+"127","The speaker engrossed the audience.","Plausible","active","AAN",60,"Version1"
+"127","The audience engrossed the speaker.","Implausible","active","AAN",60,"Version1"
+"127","The audience was engrossed by the speaker.","Plausible","passive","AAN",60,"Version1"
+"127","The speaker was engrossed by the audience.","Implausible","passive","AAN",60,"Version1"
+"129","The genius shocked the cousin.","Plausible","active","AAN",61,"Version1"
+"129","The cousin shocked the genius.","Implausible","active","AAN",61,"Version1"
+"129","The cousin was shocked by the genius.","Plausible","passive","AAN",61,"Version1"
+"129","The genius was shocked by the cousin.","Implausible","passive","AAN",61,"Version1"
+"130","The prodigy surprised the relative.","Plausible","active","AAN",61,"Version2"
+"130","The relative surprised the prodigy.","Implausible","active","AAN",61,"Version2"
+"130","The relative was surprised by the prodigy.","Plausible","passive","AAN",61,"Version2"
+"130","The prodigy was surprised by the relative.","Implausible","passive","AAN",61,"Version2"
+"131","The smuggler bribed the bureaucrat.","Plausible","active","AAN",NA,NA
+"131","The bureaucrat bribed the smuggler.","Implausible","active","AAN",NA,NA
+"131","The bureaucrat was bribed by the smuggler.","Plausible","passive","AAN",NA,NA
+"131","The smuggler was bribed by the bureaucrat.","Implausible","passive","AAN",NA,NA
+"132","The amateur irked the maestro.","Plausible","active","AAN",62,"Version1"
+"132","The maestro irked the amateur.","Implausible","active","AAN",62,"Version1"
+"132","The maestro was irked by the amateur.","Plausible","passive","AAN",62,"Version1"
+"132","The amateur was irked by the maestro.","Implausible","passive","AAN",62,"Version1"
+"133","The novice irritated the virtuoso.","Plausible","active","AAN",62,"Version2"
+"133","The virtuoso irritated the novice.","Implausible","active","AAN",62,"Version2"
+"133","The virtuoso was irritated by the novice.","Plausible","passive","AAN",62,"Version2"
+"133","The novice was irritated by the virtuoso.","Implausible","passive","AAN",62,"Version2"
+"134","The lawyer questioned the witness.","Plausible","active","AAN",63,"Version1"
+"134","The witness questioned the lawyer.","Implausible","active","AAN",63,"Version1"
+"134","The witness was questioned by the lawyer.","Plausible","passive","AAN",63,"Version1"
+"134","The lawyer was questioned by the witness.","Implausible","passive","AAN",63,"Version1"
+"135","The attorney interrogated the bystander.","Plausible","active","AAN",63,"Version2"
+"135","The bystander interrogated the attorney.","Implausible","active","AAN",63,"Version2"
+"135","The bystander was interrogated by the attorney.","Plausible","passive","AAN",63,"Version2"
+"135","The attorney was interrogated by the bystander.","Implausible","passive","AAN",63,"Version2"
+"136","The singer disappointed the enthusiast.","Plausible","active","AAN",64,"Version1"
+"136","The enthusiast disappointed the singer.","Implausible","active","AAN",64,"Version1"
+"136","The enthusiast was disappointed by the singer.","Plausible","passive","AAN",64,"Version1"
+"136","The singer was disappointed by the enthusiast.","Implausible","passive","AAN",64,"Version1"
+"137","The vocalist disillusioned the connoisseur.","Plausible","active","AAN",64,"Version2"
+"137","The connoisseur disillusioned the vocalist.","Implausible","active","AAN",64,"Version2"
+"137","The connoisseur was disillusioned by the vocalist.","Plausible","passive","AAN",64,"Version2"
+"137","The vocalist was disillusioned by the connoisseur.","Implausible","passive","AAN",64,"Version2"
+"138","The chauffeur drove the diplomat.","Plausible","active","AAN",65,"Version1"
+"138","The diplomat drove the chauffeur.","Implausible","active","AAN",65,"Version1"
+"138","The diplomat was driven by the chauffeur.","Plausible","passive","AAN",65,"Version1"
+"138","The chauffeur was driven by the diplomat.","Implausible","passive","AAN",65,"Version1"
+"139","The driver transported the ambassador.","Plausible","active","AAN",65,"Version2"
+"139","The ambassador transported the driver.","Implausible","active","AAN",65,"Version2"
+"139","The ambassador was transported by the driver.","Plausible","passive","AAN",65,"Version2"
+"139","The driver was transported by the ambassador.","Implausible","passive","AAN",65,"Version2"
+"140","The guard apprehended the prisoner.","Plausible","active","AAN",66,"Version1"
+"140","The prisoner apprehended the guard.","Implausible","active","AAN",66,"Version1"
+"140","The prisoner was apprehended by the guard.","Plausible","passive","AAN",66,"Version1"
+"140","The guard was apprehended by the prisoner.","Implausible","passive","AAN",66,"Version1"
+"141","The warden caught the inmate.","Plausible","active","AAN",66,"Version2"
+"141","The inmate caught the warden.","Implausible","active","AAN",66,"Version2"
+"141","The inmate was caught by the warden.","Plausible","passive","AAN",66,"Version2"
+"141","The warden was caught by the inmate.","Implausible","passive","AAN",66,"Version2"
+"142","The tailor costumed the dancer.","Plausible","active","AAN",67,"Version1"
+"142","The dancer costumed the tailor.","Implausible","active","AAN",67,"Version1"
+"142","The dancer was costumed by the tailor.","Plausible","passive","AAN",67,"Version1"
+"142","The tailor was costumed by the dancer.","Implausible","passive","AAN",67,"Version1"
+"143","The dressmaker attired the ballerina.","Plausible","active","AAN",67,"Version2"
+"143","The ballerina attired the dressmaker.","Implausible","active","AAN",67,"Version2"
+"143","The ballerina was attired by the dressmaker.","Plausible","passive","AAN",67,"Version2"
+"143","The dressmaker was attired by the ballerina.","Implausible","passive","AAN",67,"Version2"
+"144","The principal scolded the child.","Plausible","active","AAN",68,"Version1"
+"144","The child scolded the principal.","Implausible","active","AAN",68,"Version1"
+"144","The child was scolded by the principal.","Plausible","passive","AAN",68,"Version1"
+"144","The principal was scolded by the child.","Implausible","passive","AAN",68,"Version1"
+"145","The headmaster reprimanded the kid.","Plausible","active","AAN",68,"Version2"
+"145","The kid reprimanded the headmaster.","Implausible","active","AAN",68,"Version2"
+"145","The kid was reprimanded by the headmaster.","Plausible","passive","AAN",68,"Version2"
+"145","The headmaster was reprimanded by the kid.","Implausible","passive","AAN",68,"Version2"
+"146","The lord named the heir.","Plausible","active","AAN",69,"Version1"
+"146","The heir named the lord.","Implausible","active","AAN",69,"Version1"
+"146","The heir was named by the lord.","Plausible","passive","AAN",69,"Version1"
+"146","The lord was named by the heir.","Implausible","passive","AAN",69,"Version1"
+"147","The baron chose the successor.","Plausible","active","AAN",69,"Version2"
+"147","The successor chose the baron.","Implausible","active","AAN",69,"Version2"
+"147","The successor was chosen by the baron.","Plausible","passive","AAN",69,"Version2"
+"147","The baron was chosen by the successor.","Implausible","passive","AAN",69,"Version2"
+"148","The cop restrained the rioter.","Plausible","active","AAN",70,"Version1"
+"148","The rioter restrained the cop.","Implausible","active","AAN",70,"Version1"
+"148","The rioter was restrained by the cop.","Plausible","passive","AAN",70,"Version1"
+"148","The cop was restrained by the rioter.","Implausible","passive","AAN",70,"Version1"
+"149","The policeman subdued the rabble-rouser.","Plausible","active","AAN",70,"Version2"
+"149","The rabble-rouser subdued the policeman.","Implausible","active","AAN",70,"Version2"
+"149","The rabble-rouser was subdued by the policeman.","Plausible","passive","AAN",70,"Version2"
+"149","The policeman was subdued by the rabble-rouser.","Implausible","passive","AAN",70,"Version2"
+"150","The dad coddled the baby.","Plausible","active","AAN",71,"Version1"
+"150","The baby coddled the dad.","Implausible","active","AAN",71,"Version1"
+"150","The baby was coddled by the dad.","Plausible","passive","AAN",71,"Version1"
+"150","The dad was coddled by the baby.","Implausible","passive","AAN",71,"Version1"
+"151","The father pampered the infant.","Plausible","active","AAN",71,"Version2"
+"151","The infant pampered the father.","Implausible","active","AAN",71,"Version2"
+"151","The infant was pampered by the father.","Plausible","passive","AAN",71,"Version2"
+"151","The father was pampered by the infant.","Implausible","passive","AAN",71,"Version2"
+"152","The king exiled the rebel.","Plausible","active","AAN",72,"Version1"
+"152","The rebel exiled the king.","Implausible","active","AAN",72,"Version1"
+"152","The rebel was exiled by the king.","Plausible","passive","AAN",72,"Version1"
+"152","The king was exiled by the rebel.","Implausible","passive","AAN",72,"Version1"
+"153","The monarch banished the insurgent.","Plausible","active","AAN",72,"Version2"
+"153","The insurgent banished the monarch.","Implausible","active","AAN",72,"Version2"
+"153","The insurgent was banished by the monarch.","Plausible","passive","AAN",72,"Version2"
+"153","The monarch was banished by the insurgent.","Implausible","passive","AAN",72,"Version2"
+"154","The thief robbed the manufacturer.","Plausible","active","AAN",73,"Version1"
+"154","The manufacturer robbed the thief.","Implausible","active","AAN",73,"Version1"
+"154","The manufacturer was robbed by the thief.","Plausible","passive","AAN",73,"Version1"
+"154","The thief was robbed by the manufacturer.","Implausible","passive","AAN",73,"Version1"
+"155","The robber burgled the industrialist.","Plausible","active","AAN",73,"Version2"
+"155","The industrialist burgled the robber.","Implausible","active","AAN",73,"Version2"
+"155","The industrialist was burgled by the robber.","Plausible","passive","AAN",73,"Version2"
+"155","The robber was burgled by the industrialist.","Implausible","passive","AAN",73,"Version2"
+"156","The pessimist discouraged the contestant.","Plausible","active","AAN",74,"Version1"
+"156","The contestant discouraged the pessimist.","Implausible","active","AAN",74,"Version1"
+"156","The contestant was discouraged by the pessimist.","Plausible","passive","AAN",74,"Version1"
+"156","The pessimist was discouraged by the contestant.","Implausible","passive","AAN",74,"Version1"
+"157","The cynic dissuaded the participant.","Plausible","active","AAN",74,"Version2"
+"157","The participant dissuaded the cynic.","Implausible","active","AAN",74,"Version2"
+"157","The participant was dissuaded by the cynic.","Plausible","passive","AAN",74,"Version2"
+"157","The cynic was dissuaded by the participant.","Implausible","passive","AAN",74,"Version2"
+"158","The loudmouth tormented the loner.","Plausible","active","AAN",75,"Version1"
+"158","The loner tormented the loudmouth.","Implausible","active","AAN",75,"Version1"
+"158","The loner was tormented by the loudmouth.","Plausible","passive","AAN",75,"Version1"
+"158","The loudmouth was tormented by the loner.","Implausible","passive","AAN",75,"Version1"
+"159","The windbag taunted the recluse.","Plausible","active","AAN",75,"Version2"
+"159","The recluse taunted the windbag.","Implausible","active","AAN",75,"Version2"
+"159","The recluse was taunted by the windbag.","Plausible","passive","AAN",75,"Version2"
+"159","The windbag was taunted by the recluse.","Implausible","passive","AAN",75,"Version2"
+"160","The imitator fooled the investigator.","Plausible","active","AAN",76,"Version1"
+"160","The investigator fooled the imitator.","Implausible","active","AAN",76,"Version1"
+"160","The investigator was fooled by the imitator.","Plausible","passive","AAN",76,"Version1"
+"160","The imitator was fooled by the investigator.","Implausible","passive","AAN",76,"Version1"
+"161","The impersonator conned the inspector.","Plausible","active","AAN",76,"Version2"
+"161","The inspector conned the impersonator.","Implausible","active","AAN",76,"Version2"
+"161","The inspector was conned by the impersonator.","Plausible","passive","AAN",76,"Version2"
+"161","The impersonator was conned by the inspector.","Implausible","passive","AAN",76,"Version2"
+"162","The boss fired the worker.","Plausible","active","AAN",NA,NA
+"162","The worker fired the boss.","Implausible","active","AAN",NA,NA
+"162","The worker was fired by the boss.","Plausible","passive","AAN",NA,NA
+"162","The boss was fired by the worker.","Implausible","passive","AAN",NA,NA
+"163","The pyromaniac unnerved the shopkeeper.","Plausible","active","AAN",77,"Version1"
+"163","The shopkeeper unnerved the pyromaniac.","Implausible","active","AAN",77,"Version1"
+"163","The shopkeeper was unnerved by the pyromaniac.","Plausible","passive","AAN",77,"Version1"
+"163","The pyromaniac was unnerved by the shopkeeper.","Implausible","passive","AAN",77,"Version1"
+"164","The arsonist alarmed the vendor.","Plausible","active","AAN",77,"Version2"
+"164","The vendor alarmed the arsonist.","Implausible","active","AAN",77,"Version2"
+"164","The vendor was alarmed by the arsonist.","Plausible","passive","AAN",77,"Version2"
+"164","The arsonist was alarmed by the vendor.","Implausible","passive","AAN",77,"Version2"
+"165","The professional supported the beginner.","Plausible","active","AAN",78,"Version1"
+"165","The beginner supported the professional.","Implausible","active","AAN",78,"Version1"
+"165","The beginner was supported by the professional.","Plausible","passive","AAN",78,"Version1"
+"165","The professional was supported by the beginner.","Implausible","passive","AAN",78,"Version1"
+"166","The master encouraged the rookie.","Plausible","active","AAN",78,"Version2"
+"166","The rookie encouraged the master.","Implausible","active","AAN",78,"Version2"
+"166","The rookie was encouraged by the master.","Plausible","passive","AAN",78,"Version2"
+"166","The master was encouraged by the rookie.","Implausible","passive","AAN",78,"Version2"
+"167","The magician hypnotized the crowd.","Plausible","active","AAN",79,"Version1"
+"167","The crowd hypnotized the magician.","Implausible","active","AAN",79,"Version1"
+"167","The crowd was hypnotized by the magician.","Plausible","passive","AAN",79,"Version1"
+"167","The magician was hypnotized by the crowd.","Implausible","passive","AAN",79,"Version1"
+"169","The businessman employed the expert.","Plausible","active","AAN",80,"Version1"
+"169","The expert employed the businessman.","Implausible","active","AAN",80,"Version1"
+"169","The expert was employed by the businessman.","Plausible","passive","AAN",80,"Version1"
+"169","The businessman was employed by the expert.","Implausible","passive","AAN",80,"Version1"
+"170","The entrepreneur hired the specialist.","Plausible","active","AAN",80,"Version2"
+"170","The specialist hired the entrepreneur.","Implausible","active","AAN",80,"Version2"
+"170","The specialist was hired by the entrepreneur.","Plausible","passive","AAN",80,"Version2"
+"170","The entrepreneur was hired by the specialist.","Implausible","passive","AAN",80,"Version2"
+"171","The terrorist petrified the first lady.","Plausible","active","AAN",81,"Version1"
+"171","The first lady petrified the terrorist.","Implausible","active","AAN",81,"Version1"
+"171","The first lady was petrified by the terrorist.","Plausible","passive","AAN",81,"Version1"
+"171","The terrorist was petrified by the first lady.","Implausible","passive","AAN",81,"Version1"
+"172","The hijacker terrified the president's wife.","Plausible","active","AAN",81,"Version2"
+"172","The president's wife terrified the hijacker.","Implausible","active","AAN",81,"Version2"
+"172","The president's wife was terrified by the hijacker.","Plausible","passive","AAN",81,"Version2"
+"172","The hijacker was terrified by the president's wife.","Implausible","passive","AAN",81,"Version2"
+"173","The judge praised the gold medalist.","Plausible","active","AAN",82,"Version1"
+"173","The gold medalist praised the judge.","Implausible","active","AAN",82,"Version1"
+"173","The gold medalist was praised by the judge.","Plausible","passive","AAN",82,"Version1"
+"173","The judge was praised by the gold medalist.","Implausible","passive","AAN",82,"Version1"
+"174","The panelist congratulated the winner.","Plausible","active","AAN",82,"Version2"
+"174","The winner congratulated the panelist.","Implausible","active","AAN",82,"Version2"
+"174","The winner was congratulated by the panelist.","Plausible","passive","AAN",82,"Version2"
+"174","The panelist was congratulated by the winner.","Implausible","passive","AAN",82,"Version2"
+"175","The liar emulated the victor.","Plausible","active","AAN",83,"Version1"
+"175","The victor emulated the liar.","Implausible","active","AAN",83,"Version1"
+"175","The victor was emulated by the liar.","Plausible","passive","AAN",83,"Version1"
+"175","The liar was emulated by the victor.","Implausible","passive","AAN",83,"Version1"
+"176","The deceiver imitated the conqueror.","Plausible","active","AAN",83,"Version2"
+"176","The conqueror imitated the deceiver.","Implausible","active","AAN",83,"Version2"
+"176","The conqueror was imitated by the deceiver.","Plausible","passive","AAN",83,"Version2"
+"176","The deceiver was imitated by the conqueror.","Implausible","passive","AAN",83,"Version2"
+"177","The environmentalist cautioned the tobacconist.","Plausible","active","AAN",84,"Version1"
+"177","The tobacconist cautioned the environmentalist.","Implausible","active","AAN",84,"Version1"
+"177","The tobacconist was cautioned by the environmentalist.","Plausible","passive","AAN",84,"Version1"
+"177","The environmentalist was cautioned by the tobacconist.","Implausible","passive","AAN",84,"Version1"
+"181","The alcoholic hassled the guest.","Plausible","active","AAN",86,"Version1"
+"181","The guest hassled the alcoholic.","Implausible","active","AAN",86,"Version1"
+"181","The guest was hassled by the alcoholic.","Plausible","passive","AAN",86,"Version1"
+"181","The alcoholic was hassled by the guest.","Implausible","passive","AAN",86,"Version1"
+"182","The drunk bothered the visitor.","Plausible","active","AAN",86,"Version2"
+"182","The visitor bothered the drunk.","Implausible","active","AAN",86,"Version2"
+"182","The visitor was bothered by the drunk.","Plausible","passive","AAN",86,"Version2"
+"182","The drunk was bothered by the visitor.","Implausible","passive","AAN",86,"Version2"
+"183","The commentator vexed the athlete.","Plausible","active","AAR",87,"Version1"
+"183","The athlete vexed the commentator.","Implausible","active","AAR",87,"Version1"
+"183","The athlete was vexed by the commentator.","Plausible","passive","AAR",87,"Version1"
+"183","The commentator was vexed by the athlete.","Implausible","passive","AAR",87,"Version1"
+"184","The sportscaster peeved the jock.","Plausible","active","AAR",87,"Version2"
+"184","The jock peeved the sportscaster.","Implausible","active","AAR",87,"Version2"
+"184","The jock was peeved by the sportscaster.","Plausible","passive","AAR",87,"Version2"
+"184","The sportscaster was peeved by the jock.","Implausible","passive","AAR",87,"Version2"
+"185","The preacher hugged the churchgoer.","Plausible","active","AAR",88,"Version1"
+"185","The churchgoer hugged the preacher.","Implausible","active","AAR",88,"Version1"
+"185","The churchgoer was hugged by the preacher.","Plausible","passive","AAR",88,"Version1"
+"185","The preacher was hugged by the churchgoer.","Implausible","passive","AAR",88,"Version1"
+"186","The pastor embraced the parishioner.","Plausible","active","AAR",88,"Version2"
+"186","The parishioner embraced the pastor.","Implausible","active","AAR",88,"Version2"
+"186","The parishioner was embraced by the pastor.","Plausible","passive","AAR",88,"Version2"
+"186","The pastor was embraced by the parishioner.","Implausible","passive","AAR",88,"Version2"
+"187","The maniac mocked the clown.","Plausible","active","AAR",89,"Version1"
+"187","The clown mocked the maniac.","Implausible","active","AAR",89,"Version1"
+"187","The clown was mocked by the maniac.","Plausible","passive","AAR",89,"Version1"
+"187","The maniac was mocked by the clown.","Implausible","passive","AAR",89,"Version1"
+"188","The lunatic ridiculed the jester.","Plausible","active","AAR",89,"Version2"
+"188","The jester ridiculed the lunatic.","Implausible","active","AAR",89,"Version2"
+"188","The jester was ridiculed by the lunatic.","Plausible","passive","AAR",89,"Version2"
+"188","The lunatic was ridiculed by the jester.","Implausible","passive","AAR",89,"Version2"
+"189","The archivist contacted the inventor.","Plausible","active","AAR",90,"Version1"
+"189","The inventor contacted the archivist.","Implausible","active","AAR",90,"Version1"
+"189","The inventor was contacted by the archivist.","Plausible","passive","AAR",90,"Version1"
+"189","The archivist was contacted by the inventor.","Implausible","passive","AAR",90,"Version1"
+"190","The historian approached the innovator.","Plausible","active","AAR",90,"Version2"
+"190","The innovator approached the historian.","Implausible","active","AAR",90,"Version2"
+"190","The innovator was approached by the historian.","Plausible","passive","AAR",90,"Version2"
+"190","The historian was approached by the innovator.","Implausible","passive","AAR",90,"Version2"
+"191","The janitor called the landscaper.","Plausible","active","AAR",91,"Version1"
+"191","The landscaper called the janitor.","Implausible","active","AAR",91,"Version1"
+"191","The landscaper was called by the janitor.","Plausible","passive","AAR",91,"Version1"
+"191","The janitor was called by the landscaper.","Implausible","passive","AAR",91,"Version1"
+"192","The custodian phoned the gardener.","Plausible","active","AAR",91,"Version2"
+"192","The gardener phoned the custodian.","Implausible","active","AAR",91,"Version2"
+"192","The gardener was phoned by the custodian.","Plausible","passive","AAR",91,"Version2"
+"192","The custodian was phoned by the gardener.","Implausible","passive","AAR",91,"Version2"
+"193","The drummer annoyed the weatherman.","Plausible","active","AAR",92,"Version1"
+"193","The weatherman annoyed the drummer.","Implausible","active","AAR",92,"Version1"
+"193","The weatherman was annoyed by the drummer.","Plausible","passive","AAR",92,"Version1"
+"193","The drummer was annoyed by the weatherman.","Implausible","passive","AAR",92,"Version1"
+"194","The percussionist displeased the meteorologist.","Plausible","active","AAR",92,"Version2"
+"194","The meteorologist displeased the percussionist.","Implausible","active","AAR",92,"Version2"
+"194","The meteorologist was displeased by the percussionist.","Plausible","passive","AAR",92,"Version2"
+"194","The percussionist was displeased by the meteorologist.","Implausible","passive","AAR",92,"Version2"
+"195","The go-between belittled the defendant.","Plausible","active","AAR",93,"Version1"
+"195","The defendant belittled the go-between.","Implausible","active","AAR",93,"Version1"
+"195","The defendant was belittled by the go-between.","Plausible","passive","AAR",93,"Version1"
+"195","The go-between was belittled by the defendant.","Implausible","passive","AAR",93,"Version1"
+"196","The intermediary deprecated the felon.","Plausible","active","AAR",93,"Version2"
+"196","The felon deprecated the intermediary.","Implausible","active","AAR",93,"Version2"
+"196","The felon was deprecated by the intermediary.","Plausible","passive","AAR",93,"Version2"
+"196","The intermediary was deprecated by the felon.","Implausible","passive","AAR",93,"Version2"
+"197","The valet entertained the envoy.","Plausible","active","AAR",94,"Version1"
+"197","The envoy entertained the valet.","Implausible","active","AAR",94,"Version1"
+"197","The envoy was entertained by the valet.","Plausible","passive","AAR",94,"Version1"
+"197","The valet was entertained by the envoy.","Implausible","passive","AAR",94,"Version1"
+"198","The manservant amused the emissary.","Plausible","active","AAR",94,"Version2"
+"198","The emissary amused the manservant.","Implausible","active","AAR",94,"Version2"
+"198","The emissary was amused by the manservant.","Plausible","passive","AAR",94,"Version2"
+"198","The manservant was amused by the emissary.","Implausible","passive","AAR",94,"Version2"
+"199","The acrobat pushed the stranger.","Plausible","active","AAR",95,"Version1"
+"199","The stranger pushed the acrobat.","Implausible","active","AAR",95,"Version1"
+"199","The stranger was pushed by the acrobat.","Plausible","passive","AAR",95,"Version1"
+"199","The acrobat was pushed by the stranger.","Implausible","passive","AAR",95,"Version1"
+"200","The gymnast shoved the outsider.","Plausible","active","AAR",95,"Version2"
+"200","The outsider shoved the gymnast.","Implausible","active","AAR",95,"Version2"
+"200","The outsider was shoved by the gymnast.","Plausible","passive","AAR",95,"Version2"
+"200","The gymnast was shoved by the outsider.","Implausible","passive","AAR",95,"Version2"
+"201","The benefactor calmed the architect.","Plausible","active","AAR",96,"Version1"
+"201","The architect calmed the benefactor.","Implausible","active","AAR",96,"Version1"
+"201","The architect was calmed by the benefactor.","Plausible","passive","AAR",96,"Version1"
+"201","The benefactor was calmed by the architect.","Implausible","passive","AAR",96,"Version1"
+"202","The patron soothed the draftsman.","Plausible","active","AAR",96,"Version2"
+"202","The draftsman soothed the patron.","Implausible","active","AAR",96,"Version2"
+"202","The draftsman was soothed by the patron.","Plausible","passive","AAR",96,"Version2"
+"202","The patron was soothed by the draftsman.","Implausible","passive","AAR",96,"Version2"
+"203","The therapist lauded the hairdresser.","Plausible","active","AAR",97,"Version1"
+"203","The hairdresser lauded the therapist.","Implausible","active","AAR",97,"Version1"
+"203","The hairdresser was lauded by the therapist.","Plausible","passive","AAR",97,"Version1"
+"203","The therapist was lauded by the hairdresser.","Implausible","passive","AAR",97,"Version1"
+"204","The psychologist extolled the hairstylist.","Plausible","active","AAR",97,"Version2"
+"204","The hairstylist extolled the psychologist.","Implausible","active","AAR",97,"Version2"
+"204","The hairstylist was extolled by the psychologist.","Plausible","passive","AAR",97,"Version2"
+"204","The psychologist was extolled by the hairstylist.","Implausible","passive","AAR",97,"Version2"
+"205","The nobleman married the baroness.","Plausible","active","AAR",98,"Version1"
+"205","The baroness married the nobleman.","Implausible","active","AAR",98,"Version1"
+"205","The baroness was married by the nobleman.","Plausible","passive","AAR",98,"Version1"
+"205","The nobleman was married by the baroness.","Implausible","passive","AAR",98,"Version1"
+"206","The aristocrat wed the countess.","Plausible","active","AAR",98,"Version2"
+"206","The countess wed the aristocrat.","Implausible","active","AAR",98,"Version2"
+"206","The countess was wed by the aristocrat.","Plausible","passive","AAR",98,"Version2"
+"206","The aristocrat was wed by the countess.","Implausible","passive","AAR",98,"Version2"
+"207","The actuary assuaged the creditor.","Plausible","active","AAR",99,"Version1"
+"207","The creditor assuaged the actuary.","Implausible","active","AAR",99,"Version1"
+"207","The creditor was assuaged by the actuary.","Plausible","passive","AAR",99,"Version1"
+"207","The actuary was assuaged by the creditor.","Implausible","passive","AAR",99,"Version1"
+"208","The analyst relieved the investor.","Plausible","active","AAR",99,"Version2"
+"208","The investor relieved the analyst.","Implausible","active","AAR",99,"Version2"
+"208","The investor was relieved by the analyst.","Plausible","passive","AAR",99,"Version2"
+"208","The analyst was relieved by the investor.","Implausible","passive","AAR",99,"Version2"
+"209","The sailor frightened the psychic.","Plausible","active","AAR",100,"Version1"
+"209","The psychic frightened the sailor.","Implausible","active","AAR",100,"Version1"
+"209","The psychic was frightened by the sailor.","Plausible","passive","AAR",100,"Version1"
+"209","The sailor was frightened by the psychic.","Implausible","passive","AAR",100,"Version1"
+"210","The mariner scared the fortune-teller.","Plausible","active","AAR",100,"Version2"
+"210","The fortune-teller scared the mariner.","Implausible","active","AAR",100,"Version2"
+"210","The fortune-teller was scared by the mariner.","Plausible","passive","AAR",100,"Version2"
+"210","The mariner was scared by the fortune-teller.","Implausible","passive","AAR",100,"Version2"
+"211","The assistant flattered the auditor.","Plausible","active","AAR",101,"Version1"
+"211","The auditor flattered the assistant.","Implausible","active","AAR",101,"Version1"
+"211","The auditor was flattered by the assistant.","Plausible","passive","AAR",101,"Version1"
+"211","The assistant was flattered by the auditor.","Implausible","passive","AAR",101,"Version1"
+"212","The helper complimented the appraiser.","Plausible","active","AAR",101,"Version2"
+"212","The appraiser complimented the helper.","Implausible","active","AAR",101,"Version2"
+"212","The appraiser was complimented by the helper.","Plausible","passive","AAR",101,"Version2"
+"212","The helper was complimented by the appraiser.","Implausible","passive","AAR",101,"Version2"
+"213","The immigrant believed the trooper.","Plausible","active","AAR",102,"Version1"
+"213","The trooper believed the immigrant.","Implausible","active","AAR",102,"Version1"
+"213","The trooper was believed by the immigrant.","Plausible","passive","AAR",102,"Version1"
+"213","The immigrant was believed by the trooper.","Implausible","passive","AAR",102,"Version1"
+"214","The foreigner trusted the patrolman.","Plausible","active","AAR",102,"Version2"
+"214","The patrolman trusted the foreigner.","Implausible","active","AAR",102,"Version2"
+"214","The patrolman was trusted by the foreigner.","Plausible","passive","AAR",102,"Version2"
+"214","The foreigner was trusted by the patrolman.","Implausible","passive","AAR",102,"Version2"
+"215","The mapmaker affronted the farmer.","Plausible","active","AAR",103,"Version1"
+"215","The farmer affronted the mapmaker.","Implausible","active","AAR",103,"Version1"
+"215","The farmer was affronted by the mapmaker.","Plausible","passive","AAR",103,"Version1"
+"215","The mapmaker was affronted by the farmer.","Implausible","passive","AAR",103,"Version1"
+"216","The cartographer insulted the rancher.","Plausible","active","AAR",103,"Version2"
+"216","The rancher insulted the cartographer.","Implausible","active","AAR",103,"Version2"
+"216","The rancher was insulted by the cartographer.","Plausible","passive","AAR",103,"Version2"
+"216","The cartographer was insulted by the rancher.","Implausible","passive","AAR",103,"Version2"
+"217","The poet awed the entertainer.","Plausible","active","AAR",104,"Version1"
+"217","The entertainer awed the poet.","Implausible","active","AAR",104,"Version1"
+"217","The entertainer was awed by the poet.","Plausible","passive","AAR",104,"Version1"
+"217","The poet was awed by the entertainer.","Implausible","passive","AAR",104,"Version1"
+"218","The lyricist dazzled the performer.","Plausible","active","AAR",104,"Version2"
+"218","The performer dazzled the lyricist.","Implausible","active","AAR",104,"Version2"
+"218","The performer was dazzled by the lyricist.","Plausible","passive","AAR",104,"Version2"
+"218","The lyricist was dazzled by the performer.","Implausible","passive","AAR",104,"Version2"
+"219","The peddler tested the manager.","Plausible","active","AAR",105,"Version1"
+"219","The manager tested the peddler.","Implausible","active","AAR",105,"Version1"
+"219","The manager was tested by the peddler.","Plausible","passive","AAR",105,"Version1"
+"219","The peddler was tested by the manager.","Implausible","passive","AAR",105,"Version1"
+"220","The traveling salesman challenged the executive.","Plausible","active","AAR",105,"Version2"
+"220","The executive challenged the traveling salesman.","Implausible","active","AAR",105,"Version2"
+"220","The executive was challenged by the traveling salesman.","Plausible","passive","AAR",105,"Version2"
+"220","The traveling salesman was challenged by the executive.","Implausible","passive","AAR",105,"Version2"
+"221","The musician admired the diva.","Plausible","active","AAR",106,"Version1"
+"221","The diva admired the musician.","Implausible","active","AAR",106,"Version1"
+"221","The diva was admired by the musician.","Plausible","passive","AAR",106,"Version1"
+"221","The musician was admired by the diva.","Implausible","passive","AAR",106,"Version1"
+"222","The instrumentalist adored the prima donna.","Plausible","active","AAR",106,"Version2"
+"222","The prima donna adored the instrumentalist.","Implausible","active","AAR",106,"Version2"
+"222","The prima donna was adored by the instrumentalist.","Plausible","passive","AAR",106,"Version2"
+"222","The instrumentalist was adored by the prima donna.","Implausible","passive","AAR",106,"Version2"
+"223","The general welcomed the hero.","Plausible","active","AAR",107,"Version1"
+"223","The hero welcomed the general.","Implausible","active","AAR",107,"Version1"
+"223","The hero was welcomed by the general.","Plausible","passive","AAR",107,"Version1"
+"223","The general was welcomed by the hero.","Implausible","passive","AAR",107,"Version1"
+"224","The commander greeted the champion.","Plausible","active","AAR",107,"Version2"
+"224","The champion greeted the commander.","Implausible","active","AAR",107,"Version2"
+"224","The champion was greeted by the commander.","Plausible","passive","AAR",107,"Version2"
+"224","The commander was greeted by the champion.","Implausible","passive","AAR",107,"Version2"
+"225","The cobbler disdained the stonecutter.","Plausible","active","AAR",108,"Version1"
+"225","The stonecutter disdained the cobbler.","Implausible","active","AAR",108,"Version1"
+"225","The stonecutter was disdained by the cobbler.","Plausible","passive","AAR",108,"Version1"
+"225","The cobbler was disdained by the stonecutter.","Implausible","passive","AAR",108,"Version1"
+"226","The shoemaker scorned the mason.","Plausible","active","AAR",108,"Version2"
+"226","The mason scorned the shoemaker.","Implausible","active","AAR",108,"Version2"
+"226","The mason was scorned by the shoemaker.","Plausible","passive","AAR",108,"Version2"
+"226","The shoemaker was scorned by the mason.","Implausible","passive","AAR",108,"Version2"
+"227","The postman noticed the chaplain.","Plausible","active","AAR",109,"Version1"
+"227","The chaplain noticed the postman.","Implausible","active","AAR",109,"Version1"
+"227","The chaplain was noticed by the postman.","Plausible","passive","AAR",109,"Version1"
+"227","The postman was noticed by the chaplain.","Implausible","passive","AAR",109,"Version1"
+"228","The mailman saw the minister.","Plausible","active","AAR",109,"Version2"
+"228","The minister saw the mailman.","Implausible","active","AAR",109,"Version2"
+"228","The minister was seen by the mailman.","Plausible","passive","AAR",109,"Version2"
+"228","The mailman was seen by the minister.","Implausible","passive","AAR",109,"Version2"
+"229","The composer begrudged the playwright.","Plausible","active","AAR",110,"Version1"
+"229","The playwright begrudged the composer.","Implausible","active","AAR",110,"Version1"
+"229","The playwright was begrudged by the composer.","Plausible","passive","AAR",110,"Version1"
+"229","The composer was begrudged by the playwright.","Implausible","passive","AAR",110,"Version1"
+"230","The songwriter envied the dramatist.","Plausible","active","AAR",110,"Version2"
+"230","The dramatist envied the songwriter.","Implausible","active","AAR",110,"Version2"
+"230","The dramatist was envied by the songwriter.","Plausible","passive","AAR",110,"Version2"
+"230","The songwriter was envied by the dramatist.","Implausible","passive","AAR",110,"Version2"
+"233","The missionary baffled the oracle.","Plausible","active","AAR",112,"Version1"
+"233","The oracle baffled the missionary.","Implausible","active","AAR",112,"Version1"
+"233","The oracle was baffled by the missionary.","Plausible","passive","AAR",112,"Version1"
+"233","The missionary was baffled by the oracle.","Implausible","passive","AAR",112,"Version1"
+"234","The evangelist mystified the soothsayer.","Plausible","active","AAR",112,"Version2"
+"234","The soothsayer mystified the evangelist.","Implausible","active","AAR",112,"Version2"
+"234","The soothsayer was mystified by the evangelist.","Plausible","passive","AAR",112,"Version2"
+"234","The evangelist was mystified by the soothsayer.","Implausible","passive","AAR",112,"Version2"
+"235","The trespasser choked the fighter.","Plausible","active","AAR",113,"Version1"
+"235","The fighter choked the trespasser.","Implausible","active","AAR",113,"Version1"
+"235","The fighter was choked by the trespasser.","Plausible","passive","AAR",113,"Version1"
+"235","The trespasser was choked by the fighter.","Implausible","passive","AAR",113,"Version1"
+"237","The broker introduced the donor.","Plausible","active","AAR",114,"Version1"
+"237","The donor introduced the broker.","Implausible","active","AAR",114,"Version1"
+"237","The donor was introduced by the broker.","Plausible","passive","AAR",114,"Version1"
+"237","The broker was introduced by the donor.","Implausible","passive","AAR",114,"Version1"
+"238","The dealer presented the sponsor.","Plausible","active","AAR",114,"Version2"
+"238","The sponsor presented the dealer.","Implausible","active","AAR",114,"Version2"
+"238","The sponsor was presented by the dealer.","Plausible","passive","AAR",114,"Version2"
+"238","The dealer was presented by the sponsor.","Implausible","passive","AAR",114,"Version2"
+"239","The shrink commended the dean.","Plausible","active","AAR",115,"Version1"
+"239","The dean commended the shrink.","Implausible","active","AAR",115,"Version1"
+"239","The dean was commended by the shrink.","Plausible","passive","AAR",115,"Version1"
+"239","The shrink was commended by the dean.","Implausible","passive","AAR",115,"Version1"
+"240","The psychiatrist applauded the provost.","Plausible","active","AAR",115,"Version2"
+"240","The provost applauded the psychiatrist.","Implausible","active","AAR",115,"Version2"
+"240","The provost was applauded by the psychiatrist.","Plausible","passive","AAR",115,"Version2"
+"240","The psychiatrist was applauded by the provost.","Implausible","passive","AAR",115,"Version2"
+"241","The refugee provoked the homeless person.","Plausible","active","AAR",116,"Version1"
+"241","The homeless person provoked the refugee.","Implausible","active","AAR",116,"Version1"
+"241","The homeless person was provoked by the refugee.","Plausible","passive","AAR",116,"Version1"
+"241","The refugee was provoked by the homeless person.","Implausible","passive","AAR",116,"Version1"
+"242","The asylum seeker goaded the vagrant.","Plausible","active","AAR",116,"Version2"
+"242","The vagrant goaded the asylum seeker.","Implausible","active","AAR",116,"Version2"
+"242","The vagrant was goaded by the asylum seeker.","Plausible","passive","AAR",116,"Version2"
+"242","The asylum seeker was goaded by the vagrant.","Implausible","passive","AAR",116,"Version2"
+"243","The interpreter swindled the messenger.","Plausible","active","AAR",117,"Version1"
+"243","The messenger swindled the interpreter.","Implausible","active","AAR",117,"Version1"
+"243","The messenger was swindled by the interpreter.","Plausible","passive","AAR",117,"Version1"
+"243","The interpreter was swindled by the messenger.","Implausible","passive","AAR",117,"Version1"
+"244","The translator deceived the courier.","Plausible","active","AAR",117,"Version2"
+"244","The courier deceived the translator.","Implausible","active","AAR",117,"Version2"
+"244","The courier was deceived by the translator.","Plausible","passive","AAR",117,"Version2"
+"244","The translator was deceived by the courier.","Implausible","passive","AAR",117,"Version2"
+"245","The gangster hated the governor.","Plausible","active","AAR",118,"Version1"
+"245","The governor hated the gangster.","Implausible","active","AAR",118,"Version1"
+"245","The governor was hated by the gangster.","Plausible","passive","AAR",118,"Version1"
+"245","The gangster was hated by the governor.","Implausible","passive","AAR",118,"Version1"
+"246","The hoodlum abhorred the chancellor.","Plausible","active","AAR",118,"Version2"
+"246","The chancellor abhorred the hoodlum.","Implausible","active","AAR",118,"Version2"
+"246","The chancellor was abhorred by the hoodlum.","Plausible","passive","AAR",118,"Version2"
+"246","The hoodlum was abhorred by the chancellor.","Implausible","passive","AAR",118,"Version2"
+"247","The planner convinced the customer.","Plausible","active","AAR",119,"Version1"
+"247","The customer convinced the planner.","Implausible","active","AAR",119,"Version1"
+"247","The customer was convinced by the planner.","Plausible","passive","AAR",119,"Version1"
+"247","The planner was convinced by the customer.","Implausible","passive","AAR",119,"Version1"
+"248","The organizer persuaded the buyer.","Plausible","active","AAR",119,"Version2"
+"248","The buyer persuaded the organizer.","Implausible","active","AAR",119,"Version2"
+"248","The buyer was persuaded by the organizer.","Plausible","passive","AAR",119,"Version2"
+"248","The organizer was persuaded by the buyer.","Implausible","passive","AAR",119,"Version2"
+"249","The wizard protected the gnome.","Plausible","active","AAR",120,"Version1"
+"249","The gnome protected the wizard.","Implausible","active","AAR",120,"Version1"
+"249","The gnome was protected by the wizard.","Plausible","passive","AAR",120,"Version1"
+"249","The wizard was protected by the gnome.","Implausible","passive","AAR",120,"Version1"
+"250","The sorcerer defended the dwarf.","Plausible","active","AAR",120,"Version2"
+"250","The dwarf defended the sorcerer.","Implausible","active","AAR",120,"Version2"
+"250","The dwarf was defended by the sorcerer.","Plausible","passive","AAR",120,"Version2"
+"250","The sorcerer was defended by the dwarf.","Implausible","passive","AAR",120,"Version2"
+"253","The student befuddled the professor.","Plausible","active","AAR",122,"Version1"
+"253","The professor befuddled the student.","Implausible","active","AAR",122,"Version1"
+"253","The professor was befuddled by the student.","Plausible","passive","AAR",122,"Version1"
+"253","The student was befuddled by the professor.","Implausible","passive","AAR",122,"Version1"
+"254","The scholar confused the lecturer.","Plausible","active","AAR",122,"Version2"
+"254","The lecturer confused the scholar.","Implausible","active","AAR",122,"Version2"
+"254","The lecturer was confused by the scholar.","Plausible","passive","AAR",122,"Version2"
+"254","The scholar was confused by the lecturer.","Implausible","passive","AAR",122,"Version2"
+"255","The invader spotted the sentry.","Plausible","active","AAR",123,"Version1"
+"255","The sentry spotted the invader.","Implausible","active","AAR",123,"Version1"
+"255","The sentry was spotted by the invader.","Plausible","passive","AAR",123,"Version1"
+"255","The invader was spotted by the sentry.","Implausible","passive","AAR",123,"Version1"
+"256","The intruder sighted the watchman.","Plausible","active","AAR",123,"Version2"
+"256","The watchman sighted the intruder.","Implausible","active","AAR",123,"Version2"
+"256","The watchman was sighted by the intruder.","Plausible","passive","AAR",123,"Version2"
+"256","The intruder was sighted by the watchman.","Implausible","passive","AAR",123,"Version2"
+"257","The supplier reimbursed the merchant.","Plausible","active","AAR",124,"Version1"
+"257","The merchant reimbursed the supplier.","Implausible","active","AAR",124,"Version1"
+"257","The merchant was reimbursed by the supplier.","Plausible","passive","AAR",124,"Version1"
+"257","The supplier was reimbursed by the merchant.","Implausible","passive","AAR",124,"Version1"
+"258","The wholesaler compensated the trader.","Plausible","active","AAR",124,"Version2"
+"258","The trader compensated the wholesaler.","Implausible","active","AAR",124,"Version2"
+"258","The trader was compensated by the wholesaler.","Plausible","passive","AAR",124,"Version2"
+"258","The wholesaler was compensated by the trader.","Implausible","passive","AAR",124,"Version2"
+"259","The accuser confronted the vandal.","Plausible","active","AAR",125,"Version1"
+"259","The vandal confronted the accuser.","Implausible","active","AAR",125,"Version1"
+"259","The vandal was confronted by the accuser.","Plausible","passive","AAR",125,"Version1"
+"259","The accuser was confronted by the vandal.","Implausible","passive","AAR",125,"Version1"
+"260","The plaintiff accosted the thug.","Plausible","active","AAR",125,"Version2"
+"260","The thug accosted the plaintiff.","Implausible","active","AAR",125,"Version2"
+"260","The thug was accosted by the plaintiff.","Plausible","passive","AAR",125,"Version2"
+"260","The plaintiff was accosted by the thug.","Implausible","passive","AAR",125,"Version2"
+"261","The trickster bemused the idiot.","Plausible","active","AAR",126,"Version1"
+"261","The idiot bemused the trickster.","Implausible","active","AAR",126,"Version1"
+"261","The idiot was bemused by the trickster.","Plausible","passive","AAR",126,"Version1"
+"261","The trickster was bemused by the idiot.","Implausible","passive","AAR",126,"Version1"
+"262","The swindler puzzled the fool.","Plausible","active","AAR",126,"Version2"
+"262","The fool puzzled the swindler.","Implausible","active","AAR",126,"Version2"
+"262","The fool was puzzled by the swindler.","Plausible","passive","AAR",126,"Version2"
+"262","The swindler was puzzled by the fool.","Implausible","passive","AAR",126,"Version2"
+"263","The protestor quoted the leader.","Plausible","active","AAR",127,"Version1"
+"263","The leader quoted the protestor.","Implausible","active","AAR",127,"Version1"
+"263","The leader was quoted by the protestor.","Plausible","passive","AAR",127,"Version1"
+"263","The protestor was quoted by the leader.","Implausible","passive","AAR",127,"Version1"
+"264","The striker cited the chief.","Plausible","active","AAR",127,"Version2"
+"264","The chief cited the striker.","Implausible","active","AAR",127,"Version2"
+"264","The chief was cited by the striker.","Plausible","passive","AAR",127,"Version2"
+"264","The striker was cited by the chief.","Implausible","passive","AAR",127,"Version2"
+"265","The postal worker repulsed the taxi-driver.","Plausible","active","AAR",128,"Version1"
+"265","The taxi-driver repulsed the postal worker.","Implausible","active","AAR",128,"Version1"
+"265","The taxi-driver was repulsed by the postal worker.","Plausible","passive","AAR",128,"Version1"
+"265","The postal worker was repulsed by the taxi-driver.","Implausible","passive","AAR",128,"Version1"
+"266","The letter carrier disgusted the cabbie.","Plausible","active","AAR",128,"Version2"
+"266","The cabbie disgusted the letter carrier.","Implausible","active","AAR",128,"Version2"
+"266","The cabbie was disgusted by the letter carrier.","Plausible","passive","AAR",128,"Version2"
+"266","The letter carrier was disgusted by the cabbie.","Implausible","passive","AAR",128,"Version2"
+"267","The competitor agitated the rival.","Plausible","active","AAR",129,"Version1"
+"267","The rival agitated the competitor.","Implausible","active","AAR",129,"Version1"
+"267","The rival was agitated by the competitor.","Plausible","passive","AAR",129,"Version1"
+"267","The competitor was agitated by the rival.","Implausible","passive","AAR",129,"Version1"
+"268","The contender flustered the opponent.","Plausible","active","AAR",129,"Version2"
+"268","The opponent flustered the contender.","Implausible","active","AAR",129,"Version2"
+"268","The opponent was flustered by the contender.","Plausible","passive","AAR",129,"Version2"
+"268","The contender was flustered by the opponent.","Implausible","passive","AAR",129,"Version2"
+"271","The culprit betrayed the hunter.","Plausible","active","AAR",131,"Version1"
+"271","The hunter betrayed the culprit.","Implausible","active","AAR",131,"Version1"
+"271","The hunter was betrayed by the culprit.","Plausible","passive","AAR",131,"Version1"
+"271","The culprit was betrayed by the hunter.","Implausible","passive","AAR",131,"Version1"
+"273","The botanist respected the partner.","Plausible","active","AAR",132,"Version1"
+"273","The partner respected the botanist.","Implausible","active","AAR",132,"Version1"
+"273","The partner was respected by the botanist.","Plausible","passive","AAR",132,"Version1"
+"273","The botanist was respected by the partner.","Implausible","passive","AAR",132,"Version1"
+"274","The flora specialist esteemed the collaborator.","Plausible","active","AAR",132,"Version2"
+"274","The collaborator esteemed the flora specialist.","Implausible","active","AAR",132,"Version2"
+"274","The collaborator was esteemed by the flora specialist.","Plausible","passive","AAR",132,"Version2"
+"274","The flora specialist was esteemed by the collaborator.","Implausible","passive","AAR",132,"Version2"
+"275","The pacifist placated the zealot.","Plausible","active","AAR",133,"Version1"
+"275","The zealot placated the pacifist.","Implausible","active","AAR",133,"Version1"
+"275","The zealot was placated by the pacifist.","Plausible","passive","AAR",133,"Version1"
+"275","The pacifist was placated by the zealot.","Implausible","passive","AAR",133,"Version1"
+"277","The scoundrel beat the protagonist.","Plausible","active","AAR",134,"Version1"
+"277","The protagonist beat the scoundrel.","Implausible","active","AAR",134,"Version1"
+"277","The protagonist was beaten by the scoundrel.","Plausible","passive","AAR",134,"Version1"
+"277","The scoundrel was beaten by the protagonist.","Implausible","passive","AAR",134,"Version1"
+"278","The rogue defeated the main character.","Plausible","active","AAR",134,"Version2"
+"278","The main character defeated the rogue.","Implausible","active","AAR",134,"Version2"
+"278","The main character was defeated by the rogue.","Plausible","passive","AAR",134,"Version2"
+"278","The rogue was defeated by the main character.","Implausible","passive","AAR",134,"Version2"
+"279","The sociologist accepted the offer.","Plausible","active","AI",NA,NA
+"279","The offer accepted the sociologist.","Implausible","active","AI",NA,NA
+"279","The offer was accepted by the sociologist.","Plausible","passive","AI",NA,NA
+"279","The sociologist was accepted by the offer.","Implausible","passive","AI",NA,NA
+"280","The boyfriend basted the turkey.","Plausible","active","AI",NA,NA
+"280","The turkey basted the boyfriend.","Implausible","active","AI",NA,NA
+"280","The turkey was basted by the boyfriend.","Plausible","passive","AI",NA,NA
+"280","The boyfriend was basted by the turkey.","Implausible","passive","AI",NA,NA
+"281","The caseworker posed the question.","Plausible","active","AI",NA,NA
+"281","The question posed the caseworker.","Implausible","active","AI",NA,NA
+"281","The question was posed by the caseworker.","Plausible","passive","AI",NA,NA
+"281","The caseworker was posed by the question.","Implausible","passive","AI",NA,NA
+"282","The ditch digger bent the wire.","Plausible","active","AI",NA,NA
+"282","The wire bent the ditch digger.","Implausible","active","AI",NA,NA
+"282","The wire was bent by the ditch digger.","Plausible","passive","AI",NA,NA
+"282","The ditch digger was bent by the wire.","Implausible","passive","AI",NA,NA
+"284","The uncle hung the ornament.","Plausible","active","AI",NA,NA
+"284","The ornament hung the uncle.","Implausible","active","AI",NA,NA
+"284","The ornament was hung by the uncle.","Plausible","passive","AI",NA,NA
+"284","The uncle was hung by the ornament.","Implausible","passive","AI",NA,NA
+"285","The attendant pressed the button.","Plausible","active","AI",NA,NA
+"285","The button pressed the attendant.","Implausible","active","AI",NA,NA
+"285","The button was pressed by the attendant.","Plausible","passive","AI",NA,NA
+"285","The attendant was pressed by the button.","Implausible","passive","AI",NA,NA
+"286","The bum stole the necklace.","Plausible","active","AI",NA,NA
+"286","The necklace stole the bum.","Implausible","active","AI",NA,NA
+"286","The necklace was stolen by the bum.","Plausible","passive","AI",NA,NA
+"286","The bum was stolen by the necklace.","Implausible","passive","AI",NA,NA
+"287","The potter molded the clay.","Plausible","active","AI",NA,NA
+"287","The clay molded the potter.","Implausible","active","AI",NA,NA
+"287","The clay was molded by the potter.","Plausible","passive","AI",NA,NA
+"287","The potter was molded by the clay.","Implausible","passive","AI",NA,NA
+"288","The guarantor initialed the form.","Plausible","active","AI",NA,NA
+"288","The form initialed the guarantor.","Implausible","active","AI",NA,NA
+"288","The form was initialed by the guarantor.","Plausible","passive","AI",NA,NA
+"288","The guarantor was initialed by the form.","Implausible","passive","AI",NA,NA
+"289","The couch-potato forgot the umbrella.","Plausible","active","AI",NA,NA
+"289","The umbrella forgot the couch-potato.","Implausible","active","AI",NA,NA
+"289","The umbrella was forgotten by the couch-potato.","Plausible","passive","AI",NA,NA
+"289","The couch-potato was forgotten by the umbrella.","Implausible","passive","AI",NA,NA
+"290","The groupie attended the concert.","Plausible","active","AI",NA,NA
+"290","The concert attended the groupie.","Implausible","active","AI",NA,NA
+"290","The concert was attended by the groupie.","Plausible","passive","AI",NA,NA
+"290","The groupie was attended by the concert.","Implausible","passive","AI",NA,NA
+"291","The hacker memorized the password.","Plausible","active","AI",NA,NA
+"291","The password memorized the hacker.","Implausible","active","AI",NA,NA
+"291","The password was memorized by the hacker.","Plausible","passive","AI",NA,NA
+"291","The hacker was memorized by the password.","Implausible","passive","AI",NA,NA
+"292","The marine packed the bag.","Plausible","active","AI",NA,NA
+"292","The bag packed the marine.","Implausible","active","AI",NA,NA
+"292","The bag was packed by the marine.","Plausible","passive","AI",NA,NA
+"292","The marine was packed by the bag.","Implausible","passive","AI",NA,NA
+"294","The seamstress ironed the shirt.","Plausible","active","AI",NA,NA
+"294","The shirt ironed the seamstress.","Implausible","active","AI",NA,NA
+"294","The shirt was ironed by the seamstress.","Plausible","passive","AI",NA,NA
+"294","The seamstress was ironed by the shirt.","Implausible","passive","AI",NA,NA
+"295","The confectioner sprinkled the sugar.","Plausible","active","AI",NA,NA
+"295","The sugar sprinkled the confectioner.","Implausible","active","AI",NA,NA
+"295","The sugar was sprinkled by the confectioner.","Plausible","passive","AI",NA,NA
+"295","The confectioner was sprinkled by the sugar.","Implausible","passive","AI",NA,NA
+"296","The voter sealed the envelope.","Plausible","active","AI",NA,NA
+"296","The envelope sealed the voter.","Implausible","active","AI",NA,NA
+"296","The envelope was sealed by the voter.","Plausible","passive","AI",NA,NA
+"296","The voter was sealed by the envelope.","Implausible","passive","AI",NA,NA
+"297","The fisherman emptied the trashcan.","Plausible","active","AI",NA,NA
+"297","The trashcan emptied the fisherman.","Implausible","active","AI",NA,NA
+"297","The trashcan was emptied by the fisherman.","Plausible","passive","AI",NA,NA
+"297","The fisherman was emptied by the trashcan.","Implausible","passive","AI",NA,NA
+"298","The cellist received the prize.","Plausible","active","AI",NA,NA
+"298","The prize received the cellist.","Implausible","active","AI",NA,NA
+"298","The prize was received by the cellist.","Plausible","passive","AI",NA,NA
+"298","The cellist was received by the prize.","Implausible","passive","AI",NA,NA
+"299","The cheapskate rated the service.","Plausible","active","AI",NA,NA
+"299","The service rated the cheapskate.","Implausible","active","AI",NA,NA
+"299","The service was rated by the cheapskate.","Plausible","passive","AI",NA,NA
+"299","The cheapskate was rated by the service.","Implausible","passive","AI",NA,NA
+"300","The schoolgirl borrowed the key.","Plausible","active","AI",NA,NA
+"300","The key borrowed the schoolgirl.","Implausible","active","AI",NA,NA
+"300","The key was borrowed by the schoolgirl.","Plausible","passive","AI",NA,NA
+"300","The schoolgirl was borrowed by the key.","Implausible","passive","AI",NA,NA
+"301","The bookworm recited the poem.","Plausible","active","AI",NA,NA
+"301","The poem recited the bookworm.","Implausible","active","AI",NA,NA
+"301","The poem was recited by the bookworm.","Plausible","passive","AI",NA,NA
+"301","The bookworm was recited by the poem.","Implausible","passive","AI",NA,NA
+"302","The diver recharged the battery.","Plausible","active","AI",NA,NA
+"302","The battery recharged the diver.","Implausible","active","AI",NA,NA
+"302","The battery was recharged by the diver.","Plausible","passive","AI",NA,NA
+"302","The diver was recharged by the battery.","Implausible","passive","AI",NA,NA
+"303","The poker player won the game.","Plausible","active","AI",NA,NA
+"303","The game won the poker player.","Implausible","active","AI",NA,NA
+"303","The game was won by the poker player.","Plausible","passive","AI",NA,NA
+"303","The poker player was won by the game.","Implausible","passive","AI",NA,NA
+"304","The copycat redecorated the apartment.","Plausible","active","AI",NA,NA
+"304","The apartment redecorated the copycat.","Implausible","active","AI",NA,NA
+"304","The apartment was redecorated by the copycat.","Plausible","passive","AI",NA,NA
+"304","The copycat was redecorated by the apartment.","Implausible","passive","AI",NA,NA
+"305","The winemaker uncorked the bottle.","Plausible","active","AI",NA,NA
+"305","The bottle uncorked the winemaker.","Implausible","active","AI",NA,NA
+"305","The bottle was uncorked by the winemaker.","Plausible","passive","AI",NA,NA
+"305","The winemaker was uncorked by the bottle.","Implausible","passive","AI",NA,NA
+"308","The exterminator filed the complaint.","Plausible","active","AI",NA,NA
+"308","The complaint filed the exterminator.","Implausible","active","AI",NA,NA
+"308","The complaint was filed by the exterminator.","Plausible","passive","AI",NA,NA
+"308","The exterminator was filed by the complaint.","Implausible","passive","AI",NA,NA
+"309","The minuteman loaded the gun.","Plausible","active","AI",NA,NA
+"309","The gun loaded the minuteman.","Implausible","active","AI",NA,NA
+"309","The gun was loaded by the minuteman.","Plausible","passive","AI",NA,NA
+"309","The minuteman was loaded by the gun.","Implausible","passive","AI",NA,NA
+"310","The bookseller calculated the profit.","Plausible","active","AI",NA,NA
+"310","The profit calculated the bookseller.","Implausible","active","AI",NA,NA
+"310","The profit was calculated by the bookseller.","Plausible","passive","AI",NA,NA
+"310","The bookseller was calculated by the profit.","Implausible","passive","AI",NA,NA
+"311","The count inherited the painting.","Plausible","active","AI",NA,NA
+"311","The painting inherited the count.","Implausible","active","AI",NA,NA
+"311","The painting was inherited by the count.","Plausible","passive","AI",NA,NA
+"311","The count was inherited by the painting.","Implausible","passive","AI",NA,NA
+"312","The groundskeeper changed the light bulb.","Plausible","active","AI",NA,NA
+"312","The light bulb changed the groundskeeper.","Implausible","active","AI",NA,NA
+"312","The light bulb was changed by the groundskeeper.","Plausible","passive","AI",NA,NA
+"312","The groundskeeper was changed by the light bulb.","Implausible","passive","AI",NA,NA
+"313","The marcher sang the anthem.","Plausible","active","AI",NA,NA
+"313","The anthem sang the marcher.","Implausible","active","AI",NA,NA
+"313","The anthem was sung by the marcher.","Plausible","passive","AI",NA,NA
+"313","The marcher was sung by the anthem.","Implausible","passive","AI",NA,NA
+"314","The deckhand unlocked the door.","Plausible","active","AI",NA,NA
+"314","The door unlocked the deckhand.","Implausible","active","AI",NA,NA
+"314","The door was unlocked by the deckhand.","Plausible","passive","AI",NA,NA
+"314","The deckhand was unlocked by the door.","Implausible","passive","AI",NA,NA
+"315","The supremacist established the fund.","Plausible","active","AI",NA,NA
+"315","The fund established the supremacist.","Implausible","active","AI",NA,NA
+"315","The fund was established by the supremacist.","Plausible","passive","AI",NA,NA
+"315","The supremacist was established by the fund.","Implausible","passive","AI",NA,NA
+"316","The house sitter watered the plant.","Plausible","active","AI",NA,NA
+"316","The plant watered the house sitter.","Implausible","active","AI",NA,NA
+"316","The plant was watered by the house sitter.","Plausible","passive","AI",NA,NA
+"316","The house sitter was watered by the plant.","Implausible","passive","AI",NA,NA
+"317","The interviewee wrinkled the suit.","Plausible","active","AI",NA,NA
+"317","The suit wrinkled the interviewee.","Implausible","active","AI",NA,NA
+"317","The suit was wrinkled by the interviewee.","Plausible","passive","AI",NA,NA
+"317","The interviewee was wrinkled by the suit.","Implausible","passive","AI",NA,NA
+"318","The cryptographer sent the letter.","Plausible","active","AI",NA,NA
+"318","The letter sent the cryptographer.","Implausible","active","AI",NA,NA
+"318","The letter was sent by the cryptographer.","Plausible","passive","AI",NA,NA
+"318","The cryptographer was sent by the letter.","Implausible","passive","AI",NA,NA
+"319","The bellboy erased the message.","Plausible","active","AI",NA,NA
+"319","The message erased the bellboy.","Implausible","active","AI",NA,NA
+"319","The message was erased by the bellboy.","Plausible","passive","AI",NA,NA
+"319","The bellboy was erased by the message.","Implausible","passive","AI",NA,NA
+"320","The forger shipped the package.","Plausible","active","AI",NA,NA
+"320","The package shipped the forger.","Implausible","active","AI",NA,NA
+"320","The package was shipped by the forger.","Plausible","passive","AI",NA,NA
+"320","The forger was shipped by the package.","Implausible","passive","AI",NA,NA
+"321","The crackhead smoked the pipe.","Plausible","active","AI",NA,NA
+"321","The pipe smoked the crackhead.","Implausible","active","AI",NA,NA
+"321","The pipe was smoked by the crackhead.","Plausible","passive","AI",NA,NA
+"321","The crackhead was smoked by the pipe.","Implausible","passive","AI",NA,NA
+"322","The manicurist rescheduled the appointment.","Plausible","active","AI",NA,NA
+"322","The appointment rescheduled the manicurist.","Implausible","active","AI",NA,NA
+"322","The appointment was rescheduled by the manicurist.","Plausible","passive","AI",NA,NA
+"322","The manicurist was rescheduled by the appointment.","Implausible","passive","AI",NA,NA
+"323","The charlatan burned the contract.","Plausible","active","AI",NA,NA
+"323","The contract burned the charlatan.","Implausible","active","AI",NA,NA
+"323","The contract was burnt by the charlatan.","Plausible","passive","AI",NA,NA
+"323","The charlatan was burnt by the contract.","Implausible","passive","AI",NA,NA
+"324","The tanner placed the order.","Plausible","active","AI",NA,NA
+"324","The order placed the tanner.","Implausible","active","AI",NA,NA
+"324","The order was placed by the tanner.","Plausible","passive","AI",NA,NA
+"324","The tanner was placed by the order.","Implausible","passive","AI",NA,NA
+"325","The archaeologist canceled the trip.","Plausible","active","AI",NA,NA
+"325","The trip canceled the archaeologist.","Implausible","active","AI",NA,NA
+"325","The trip was canceled by the archaeologist.","Plausible","passive","AI",NA,NA
+"325","The archaeologist was canceled by the trip.","Implausible","passive","AI",NA,NA
+"326","The Frenchman sliced the baguette.","Plausible","active","AI",NA,NA
+"326","The baguette sliced the Frenchman.","Implausible","active","AI",NA,NA
+"326","The baguette was sliced by the Frenchman.","Plausible","passive","AI",NA,NA
+"326","The Frenchman was sliced by the baguette.","Implausible","passive","AI",NA,NA
+"327","The producer cast the actress.","Plausible","active","AAN",NA,NA
+"327","The actress cast the producer.","Implausible","active","AAN",NA,NA
+"327","The actress was cast by the producer.","Plausible","passive","AAN",NA,NA
+"327","The producer was cast by the actress.","Implausible","passive","AAN",NA,NA
+"329","The exorcist vanquished the spirit.","Plausible","active","AAN",NA,NA
+"329","The spirit vanquished the exorcist.","Implausible","active","AAN",NA,NA
+"329","The spirit was vanquished by the exorcist.","Plausible","passive","AAN",NA,NA
+"329","The exorcist was vanquished by the spirit.","Implausible","passive","AAN",NA,NA
+"330","The barber shaved the old man.","Plausible","active","AAN",NA,NA
+"330","The old man shaved the barber.","Implausible","active","AAN",NA,NA
+"330","The old man was shaved by the barber.","Plausible","passive","AAN",NA,NA
+"330","The barber was shaved by the old man.","Implausible","passive","AAN",NA,NA
+"331","The paparazzi stalked the pop star.","Plausible","active","AAN",NA,NA
+"331","The pop star stalked the paparazzi.","Implausible","active","AAN",NA,NA
+"331","The pop star was stalked by the paparazzi.","Plausible","passive","AAN",NA,NA
+"331","The paparazzi was stalked by the pop star.","Implausible","passive","AAN",NA,NA
+"332","The brunette tipped the busboy.","Plausible","active","AAN",NA,NA
+"332","The busboy tipped the brunette.","Implausible","active","AAN",NA,NA
+"332","The busboy was tipped by the brunette.","Plausible","passive","AAN",NA,NA
+"332","The brunette was tipped by the busboy.","Implausible","passive","AAN",NA,NA
+"333","The roommate adopted the newborn.","Plausible","active","AAN",NA,NA
+"333","The newborn adopted the roommate.","Implausible","active","AAN",NA,NA
+"333","The newborn was adopted by the roommate.","Plausible","passive","AAN",NA,NA
+"333","The roommate was adopted by the newborn.","Implausible","passive","AAN",NA,NA
+"334","The cartoonist sketched the unicyclist.","Plausible","active","AAN",NA,NA
+"334","The unicyclist sketched the cartoonist.","Implausible","active","AAN",NA,NA
+"334","The unicyclist was sketched by the cartoonist.","Plausible","passive","AAN",NA,NA
+"334","The cartoonist was sketched by the unicyclist.","Implausible","passive","AAN",NA,NA
+"335","The streetwalker undercharged the seaman.","Plausible","active","AAN",NA,NA
+"335","The seaman undercharged the streetwalker.","Implausible","active","AAN",NA,NA
+"335","The seaman was undercharged by the streetwalker.","Plausible","passive","AAN",NA,NA
+"335","The streetwalker was undercharged by the seaman.","Implausible","passive","AAN",NA,NA
+"336","The urologist treated the widower.","Plausible","active","AAN",NA,NA
+"336","The widower treated the urologist.","Implausible","active","AAN",NA,NA
+"336","The widower was treated by the urologist.","Plausible","passive","AAN",NA,NA
+"336","The urologist was treated by the widower.","Implausible","passive","AAN",NA,NA
+"337","The jury acquitted the economist.","Plausible","active","AAN",NA,NA
+"337","The economist acquitted the jury.","Implausible","active","AAN",NA,NA
+"337","The economist was acquitted by the jury.","Plausible","passive","AAN",NA,NA
+"337","The jury was acquitted by the economist.","Implausible","passive","AAN",NA,NA
+"338","The freshman dodged the bully.","Plausible","active","AAN",NA,NA
+"338","The bully dodged the freshman.","Implausible","active","AAN",NA,NA
+"338","The bully was dodged by the freshman.","Plausible","passive","AAN",NA,NA
+"338","The freshman was dodged by the bully.","Implausible","passive","AAN",NA,NA
+"339","The nun reproached the hedonist.","Plausible","active","AAN",NA,NA
+"339","The hedonist reproached the nun.","Implausible","active","AAN",NA,NA
+"339","The hedonist was reproached by the nun.","Plausible","passive","AAN",NA,NA
+"339","The nun was reproached by the hedonist.","Implausible","passive","AAN",NA,NA
+"340","The librarian admonished the plagiarist.","Plausible","active","AAN",NA,NA
+"340","The plagiarist admonished the librarian.","Implausible","active","AAN",NA,NA
+"340","The plagiarist was admonished by the librarian.","Plausible","passive","AAN",NA,NA
+"340","The librarian was admonished by the plagiarist.","Implausible","passive","AAN",NA,NA
+"341","The colonel supervised the cadet.","Plausible","active","AAN",NA,NA
+"341","The cadet supervised the colonel.","Implausible","active","AAN",NA,NA
+"341","The cadet was supervised by the colonel.","Plausible","passive","AAN",NA,NA
+"341","The colonel was supervised by the cadet.","Implausible","passive","AAN",NA,NA
+"342","The abolitionist hid the slave.","Plausible","active","AAN",NA,NA
+"342","The slave hid the abolitionist.","Implausible","active","AAN",NA,NA
+"342","The slave was hidden by the abolitionist.","Plausible","passive","AAN",NA,NA
+"342","The abolitionist was hidden by the slave.","Implausible","passive","AAN",NA,NA
+"343","The personal trainer weighed the Olympian.","Plausible","active","AAN",NA,NA
+"343","The Olympian weighed the personal trainer.","Implausible","active","AAN",NA,NA
+"343","The Olympian was weighed by the personal trainer.","Plausible","passive","AAN",NA,NA
+"343","The personal trainer was weighed by the Olympian.","Implausible","passive","AAN",NA,NA
+"344","The zookeeper fed the giraffe.","Plausible","active","AAN",NA,NA
+"344","The giraffe fed the zookeeper.","Implausible","active","AAN",NA,NA
+"344","The giraffe was fed by the zookeeper.","Plausible","passive","AAN",NA,NA
+"344","The zookeeper was fed by the giraffe.","Implausible","passive","AAN",NA,NA
+"345","The masseuse relaxed the linebacker.","Plausible","active","AAN",NA,NA
+"345","The linebacker relaxed the masseuse.","Implausible","active","AAN",NA,NA
+"345","The linebacker was relaxed by the masseuse.","Plausible","passive","AAN",NA,NA
+"345","The masseuse was relaxed by the linebacker.","Implausible","passive","AAN",NA,NA
+"346","The page obeyed the noble.","Plausible","active","AAN",NA,NA
+"346","The noble obeyed the page.","Implausible","active","AAN",NA,NA
+"346","The noble was obeyed by the page.","Plausible","passive","AAN",NA,NA
+"346","The page was obeyed by the noble.","Implausible","passive","AAN",NA,NA
+"347","The lion chased the tour-guide.","Plausible","active","AAN",NA,NA
+"347","The tour-guide chased the lion.","Implausible","active","AAN",NA,NA
+"347","The tour-guide was chased by the lion.","Plausible","passive","AAN",NA,NA
+"347","The lion was chased by the tour-guide.","Implausible","passive","AAN",NA,NA
+"348","The caretaker quieted the orphan.","Plausible","active","AAN",NA,NA
+"348","The orphan quieted the caretaker.","Implausible","active","AAN",NA,NA
+"348","The orphan was quieted by the caretaker.","Plausible","passive","AAN",NA,NA
+"348","The caretaker was quieted by the orphan.","Implausible","passive","AAN",NA,NA
+"349","The tennis player thanked the chiropractor.","Plausible","active","AAN",NA,NA
+"349","The chiropractor thanked the tennis player.","Implausible","active","AAN",NA,NA
+"349","The chiropractor was thanked by the tennis player.","Plausible","passive","AAN",NA,NA
+"349","The tennis player was thanked by the chiropractor.","Implausible","passive","AAN",NA,NA
+"350","The experimenter recruited the subject.","Plausible","active","AAN",NA,NA
+"350","The subject recruited the experimenter.","Implausible","active","AAN",NA,NA
+"350","The subject was recruited by the experimenter.","Plausible","passive","AAN",NA,NA
+"350","The experimenter was recruited by the subject.","Implausible","passive","AAN",NA,NA
+"351","The mother disciplined the toddler.","Plausible","active","AAN",NA,NA
+"351","The toddler disciplined the mother.","Implausible","active","AAN",NA,NA
+"351","The toddler was disciplined by the mother.","Plausible","passive","AAN",NA,NA
+"351","The mother was disciplined by the toddler.","Implausible","passive","AAN",NA,NA
+"352","The assistant principal expelled the sociopath.","Plausible","active","AAN",NA,NA
+"352","The sociopath expelled the assistant principal.","Implausible","active","AAN",NA,NA
+"352","The sociopath was expelled by the assistant principal.","Plausible","passive","AAN",NA,NA
+"352","The assistant principal was expelled by the sociopath.","Implausible","passive","AAN",NA,NA
+"353","The channeler sensed the ghost.","Plausible","active","AAN",NA,NA
+"353","The ghost sensed the channeler.","Implausible","active","AAN",NA,NA
+"353","The ghost was sensed by the channeler.","Plausible","passive","AAN",NA,NA
+"353","The channeler was sensed by the ghost.","Implausible","passive","AAN",NA,NA
+"354","The union ousted the whistle-blower.","Plausible","active","AAN",NA,NA
+"354","The whistle-blower ousted the union.","Implausible","active","AAN",NA,NA
+"354","The whistle-blower was ousted by the union.","Plausible","passive","AAN",NA,NA
+"354","The union was ousted by the whistle-blower.","Implausible","passive","AAN",NA,NA
+"355","The huntsman trapped the deer.","Plausible","active","AAN",NA,NA
+"355","The deer trapped the huntsman.","Implausible","active","AAN",NA,NA
+"355","The deer was trapped by the huntsman.","Plausible","passive","AAN",NA,NA
+"355","The huntsman was trapped by the deer.","Implausible","passive","AAN",NA,NA
+"356","The cardiologist discredited the quack.","Plausible","active","AAN",NA,NA
+"356","The quack discredited the cardiologist.","Implausible","active","AAN",NA,NA
+"356","The quack was discredited by the cardiologist.","Plausible","passive","AAN",NA,NA
+"356","The cardiologist was discredited by the quack.","Implausible","passive","AAN",NA,NA
+"357","The bailiff released the ruffian.","Plausible","active","AAN",NA,NA
+"357","The ruffian released the bailiff.","Implausible","active","AAN",NA,NA
+"357","The ruffian was released by the bailiff.","Plausible","passive","AAN",NA,NA
+"357","The bailiff was released by the ruffian.","Implausible","passive","AAN",NA,NA
+"358","The shark mauled the snorkeler.","Plausible","active","AAN",NA,NA
+"358","The snorkeler mauled the shark.","Implausible","active","AAN",NA,NA
+"358","The snorkeler was mauled by the shark.","Plausible","passive","AAN",NA,NA
+"358","The shark was mauled by the snorkeler.","Implausible","passive","AAN",NA,NA
+"359","The president pardoned the traitor.","Plausible","active","AAN",NA,NA
+"359","The traitor pardoned the president.","Implausible","active","AAN",NA,NA
+"359","The traitor was pardoned by the president.","Plausible","passive","AAN",NA,NA
+"359","The president was pardoned by the traitor.","Implausible","passive","AAN",NA,NA
+"360","The au pair spanked the girl.","Plausible","active","AAN",NA,NA
+"360","The girl spanked the au pair.","Implausible","active","AAN",NA,NA
+"360","The girl was spanked by the au pair.","Plausible","passive","AAN",NA,NA
+"360","The au pair was spanked by the girl.","Implausible","passive","AAN",NA,NA
+"361","The TV station head promoted the newsagent.","Plausible","active","AAN",NA,NA
+"361","The newsagent promoted the TV station head.","Implausible","active","AAN",NA,NA
+"361","The newsagent was promoted by the TV station head.","Plausible","passive","AAN",NA,NA
+"361","The TV station head was promoted by the newsagent.","Implausible","passive","AAN",NA,NA
+"362","The policewoman handcuffed the offender.","Plausible","active","AAN",NA,NA
+"362","The offender handcuffed the policewoman.","Implausible","active","AAN",NA,NA
+"362","The offender was handcuffed by the policewoman.","Plausible","passive","AAN",NA,NA
+"362","The policewoman was handcuffed by the offender.","Implausible","passive","AAN",NA,NA
+"363","The anthropologist studied the tribesman.","Plausible","active","AAN",NA,NA
+"363","The tribesman studied the anthropologist.","Implausible","active","AAN",NA,NA
+"363","The tribesman was studied by the anthropologist.","Plausible","passive","AAN",NA,NA
+"363","The anthropologist was studied by the tribesman.","Implausible","passive","AAN",NA,NA
+"364","The police chief rewarded the firefighter.","Plausible","active","AAN",NA,NA
+"364","The firefighter rewarded the police chief.","Implausible","active","AAN",NA,NA
+"364","The firefighter was rewarded by the police chief.","Plausible","passive","AAN",NA,NA
+"364","The police chief was rewarded by the firefighter.","Implausible","passive","AAN",NA,NA
+"365","The miscreant kidnapped the beneficiary.","Plausible","active","AAN",NA,NA
+"365","The beneficiary kidnapped the miscreant.","Implausible","active","AAN",NA,NA
+"365","The beneficiary was kidnapped by the miscreant.","Plausible","passive","AAN",NA,NA
+"365","The miscreant was kidnapped by the beneficiary.","Implausible","passive","AAN",NA,NA
+"366","The social worker comforted the abused woman.","Plausible","active","AAN",NA,NA
+"366","The abused woman comforted the social worker.","Implausible","active","AAN",NA,NA
+"366","The abused woman was comforted by the social worker.","Plausible","passive","AAN",NA,NA
+"366","The social worker was comforted by the abused woman.","Implausible","passive","AAN",NA,NA
+"367","The neuroscientist overwhelmed the lab assistant.","Plausible","active","AAN",NA,NA
+"367","The lab assistant overwhelmed the neuroscientist.","Implausible","active","AAN",NA,NA
+"367","The lab assistant was overwhelmed by the neuroscientist.","Plausible","passive","AAN",NA,NA
+"367","The neuroscientist was overwhelmed by the lab assistant.","Implausible","passive","AAN",NA,NA
+"368","The warmonger terrorized the gunsmith.","Plausible","active","AAN",NA,NA
+"368","The gunsmith terrorized the warmonger.","Implausible","active","AAN",NA,NA
+"368","The gunsmith was terrorized by the warmonger.","Plausible","passive","AAN",NA,NA
+"368","The warmonger was terrorized by the gunsmith.","Implausible","passive","AAN",NA,NA
+"369","The conductor tolerated the violinist.","Plausible","active","AAR",NA,NA
+"369","The violinist tolerated the conductor.","Implausible","active","AAR",NA,NA
+"369","The violinist was tolerated by the conductor.","Plausible","passive","AAR",NA,NA
+"369","The conductor was tolerated by the violinist.","Implausible","passive","AAR",NA,NA
+"370","The pitcher signaled the hitter.","Plausible","active","AAR",NA,NA
+"370","The hitter signaled the pitcher.","Implausible","active","AAR",NA,NA
+"370","The hitter was signaled by the pitcher.","Plausible","passive","AAR",NA,NA
+"370","The pitcher was signaled by the hitter.","Implausible","passive","AAR",NA,NA
+"371","The quarterback kissed the cheerleader.","Plausible","active","AAR",NA,NA
+"371","The cheerleader kissed the quarterback.","Implausible","active","AAR",NA,NA
+"371","The cheerleader was kissed by the quarterback.","Plausible","passive","AAR",NA,NA
+"371","The quarterback was kissed by the cheerleader.","Implausible","passive","AAR",NA,NA
+"372","The camper startled the bear.","Plausible","active","AAR",NA,NA
+"372","The bear startled the camper.","Implausible","active","AAR",NA,NA
+"372","The bear was startled by the camper.","Plausible","passive","AAR",NA,NA
+"372","The camper was startled by the bear.","Implausible","passive","AAR",NA,NA
+"373","The admiral accompanied the lieutenant.","Plausible","active","AAR",NA,NA
+"373","The lieutenant accompanied the admiral.","Implausible","active","AAR",NA,NA
+"373","The lieutenant was accompanied by the admiral.","Plausible","passive","AAR",NA,NA
+"373","The admiral was accompanied by the lieutenant.","Implausible","passive","AAR",NA,NA
+"374","The tenor loved the soprano.","Plausible","active","AAR",NA,NA
+"374","The soprano loved the tenor.","Implausible","active","AAR",NA,NA
+"374","The soprano was loved by the tenor.","Plausible","passive","AAR",NA,NA
+"374","The tenor was loved by the soprano.","Implausible","passive","AAR",NA,NA
+"375","The photographer paid the barrister.","Plausible","active","AAR",NA,NA
+"375","The barrister paid the photographer.","Implausible","active","AAR",NA,NA
+"375","The barrister was paid by the photographer.","Plausible","passive","AAR",NA,NA
+"375","The photographer was paid by the barrister.","Implausible","passive","AAR",NA,NA
+"376","The bachelor intrigued the blonde.","Plausible","active","AAR",NA,NA
+"376","The blonde intrigued the bachelor.","Implausible","active","AAR",NA,NA
+"376","The blonde was intrigued by the bachelor.","Plausible","passive","AAR",NA,NA
+"376","The bachelor was intrigued by the blonde.","Implausible","passive","AAR",NA,NA
+"377","The football player pursued the socialite.","Plausible","active","AAR",NA,NA
+"377","The socialite pursued the football player.","Implausible","active","AAR",NA,NA
+"377","The socialite was pursued by the football player.","Plausible","passive","AAR",NA,NA
+"377","The football player was pursued by the socialite.","Implausible","passive","AAR",NA,NA
+"378","The neurologist consulted the geneticist.","Plausible","active","AAR",NA,NA
+"378","The geneticist consulted the neurologist.","Implausible","active","AAR",NA,NA
+"378","The geneticist was consulted by the neurologist.","Plausible","passive","AAR",NA,NA
+"378","The neurologist was consulted by the geneticist.","Implausible","passive","AAR",NA,NA
+"380","The butcher accused the meatpacker.","Plausible","active","AAR",NA,NA
+"380","The meatpacker accused the butcher.","Implausible","active","AAR",NA,NA
+"380","The meatpacker was accused by the butcher.","Plausible","passive","AAR",NA,NA
+"380","The butcher was accused by the meatpacker.","Implausible","passive","AAR",NA,NA
+"381","The niece embarrassed the aunt.","Plausible","active","AAR",NA,NA
+"381","The aunt embarrassed the niece.","Implausible","active","AAR",NA,NA
+"381","The aunt was embarrassed by the niece.","Plausible","passive","AAR",NA,NA
+"381","The niece was embarrassed by the aunt.","Implausible","passive","AAR",NA,NA
+"382","The warlord hailed the mercenary.","Plausible","active","AAR",NA,NA
+"382","The mercenary hailed the warlord.","Implausible","active","AAR",NA,NA
+"382","The mercenary was hailed by the warlord.","Plausible","passive","AAR",NA,NA
+"382","The warlord was hailed by the mercenary.","Implausible","passive","AAR",NA,NA
+"383","The neighbor snubbed the newcomer.","Plausible","active","AAR",NA,NA
+"383","The newcomer snubbed the neighbor.","Implausible","active","AAR",NA,NA
+"383","The newcomer was snubbed by the neighbor.","Plausible","passive","AAR",NA,NA
+"383","The neighbor was snubbed by the newcomer.","Implausible","passive","AAR",NA,NA
+"384","The editor overheard the proofreader.","Plausible","active","AAR",NA,NA
+"384","The proofreader overheard the editor.","Implausible","active","AAR",NA,NA
+"384","The proofreader was overheard by the editor.","Plausible","passive","AAR",NA,NA
+"384","The editor was overheard by the proofreader.","Implausible","passive","AAR",NA,NA
+"385","The communist offended the capitalist.","Plausible","active","AAR",NA,NA
+"385","The capitalist offended the communist.","Implausible","active","AAR",NA,NA
+"385","The capitalist was offended by the communist.","Plausible","passive","AAR",NA,NA
+"385","The communist was offended by the capitalist.","Implausible","passive","AAR",NA,NA
+"386","The curator misinformed the sculptor.","Plausible","active","AAR",NA,NA
+"386","The sculptor misinformed the curator.","Implausible","active","AAR",NA,NA
+"386","The sculptor was misinformed by the curator.","Plausible","passive","AAR",NA,NA
+"386","The curator was misinformed by the sculptor.","Implausible","passive","AAR",NA,NA
+"387","The baker mentioned the miller.","Plausible","active","AAR",NA,NA
+"387","The miller mentioned the baker.","Implausible","active","AAR",NA,NA
+"387","The miller was mentioned by the baker.","Plausible","passive","AAR",NA,NA
+"387","The baker was mentioned by the miller.","Implausible","passive","AAR",NA,NA
+"388","The pollster shamed the statistician.","Plausible","active","AAR",NA,NA
+"388","The statistician shamed the pollster.","Implausible","active","AAR",NA,NA
+"388","The statistician was shamed by the pollster.","Plausible","passive","AAR",NA,NA
+"388","The pollster was shamed by the statistician.","Implausible","passive","AAR",NA,NA
+"389","The screenwriter emailed the actor.","Plausible","active","AAR",NA,NA
+"389","The actor emailed the screenwriter.","Implausible","active","AAR",NA,NA
+"389","The actor was emailed by the screenwriter.","Plausible","passive","AAR",NA,NA
+"389","The screenwriter was emailed by the actor.","Implausible","passive","AAR",NA,NA
+"390","The dermatologist contradicted the pathologist.","Plausible","active","AAR",NA,NA
+"390","The pathologist contradicted the dermatologist.","Implausible","active","AAR",NA,NA
+"390","The pathologist was contradicted by the dermatologist.","Plausible","passive","AAR",NA,NA
+"390","The dermatologist was contradicted by the pathologist.","Implausible","passive","AAR",NA,NA
+"391","The sharecropper misled the fieldworker.","Plausible","active","AAR",NA,NA
+"391","The fieldworker misled the sharecropper.","Implausible","active","AAR",NA,NA
+"391","The fieldworker was misled by the sharecropper.","Plausible","passive","AAR",NA,NA
+"391","The sharecropper was misled by the fieldworker.","Implausible","passive","AAR",NA,NA
+"392","The patriot saluted the veteran.","Plausible","active","AAR",NA,NA
+"392","The veteran saluted the patriot.","Implausible","active","AAR",NA,NA
+"392","The veteran was saluted by the patriot.","Plausible","passive","AAR",NA,NA
+"392","The patriot was saluted by the veteran.","Implausible","passive","AAR",NA,NA
+"393","The welder visited the milkman.","Plausible","active","AAR",NA,NA
+"393","The milkman visited the welder.","Implausible","active","AAR",NA,NA
+"393","The milkman was visited by the welder.","Plausible","passive","AAR",NA,NA
+"393","The welder was visited by the milkman.","Implausible","passive","AAR",NA,NA
+"394","The teenager mortified the parent.","Plausible","active","AAR",NA,NA
+"394","The parent mortified the teenager.","Implausible","active","AAR",NA,NA
+"394","The parent was mortified by the teenager.","Plausible","passive","AAR",NA,NA
+"394","The teenager was mortified by the parent.","Implausible","passive","AAR",NA,NA
+"395","The surfer impressed the swimmer.","Plausible","active","AAR",NA,NA
+"395","The swimmer impressed the surfer.","Implausible","active","AAR",NA,NA
+"395","The swimmer was impressed by the surfer.","Plausible","passive","AAR",NA,NA
+"395","The surfer was impressed by the swimmer.","Implausible","passive","AAR",NA,NA
+"396","The miser antagonized the landlady.","Plausible","active","AAR",NA,NA
+"396","The landlady antagonized the miser.","Implausible","active","AAR",NA,NA
+"396","The landlady was antagonized by the miser.","Plausible","passive","AAR",NA,NA
+"396","The miser was antagonized by the landlady.","Implausible","passive","AAR",NA,NA
+"397","The infantryman upset the loyalist.","Plausible","active","AAR",NA,NA
+"397","The loyalist upset the infantryman.","Implausible","active","AAR",NA,NA
+"397","The loyalist was upset by the infantryman.","Plausible","passive","AAR",NA,NA
+"397","The infantryman was upset by the loyalist.","Implausible","passive","AAR",NA,NA
+"398","The florist invoiced the grocer.","Plausible","active","AAR",NA,NA
+"398","The grocer invoiced the florist.","Implausible","active","AAR",NA,NA
+"398","The grocer was invoiced by the florist.","Plausible","passive","AAR",NA,NA
+"398","The florist was invoiced by the grocer.","Implausible","passive","AAR",NA,NA
+"399","The claims adjuster harassed the retailer.","Plausible","active","AAR",NA,NA
+"399","The retailer harassed the claims adjuster.","Implausible","active","AAR",NA,NA
+"399","The retailer was harassed by the claims adjuster.","Plausible","passive","AAR",NA,NA
+"399","The claims adjuster was harassed by the retailer.","Implausible","passive","AAR",NA,NA
+"400","The ex-wife punched the girlfriend.","Plausible","active","AAR",NA,NA
+"400","The girlfriend punched the ex-wife.","Implausible","active","AAR",NA,NA
+"400","The girlfriend was punched by the ex-wife.","Plausible","passive","AAR",NA,NA
+"400","The ex-wife was punched by the girlfriend.","Implausible","passive","AAR",NA,NA
+"401","The defender blamed the goalkeeper.","Plausible","active","AAR",NA,NA
+"401","The goalkeeper blamed the defender.","Implausible","active","AAR",NA,NA
+"401","The goalkeeper was blamed by the defender.","Plausible","passive","AAR",NA,NA
+"401","The defender was blamed by the goalkeeper.","Implausible","passive","AAR",NA,NA
+"402","The geologist reassured the excavator.","Plausible","active","AAR",NA,NA
+"402","The excavator reassured the geologist.","Implausible","active","AAR",NA,NA
+"402","The excavator was reassured by the geologist.","Plausible","passive","AAR",NA,NA
+"402","The geologist was reassured by the excavator.","Implausible","passive","AAR",NA,NA
+"403","The physicist nagged the mathematician.","Plausible","active","AAR",NA,NA
+"403","The mathematician nagged the physicist.","Implausible","active","AAR",NA,NA
+"403","The mathematician was nagged by the physicist.","Plausible","passive","AAR",NA,NA
+"403","The physicist was nagged by the mathematician.","Implausible","passive","AAR",NA,NA
+"404","The employee watched the embezzler.","Plausible","active","AAR",NA,NA
+"404","The embezzler watched the employee.","Implausible","active","AAR",NA,NA
+"404","The embezzler was watched by the employee.","Plausible","passive","AAR",NA,NA
+"404","The employee was watched by the embezzler.","Implausible","passive","AAR",NA,NA
+"405","The programmer distrusted the volunteer.","Plausible","active","AAR",NA,NA
+"405","The volunteer distrusted the programmer.","Implausible","active","AAR",NA,NA
+"405","The volunteer was distrusted by the programmer.","Plausible","passive","AAR",NA,NA
+"405","The programmer was distrusted by the volunteer.","Implausible","passive","AAR",NA,NA
+"406","The interviewer befriended the chairman.","Plausible","active","AAR",NA,NA
+"406","The chairman befriended the interviewer.","Implausible","active","AAR",NA,NA
+"406","The chairman was befriended by the interviewer.","Plausible","passive","AAR",NA,NA
+"406","The interviewer was befriended by the chairman.","Implausible","passive","AAR",NA,NA
+"407","The cinematographer favored the movie star.","Plausible","active","AAR",NA,NA
+"407","The movie star favored the cinematographer.","Implausible","active","AAR",NA,NA
+"407","The movie star was favored by the cinematographer.","Plausible","passive","AAR",NA,NA
+"407","The cinematographer was favored by the movie star.","Implausible","passive","AAR",NA,NA
+"408","The hockey player aggravated the skater.","Plausible","active","AAR",NA,NA
+"408","The skater aggravated the hockey player.","Implausible","active","AAR",NA,NA
+"408","The skater was aggravated by the hockey player.","Plausible","passive","AAR",NA,NA
+"408","The hockey player was aggravated by the skater.","Implausible","passive","AAR",NA,NA
+"409","The bricklayer outraged the crane operator.","Plausible","active","AAR",NA,NA
+"409","The crane operator outraged the bricklayer.","Implausible","active","AAR",NA,NA
+"409","The crane operator was outraged by the bricklayer.","Plausible","passive","AAR",NA,NA
+"409","The bricklayer was outraged by the crane operator.","Implausible","passive","AAR",NA,NA
+"410","The candidate approved the nominee.","Plausible","active","AAR",NA,NA
+"410","The nominee approved the candidate.","Implausible","active","AAR",NA,NA
+"410","The nominee was approved by the candidate.","Plausible","passive","AAR",NA,NA
+"410","The candidate was approved by the nominee.","Implausible","passive","AAR",NA,NA
+"411","The entomologist disparaged the biologist.","Plausible","active","AAR",NA,NA
+"411","The biologist disparaged the entomologist.","Implausible","active","AAR",NA,NA
+"411","The biologist was disparaged by the entomologist.","Plausible","passive","AAR",NA,NA
+"411","The entomologist was disparaged by the biologist.","Implausible","passive","AAR",NA,NA
+"412","The hypochondriac hounded the medic.","Plausible","active","AAR",NA,NA
+"412","The medic hounded the hypochondriac.","Implausible","active","AAR",NA,NA
+"412","The medic was hounded by the hypochondriac.","Plausible","passive","AAR",NA,NA
+"412","The hypochondriac was hounded by the medic.","Implausible","passive","AAR",NA,NA
+"413","The chemist suspected the pharmacist.","Plausible","active","AAR",NA,NA
+"413","The pharmacist suspected the chemist.","Implausible","active","AAR",NA,NA
+"413","The pharmacist was suspected by the chemist.","Plausible","passive","AAR",NA,NA
+"413","The chemist was suspected by the pharmacist.","Implausible","passive","AAR",NA,NA
+"414","The litigator begged the citizen.","Plausible","active","AAR",NA,NA
+"414","The citizen begged the litigator.","Implausible","active","AAR",NA,NA
+"414","The citizen was begged by the litigator.","Plausible","passive","AAR",NA,NA
+"414","The litigator was begged by the citizen.","Implausible","passive","AAR",NA,NA
+"415","The plumber devastated the foreman.","Plausible","active","AAR",NA,NA
+"415","The foreman devastated the plumber.","Implausible","active","AAR",NA,NA
+"415","The foreman was devastated by the plumber.","Plausible","passive","AAR",NA,NA
+"415","The plumber was devastated by the foreman.","Implausible","passive","AAR",NA,NA
+"416","The sergeant identified the sniper.","Plausible","active","AAR",NA,NA
+"416","The sniper identified the sergeant.","Implausible","active","AAR",NA,NA
+"416","The sniper was identified by the sergeant.","Plausible","passive","AAR",NA,NA
+"416","The sergeant was identified by the sniper.","Implausible","passive","AAR",NA,NA

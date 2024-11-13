@@ -3,6 +3,19 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# ignore . files
+\.idea
+\.huggingface_cache/
+\.DS_store
+\.gitignore
+
+# ignore bash
+bash/
+
+# ignore results
+results/
+results_bak/
+
 # C extensions
 *.so
 

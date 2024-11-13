@@ -1,0 +1,515 @@
+item_id,good_sentence,bad_sentence,good_human_score,bad_human_score,trial_type,voice
+1,The raider caught the illness.,The illness caught the raider.,5.545454545454546,3.0833333333333335,AI,active
+2,The illness was caught by the raider.,The raider was caught by the illness.,5.333333333333333,2.5416666666666665,AI,passive
+3,The marauder contracted the disease.,The disease contracted the marauder.,5.68,1.44,AI,active
+4,The disease was contracted by the marauder.,The marauder was contracted by the disease.,5.875,1.8181818181818181,AI,passive
+5,The convict dreaded the prison.,The prison dreaded the convict.,6.208333333333333,4.318181818181818,AI,active
+6,The prison was dreaded by the convict.,The convict was dreaded by the prison.,5.5,2.925925925925926,AI,passive
+7,The criminal feared the jail.,The jail feared the criminal.,6.64,1.6666666666666667,AI,active
+8,The jail was feared by the criminal.,The criminal was feared by the jail.,4.363636363636363,3.2,AI,passive
+9,The prostitute squandered the cash.,The cash squandered the prostitute.,6.703703703703703,1.2916666666666667,AI,active
+10,The cash was squandered by the prostitute.,The prostitute was squandered by the cash.,6.0,2.2916666666666665,AI,passive
+11,The call girl wasted the money.,The money wasted the call girl.,6.0476190476190474,1.0909090909090908,AI,active
+12,The money was wasted by the call girl.,The call girl was wasted by the money.,6.434782608695652,1.3461538461538463,AI,passive
+13,The adventurer requested the beverage.,The beverage requested the adventurer.,6.333333333333333,1.44,AI,active
+14,The beverage was requested by the adventurer.,The adventurer was requested by the beverage.,6.136363636363637,1.1666666666666667,AI,passive
+15,The undertaker prepared the funeral.,The funeral prepared the undertaker.,6.44,1.68,AI,active
+16,The funeral was prepared by the undertaker.,The undertaker was prepared by the funeral.,6.041666666666667,1.4545454545454546,AI,passive
+17,The mortician arranged the burial.,The burial arranged the mortician.,6.818181818181818,1.391304347826087,AI,active
+18,The burial was arranged by the mortician.,The mortician was arranged by the burial.,6.75,1.6111111111111112,AI,passive
+19,The supervisor supplied the liquor.,The liquor supplied the supervisor.,6.130434782608695,1.6666666666666667,AI,active
+20,The liquor was supplied by the supervisor.,The supervisor was supplied by the liquor.,5.380952380952381,1.0454545454545454,AI,passive
+21,The overseer provided the alcohol.,The alcohol provided the overseer.,5.12,1.5,AI,active
+22,The alcohol was provided by the overseer.,The overseer was provided by the alcohol.,5.695652173913044,1.1304347826086956,AI,passive
+23,The troublemaker crashed the car.,The car crashed the troublemaker.,6.818181818181818,1.45,AI,active
+24,The car was crashed by the troublemaker.,The troublemaker was crashed by the car.,5.96,2.5454545454545454,AI,passive
+25,The hooligan wrecked the vehicle.,The vehicle wrecked the hooligan.,6.956521739130435,2.5,AI,active
+26,The vehicle was wrecked by the hooligan.,The hooligan was wrecked by the vehicle.,6.222222222222222,3.590909090909091,AI,passive
+27,The repairman fixed the tap.,The tap fixed the repairman.,6.791666666666667,1.2727272727272727,AI,active
+28,The tap was fixed by the repairman.,The repairman was fixed by the tap.,6.48,1.24,AI,passive
+29,The handyman repaired the faucet.,The faucet repaired the handyman.,6.88,1.3181818181818181,AI,active
+30,The faucet was repaired by the handyman.,The handyman was repaired by the faucet.,6.833333333333333,1.2083333333333333,AI,passive
+31,The secretary organized the desk.,The desk organized the secretary.,6.863636363636363,1.24,AI,active
+32,The desk was organized by the secretary.,The secretary was organized by the desk.,6.791666666666667,1.375,AI,passive
+33,The receptionist tidied the table.,The table tidied the receptionist.,6.590909090909091,1.3043478260869565,AI,active
+34,The table was tidied by the receptionist.,The receptionist was tidied by the table.,6.6521739130434785,1.56,AI,passive
+35,The pilot steered the airplane.,The airplane steered the pilot.,6.851851851851852,1.380952380952381,AI,active
+36,The airplane was steered by the pilot.,The pilot was steered by the airplane.,6.954545454545454,1.8695652173913044,AI,passive
+37,The aviator maneuvered the jet.,The jet maneuvered the aviator.,6.5,1.5555555555555556,AI,active
+38,The jet was maneuvered by the aviator.,The aviator was maneuvered by the jet.,6.954545454545454,1.434782608695652,AI,passive
+39,The chef sauteed the squid.,The squid sauteed the chef.,6.0476190476190474,1.0,AI,active
+40,The squid was sauteed by the chef.,The chef was sauteed by the squid.,6.260869565217392,1.4615384615384615,AI,passive
+41,The cook grilled the octopus.,The octopus grilled the cook.,6.7727272727272725,1.25,AI,active
+42,The octopus was grilled by the cook.,The cook was grilled by the octopus.,6.791666666666667,1.04,AI,passive
+43,The ship captain promised the triumph.,The triumph promised the ship captain.,4.954545454545454,1.380952380952381,AI,active
+44,The triumph was promised by the ship captain.,The ship captain was promised by the triumph.,5.444444444444445,2.2,AI,passive
+45,The skipper guaranteed the victory.,The victory guaranteed the skipper.,5.833333333333333,1.5416666666666667,AI,active
+46,The victory was guaranteed by the skipper.,The skipper was guaranteed by the victory.,5.56,2.2857142857142856,AI,passive
+47,The milliner adorned the fedora.,The fedora adorned the milliner.,5.9,3.2,AI,active
+48,The fedora was adorned by the milliner.,The milliner was adorned by the fedora.,5.409090909090909,2.8636363636363638,AI,passive
+49,The hatter decorated the bowler.,The bowler decorated the hatter.,3.7916666666666665,2.7777777777777777,AI,active
+50,The bowler was decorated by the hatter.,The hatter was decorated by the bowler.,3.4166666666666665,3.590909090909091,AI,passive
+51,The serviceman hoisted the flag.,The flag hoisted the serviceman.,6.68,1.2727272727272727,AI,active
+52,The flag was hoisted by the serviceman.,The serviceman was hoisted by the flag.,6.863636363636363,1.25,AI,passive
+53,The soldier raised the banner.,The banner raised the soldier.,6.826086956521739,1.3478260869565217,AI,active
+54,The banner was raised by the soldier.,The soldier was raised by the banner.,6.8,1.5454545454545454,AI,passive
+55,The agent failed the mission.,The mission failed the agent.,6.7727272727272725,1.5,AI,active
+56,The mission was failed by the agent.,The agent was failed by the mission.,6.35,2.1818181818181817,AI,passive
+57,The operative blew the assignment.,The assignment blew the operative.,6.5,2.111111111111111,AI,active
+58,The assignment was blown by the operative.,The operative was blown by the assignment.,5.875,2.6818181818181817,AI,passive
+59,The anchorman garbled the expression.,The expression garbled the anchorman.,6.25,2.6818181818181817,AI,active
+60,The expression was garbled by the anchorman.,The anchorman was garbled by the expression.,6.181818181818182,2.1666666666666665,AI,passive
+61,The announcer mispronounced the word.,The word mispronounced the announcer.,6.708333333333333,1.24,AI,active
+62,The word was mispronounced by the announcer.,The announcer was mispronounced by the word.,6.7727272727272725,1.375,AI,passive
+63,The author finished the novel.,The novel finished the author.,7.0,1.48,AI,active
+64,The novel was finished by the author.,The author was finished by the novel.,6.681818181818182,1.1363636363636365,AI,passive
+65,The writer completed the book.,The book completed the writer.,6.954545454545454,1.6521739130434783,AI,active
+66,The book was completed by the writer.,The writer was completed by the book.,6.958333333333333,1.5294117647058822,AI,passive
+67,The financier sponsored the project.,The project sponsored the financier.,6.608695652173913,1.9615384615384615,AI,active
+68,The project was sponsored by the financier.,The financier was sponsored by the project.,6.428571428571429,2.227272727272727,AI,passive
+69,The banker funded the program.,The program funded the banker.,6.636363636363637,3.5833333333333335,AI,active
+70,The program was funded by the banker.,The banker was funded by the program.,6.62962962962963,4.25,AI,passive
+71,The tourist exited the bus.,The bus exited the tourist.,6.9,1.2727272727272727,AI,active
+72,The bus was exited by the tourist.,The tourist was exited by the bus.,5.2272727272727275,2.7222222222222223,AI,passive
+73,The vacationer left the shuttle.,The shuttle left the vacationer.,6.6521739130434785,3.8333333333333335,AI,active
+74,The shuttle was left by the vacationer.,The vacationer was left by the shuttle.,4.722222222222222,6.136363636363637,AI,passive
+75,The dietitian loathed the jam.,The jam loathed the dietitian.,6.0,1.0454545454545454,AI,active
+76,The jam was loathed by the dietitian.,The dietitian was loathed by the jam.,6.0,1.72,AI,passive
+77,The nutritionist detested the marmalade.,The marmalade detested the nutritionist.,6.181818181818182,2.130434782608696,AI,active
+78,The marmalade was detested by the nutritionist.,The nutritionist was detested by the marmalade.,5.565217391304348,1.64,AI,passive
+79,The scientist discovered the cure.,The cure discovered the scientist.,6.863636363636363,1.4545454545454546,AI,active
+80,The cure was discovered by the scientist.,The scientist was discovered by the cure.,7.0,1.35,AI,passive
+81,The researcher found the remedy.,The remedy found the researcher.,6.458333333333333,1.9259259259259258,AI,active
+82,The remedy was found by the researcher.,The researcher was found by the remedy.,6.791666666666667,1.4545454545454546,AI,passive
+83,The doctor closed the school.,The school closed the doctor.,4.318181818181818,1.0526315789473684,AI,active
+84,The school was closed by the doctor.,The doctor was closed by the school.,3.76,1.1818181818181819,AI,passive
+85,The maid lifted the cushion.,The cushion lifted the maid.,6.916666666666667,1.9444444444444444,AI,active
+86,The cushion was lifted by the maid.,The maid was lifted by the cushion.,6.909090909090909,2.0,AI,passive
+87,The servant wiped the sink.,The sink wiped the servant.,6.916666666666667,1.3636363636363635,AI,active
+88,The sink was wiped by the servant.,The servant was wiped by the sink.,6.56,1.28,AI,passive
+89,The domestic cleaned the wash basin.,The wash basin cleaned the domestic.,4.333333333333333,1.7083333333333333,AI,active
+90,The wash basin was cleaned by the domestic.,The domestic was cleaned by the wash basin.,5.04,1.8181818181818181,AI,passive
+91,The friend donned the pullover.,The pullover donned the friend.,6.3,1.96,AI,active
+92,The pullover was donned by the friend.,The friend was donned by the pullover.,6.181818181818182,1.8636363636363635,AI,passive
+93,The convalescent took the pill.,The pill took the convalescent.,5.782608695652174,1.48,AI,active
+94,The pill was taken by the convalescent.,The convalescent was taken by the pill.,5.545454545454546,1.3478260869565217,AI,passive
+95,The patient swallowed the medicine.,The medicine swallowed the patient.,6.814814814814815,1.4285714285714286,AI,active
+96,The medicine was swallowed by the patient.,The patient was swallowed by the medicine.,7.0,1.2173913043478262,AI,passive
+97,The hoarder hid the stash.,The stash hid the hoarder.,6.833333333333333,1.56,AI,active
+98,The stash was hidden by the hoarder.,The hoarder was hidden by the stash.,6.7727272727272725,4.208333333333333,AI,passive
+99,The packrat concealed the stockpile.,The stockpile concealed the packrat.,5.44,4.095238095238095,AI,active
+100,The stockpile was concealed by the packrat.,The packrat was concealed by the stockpile.,5.954545454545454,5.105263157894737,AI,passive
+101,The reporter abandoned the story.,The story abandoned the reporter.,6.625,1.5454545454545454,AI,active
+102,The story was abandoned by the reporter.,The reporter was abandoned by the story.,6.583333333333333,1.6666666666666667,AI,passive
+103,The journalist ditched the article.,The article ditched the journalist.,6.136363636363637,1.68,AI,active
+104,The article was ditched by the journalist.,The journalist was ditched by the article.,5.916666666666667,1.2916666666666667,AI,passive
+105,The carnivore ate the steak.,The steak ate the carnivore.,6.76,1.1818181818181819,AI,active
+106,The steak was eaten by the carnivore.,The carnivore was eaten by the steak.,6.565217391304348,1.125,AI,passive
+107,The meat-eater devoured the filet.,The filet devoured the meat-eater.,6.318181818181818,1.0909090909090908,AI,active
+108,The filet was devoured by the meat-eater.,The meat-eater was devoured by the filet.,6.6,1.28,AI,passive
+109,The man drank the soda.,The soda drank the man.,6.909090909090909,1.2083333333333333,AI,active
+110,The soda was drunk by the man.,The man was drunk by the soda.,6.5,1.12,AI,passive
+111,The teacher bought the laptop.,The laptop bought the teacher.,7.0,1.16,AI,active
+112,The laptop was bought by the teacher.,The teacher was bought by the laptop.,6.956521739130435,1.0,AI,passive
+113,The instructor purchased the computer.,The computer purchased the instructor.,6.72,1.3181818181818181,AI,active
+114,The computer was purchased by the instructor.,The instructor was purchased by the computer.,6.695652173913044,1.0,AI,passive
+115,The lady cooked the supper.,The supper cooked the lady.,6.909090909090909,1.2173913043478262,AI,active
+116,The supper was cooked by the lady.,The lady was cooked by the supper.,6.925925925925926,1.8571428571428572,AI,passive
+117,The woman prepared the dinner.,The dinner prepared the woman.,6.916666666666667,1.4583333333333333,AI,active
+118,The dinner was prepared by the woman.,The woman was prepared by the dinner.,6.96,1.2727272727272727,AI,passive
+119,The traveler lost the souvenir.,The souvenir lost the traveler.,6.64,1.0416666666666667,AI,active
+120,The souvenir was lost by the traveler.,The traveler was lost by the souvenir.,6.090909090909091,1.28,AI,passive
+121,The sightseer misplaced the memento.,The memento misplaced the sightseer.,6.5,1.6521739130434783,AI,active
+122,The memento was misplaced by the sightseer.,The sightseer was misplaced by the memento.,6.043478260869565,1.52,AI,passive
+123,The comedian confirmed the itinerary.,The itinerary confirmed the comedian.,6.041666666666667,2.4285714285714284,AI,active
+124,The itinerary was confirmed by the comedian.,The comedian was confirmed by the itinerary.,5.84,3.68,AI,passive
+125,The humorist verified the schedule.,The schedule verified the humorist.,5.391304347826087,2.0,AI,active
+126,The schedule was verified by the humorist.,The humorist was verified by the schedule.,4.96,1.1818181818181819,AI,passive
+127,The woodworker skimmed the brochure.,The brochure skimmed the woodworker.,6.304347826086956,1.2962962962962963,AI,active
+128,The brochure was skimmed by the woodworker.,The woodworker was skimmed by the brochure.,5.136363636363637,1.0,AI,passive
+129,The guide reached the target.,The target reached the guide.,6.277777777777778,3.272727272727273,AI,active
+130,The target was reached by the guide.,The guide was reached by the target.,6.782608695652174,2.25,AI,passive
+131,The townsperson farmed the grain.,The grain farmed the townsperson.,5.666666666666667,1.2727272727272727,AI,active
+132,The grain was farmed by the townsperson.,The townsperson was farmed by the grain.,6.136363636363637,1.565217391304348,AI,passive
+133,The villager cultivated the crop.,The crop cultivated the villager.,6.7727272727272725,1.3478260869565217,AI,active
+134,The crop was cultivated by the villager.,The villager was cultivated by the crop.,6.916666666666667,1.3888888888888888,AI,passive
+135,The mentor revised the manuscript.,The manuscript revised the mentor.,6.333333333333333,1.52,AI,active
+136,The manuscript was revised by the mentor.,The mentor was revised by the manuscript.,6.2,1.1666666666666667,AI,passive
+137,The advisor edited the paper.,The paper edited the advisor.,6.4,1.0,AI,active
+138,The paper was edited by the advisor.,The advisor was edited by the paper.,6.041666666666667,2.0416666666666665,AI,passive
+139,The accountant made the chart.,The chart made the accountant.,7.0,1.9,AI,active
+140,The chart was made by the accountant.,The accountant was made by the chart.,6.84,1.2727272727272727,AI,passive
+141,The bookkeeper created the graph.,The graph created the bookkeeper.,6.565217391304348,1.16,AI,active
+142,The graph was created by the bookkeeper.,The bookkeeper was created by the graph.,6.545454545454546,1.3478260869565217,AI,passive
+143,The logger felled the pine tree.,The pine tree felled the logger.,6.15,2.0,AI,active
+144,The pine tree was felled by the logger.,The logger was felled by the pine tree.,6.318181818181818,2.0,AI,passive
+145,The tycoon ran the company.,The company ran the tycoon.,6.391304347826087,1.5833333333333333,AI,active
+146,The company was run by the tycoon.,The tycoon was run by the company.,6.222222222222222,1.7727272727272727,AI,passive
+147,The mogul governed the corporation.,The corporation governed the mogul.,5.88,3.9545454545454546,AI,active
+148,The corporation was governed by the mogul.,The mogul was governed by the corporation.,6.136363636363637,3.45,AI,passive
+149,The campaigner biased the ballot.,The ballot biased the campaigner.,3.9166666666666665,2.3333333333333335,AI,active
+150,The ballot was biased by the campaigner.,The campaigner was biased by the ballot.,3.909090909090909,3.090909090909091,AI,passive
+151,The activist prejudiced the vote.,The vote prejudiced the activist.,4.7727272727272725,3.227272727272727,AI,active
+152,The vote was prejudiced by the activist.,The activist was prejudiced by the vote.,4.608695652173913,4.2592592592592595,AI,passive
+153,The stewardess pulled the suitcase.,The suitcase pulled the stewardess.,6.636363636363637,1.4166666666666667,AI,active
+154,The suitcase was pulled by the stewardess.,The stewardess was pulled by the suitcase.,6.666666666666667,2.12,AI,passive
+155,The flight-attendant dragged the luggage.,The luggage dragged the flight-attendant.,6.55,1.9545454545454546,AI,active
+156,The luggage was dragged by the flight-attendant.,The flight-attendant was dragged by the luggage.,6.863636363636363,1.8888888888888888,AI,passive
+157,The congressman delivered the speech.,The speech delivered the congressman.,7.0,1.1363636363636365,AI,active
+158,The speech was delivered by the congressman.,The congressman was delivered by the speech.,7.0,1.0,AI,passive
+159,The representative gave the address.,The address gave the representative.,6.32,1.125,AI,active
+160,The address was given by the representative.,The representative was given by the address.,6.590909090909091,1.48,AI,passive
+161,The sheriff inspected the estate.,The estate inspected the sheriff.,6.409090909090909,1.8333333333333333,AI,active
+162,The estate was inspected by the sheriff.,The sheriff was inspected by the estate.,6.56,2.238095238095238,AI,passive
+163,The constable examined the property.,The property examined the constable.,6.590909090909091,1.0,AI,active
+164,The property was examined by the constable.,The constable was examined by the property.,6.3,1.72,AI,passive
+165,The celebrity signed the photograph.,The photograph signed the celebrity.,6.791666666666667,1.5,AI,active
+166,The photograph was signed by the celebrity.,The celebrity was signed by the photograph.,6.681818181818182,1.375,AI,passive
+167,The star autographed the picture.,The picture autographed the star.,6.5,1.6956521739130435,AI,active
+168,The picture was autographed by the star.,The star was autographed by the picture.,6.296296296296297,2.227272727272727,AI,passive
+169,The nanny tutored the boy.,The boy tutored the nanny.,6.818181818181818,3.2,AAN,active
+170,The boy was tutored by the nanny.,The nanny was tutored by the boy.,6.863636363636363,2.6818181818181817,AAN,passive
+171,The governess instructed the lad.,The lad instructed the governess.,5.909090909090909,3.9545454545454546,AAN,active
+172,The lad was instructed by the governess.,The governess was instructed by the lad.,6.45,3.04,AAN,passive
+173,The blackmailer threatened the senator.,The senator threatened the blackmailer.,6.545454545454546,5.041666666666667,AAN,active
+174,The senator was threatened by the blackmailer.,The blackmailer was threatened by the senator.,6.481481481481482,4.833333333333333,AAN,passive
+175,The extortionist menaced the legislator.,The legislator menaced the extortionist.,5.277777777777778,4.95,AAN,active
+176,The legislator was menaced by the extortionist.,The extortionist was menaced by the legislator.,6.136363636363637,4.590909090909091,AAN,passive
+177,The artist portrayed the philosopher.,The philosopher portrayed the artist.,5.791666666666667,4.2592592592592595,AAN,active
+178,The philosopher was portrayed by the artist.,The artist was portrayed by the philosopher.,5.739130434782608,4.818181818181818,AAN,passive
+179,The painter depicted the thinker.,The thinker depicted the painter.,6.368421052631579,3.727272727272727,AAN,active
+180,The thinker was depicted by the painter.,The painter was depicted by the thinker.,6.619047619047619,2.6666666666666665,AAN,passive
+181,The mechanic berated the intern.,The intern berated the mechanic.,5.888888888888889,4.833333333333333,AAN,active
+182,The intern was berated by the mechanic.,The mechanic was berated by the intern.,5.7727272727272725,4.791666666666667,AAN,passive
+183,The technician rebuked the aide.,The aide rebuked the technician.,5.45,5.136363636363637,AAN,active
+184,The aide was rebuked by the technician.,The technician was rebuked by the aide.,5.956521739130435,5.222222222222222,AAN,passive
+185,The fairy enchanted the troll.,The troll enchanted the fairy.,4.0,3.5217391304347827,AAN,active
+186,The troll was enchanted by the fairy.,The fairy was enchanted by the troll.,3.9166666666666665,2.7777777777777777,AAN,passive
+187,The pixie mesmerized the ogre.,The ogre mesmerized the pixie.,3.5454545454545454,3.9545454545454546,AAN,active
+188,The ogre was mesmerized by the pixie.,The pixie was mesmerized by the ogre.,3.4444444444444446,2.590909090909091,AAN,passive
+189,The orderly assisted the dentist.,The dentist assisted the orderly.,4.833333333333333,5.5,AAN,active
+190,The dentist was assisted by the orderly.,The orderly was assisted by the dentist.,4.958333333333333,4.222222222222222,AAN,passive
+191,The nurse helped the orthodontist.,The orthodontist helped the nurse.,6.545454545454546,5.8,AAN,active
+192,The orthodontist was helped by the nurse.,The nurse was helped by the orthodontist.,5.96,5.818181818181818,AAN,passive
+193,The owner evicted the tenant.,The tenant evicted the owner.,7.0,1.75,AAN,active
+194,The tenant was evicted by the owner.,The owner was evicted by the tenant.,6.833333333333333,1.0,AAN,passive
+195,The critic attacked the conservative.,The conservative attacked the critic.,6.045454545454546,6.416666666666667,AAN,active
+196,The conservative was attacked by the critic.,The critic was attacked by the conservative.,6.592592592592593,6.041666666666667,AAN,passive
+197,The reviewer criticized the right-winger.,The right-winger criticized the reviewer.,6.2592592592592595,6.476190476190476,AAN,active
+198,The right-winger was criticized by the reviewer.,The reviewer was criticized by the right-winger.,6.545454545454546,6.695652173913044,AAN,passive
+199,The admirer badgered the director.,The director badgered the admirer.,5.0,5.285714285714286,AAN,active
+200,The director was badgered by the admirer.,The admirer was badgered by the director.,5.958333333333333,4.791666666666667,AAN,passive
+201,The fan pestered the filmmaker.,The filmmaker pestered the fan.,6.681818181818182,3.909090909090909,AAN,active
+202,The filmmaker was pestered by the fan.,The fan was pestered by the filmmaker.,6.833333333333333,4.0,AAN,passive
+203,The paramedic revived the youth.,The youth revived the paramedic.,6.28,3.9545454545454546,AAN,active
+204,The youth was revived by the paramedic.,The paramedic was revived by the youth.,6.782608695652174,3.1739130434782608,AAN,passive
+205,The EMT resuscitated the youngster.,The youngster resuscitated the EMT.,6.285714285714286,3.5,AAN,active
+206,The youngster was resuscitated by the EMT.,The EMT was resuscitated by the youngster.,6.608695652173913,3.7777777777777777,AAN,passive
+207,The prankster duped the marketer.,The marketer duped the prankster.,6.7272727272727275,5.217391304347826,AAN,active
+208,The marketer was duped by the prankster.,The prankster was duped by the marketer.,6.565217391304348,5.24,AAN,passive
+209,The joker tricked the distributor.,The distributor tricked the joker.,6.363636363636363,4.5,AAN,active
+210,The distributor was tricked by the joker.,The joker was tricked by the distributor.,5.65,4.590909090909091,AAN,passive
+211,The playboy courted the damsel.,The damsel courted the playboy.,6.333333333333333,5.481481481481482,AAN,active
+212,The damsel was courted by the playboy.,The playboy was courted by the damsel.,6.208333333333333,5.954545454545454,AAN,passive
+213,The womanizer wooed the maiden.,The maiden wooed the womanizer.,6.2727272727272725,5.130434782608695,AAN,active
+214,The maiden was wooed by the womanizer.,The womanizer was wooed by the maiden.,5.925925925925926,5.363636363636363,AAN,passive
+215,The nomad cherished the clergyman.,The clergyman cherished the nomad.,5.0,4.333333333333333,AAN,active
+216,The clergyman was cherished by the nomad.,The nomad was cherished by the clergyman.,5.190476190476191,5.208333333333333,AAN,passive
+217,The vagabond revered the priest.,The priest revered the vagabond.,5.1,3.64,AAN,active
+218,The priest was revered by the vagabond.,The vagabond was revered by the priest.,5.7272727272727275,3.5,AAN,passive
+219,The assassin shot the statesman.,The statesman shot the assassin.,6.5,3.6666666666666665,AAN,active
+220,The statesman was shot by the assassin.,The assassin was shot by the statesman.,6.590909090909091,4.826086956521739,AAN,passive
+221,The hit man killed the politician.,The politician killed the hit man.,6.5,4.0,AAN,active
+222,The politician was killed by the hit man.,The hit man was killed by the politician.,6.36,4.12,AAN,passive
+223,The clerk charged the elderly person.,The elderly person charged the clerk.,6.111111111111111,3.4761904761904763,AAN,active
+224,The elderly person was charged by the clerk.,The clerk was charged by the elderly person.,6.695652173913044,3.7083333333333335,AAN,passive
+225,The cashier billed the senior citizen.,The senior citizen billed the cashier.,6.681818181818182,2.44,AAN,active
+226,The senior citizen was billed by the cashier.,The cashier was billed by the senior citizen.,6.4,2.8333333333333335,AAN,passive
+227,The mediator rescued the hostage.,The hostage rescued the mediator.,6.25,2.909090909090909,AAN,active
+228,The hostage was rescued by the mediator.,The mediator was rescued by the hostage.,6.625,2.740740740740741,AAN,passive
+229,The negotiator saved the captive.,The captive saved the negotiator.,6.666666666666667,3.6,AAN,active
+230,The captive was saved by the negotiator.,The negotiator was saved by the captive.,6.5,3.6818181818181817,AAN,passive
+231,The detective found the assailant.,The assailant found the detective.,6.863636363636363,3.6956521739130435,AAN,active
+232,The assailant was found by the detective.,The detective was found by the assailant.,6.875,3.5555555555555554,AAN,passive
+233,The sleuth located the attacker.,The attacker located the sleuth.,5.608695652173913,5.518518518518518,AAN,active
+234,The attacker was located by the sleuth.,The sleuth was located by the attacker.,5.545454545454546,4.681818181818182,AAN,passive
+235,The artisan trained the apprentice.,The apprentice trained the artisan.,6.695652173913044,2.3043478260869565,AAN,active
+236,The apprentice was trained by the artisan.,The artisan was trained by the apprentice.,6.56,2.4545454545454546,AAN,passive
+237,The craftsman taught the trainee.,The trainee taught the craftsman.,6.65,3.409090909090909,AAN,active
+238,The trainee was taught by the craftsman.,The craftsman was taught by the trainee.,7.0,3.0555555555555554,AAN,passive
+239,The biker defied the trainer.,The trainer defied the biker.,5.818181818181818,5.125,AAN,active
+240,The trainer was defied by the biker.,The biker was defied by the trainer.,4.666666666666667,5.08,AAN,passive
+241,The cyclist disobeyed the coach.,The coach disobeyed the cyclist.,6.714285714285714,3.9545454545454546,AAN,active
+242,The coach was disobeyed by the cyclist.,The cyclist was disobeyed by the coach.,5.944444444444445,3.35,AAN,passive
+243,The speaker engrossed the audience.,The audience engrossed the speaker.,6.913043478260869,3.2083333333333335,AAN,active
+244,The audience was engrossed by the speaker.,The speaker was engrossed by the audience.,6.388888888888889,4.0,AAN,passive
+245,The genius shocked the cousin.,The cousin shocked the genius.,5.956521739130435,5.36,AAN,active
+246,The cousin was shocked by the genius.,The genius was shocked by the cousin.,6.409090909090909,5.043478260869565,AAN,passive
+247,The prodigy surprised the relative.,The relative surprised the prodigy.,5.777777777777778,5.428571428571429,AAN,active
+248,The relative was surprised by the prodigy.,The prodigy was surprised by the relative.,6.2727272727272725,5.909090909090909,AAN,passive
+249,The smuggler bribed the bureaucrat.,The bureaucrat bribed the smuggler.,6.44,5.363636363636363,AAN,active
+250,The bureaucrat was bribed by the smuggler.,The smuggler was bribed by the bureaucrat.,6.565217391304348,5.304347826086956,AAN,passive
+251,The amateur irked the maestro.,The maestro irked the amateur.,6.08,5.7727272727272725,AAN,active
+252,The maestro was irked by the amateur.,The amateur was irked by the maestro.,6.545454545454546,5.45,AAN,passive
+253,The novice irritated the virtuoso.,The virtuoso irritated the novice.,5.708333333333333,5.055555555555555,AAN,active
+254,The virtuoso was irritated by the novice.,The novice was irritated by the virtuoso.,6.2727272727272725,6.090909090909091,AAN,passive
+255,The lawyer questioned the witness.,The witness questioned the lawyer.,7.0,3.526315789473684,AAN,active
+256,The witness was questioned by the lawyer.,The lawyer was questioned by the witness.,6.863636363636363,3.6818181818181817,AAN,passive
+257,The attorney interrogated the bystander.,The bystander interrogated the attorney.,6.2272727272727275,3.4583333333333335,AAN,active
+258,The bystander was interrogated by the attorney.,The attorney was interrogated by the bystander.,6.111111111111111,4.3478260869565215,AAN,passive
+259,The singer disappointed the enthusiast.,The enthusiast disappointed the singer.,5.909090909090909,4.454545454545454,AAN,active
+260,The enthusiast was disappointed by the singer.,The singer was disappointed by the enthusiast.,6.0,5.037037037037037,AAN,passive
+261,The vocalist disillusioned the connoisseur.,The connoisseur disillusioned the vocalist.,4.166666666666667,4.296296296296297,AAN,active
+262,The connoisseur was disillusioned by the vocalist.,The vocalist was disillusioned by the connoisseur.,5.041666666666667,4.5,AAN,passive
+263,The chauffeur drove the diplomat.,The diplomat drove the chauffeur.,6.380952380952381,2.0,AAN,active
+264,The diplomat was driven by the chauffeur.,The chauffeur was driven by the diplomat.,6.65,2.84,AAN,passive
+265,The driver transported the ambassador.,The ambassador transported the driver.,6.857142857142857,3.0869565217391304,AAN,active
+266,The ambassador was transported by the driver.,The driver was transported by the ambassador.,6.739130434782608,2.8,AAN,passive
+267,The guard apprehended the prisoner.,The prisoner apprehended the guard.,6.6,2.76,AAN,active
+268,The prisoner was apprehended by the guard.,The guard was apprehended by the prisoner.,7.0,2.3636363636363638,AAN,passive
+269,The warden caught the inmate.,The inmate caught the warden.,6.782608695652174,2.8260869565217392,AAN,active
+270,The inmate was caught by the warden.,The warden was caught by the inmate.,6.8,2.9545454545454546,AAN,passive
+271,The tailor costumed the dancer.,The dancer costumed the tailor.,5.954545454545454,3.05,AAN,active
+272,The dancer was costumed by the tailor.,The tailor was costumed by the dancer.,5.48,2.3181818181818183,AAN,passive
+273,The dressmaker attired the ballerina.,The ballerina attired the dressmaker.,5.111111111111111,2.5,AAN,active
+274,The ballerina was attired by the dressmaker.,The dressmaker was attired by the ballerina.,6.521739130434782,2.625,AAN,passive
+275,The principal scolded the child.,The child scolded the principal.,6.75,3.0833333333333335,AAN,active
+276,The child was scolded by the principal.,The principal was scolded by the child.,6.681818181818182,3.0,AAN,passive
+277,The headmaster reprimanded the kid.,The kid reprimanded the headmaster.,6.869565217391305,2.64,AAN,active
+278,The kid was reprimanded by the headmaster.,The headmaster was reprimanded by the kid.,6.454545454545454,2.5217391304347827,AAN,passive
+279,The lord named the heir.,The heir named the lord.,6.583333333333333,3.727272727272727,AAN,active
+280,The heir was named by the lord.,The lord was named by the heir.,6.16,3.68,AAN,passive
+281,The baron chose the successor.,The successor chose the baron.,6.125,4.041666666666667,AAN,active
+282,The successor was chosen by the baron.,The baron was chosen by the successor.,6.28,5.285714285714286,AAN,passive
+283,The cop restrained the rioter.,The rioter restrained the cop.,6.714285714285714,4.173913043478261,AAN,active
+284,The rioter was restrained by the cop.,The cop was restrained by the rioter.,6.888888888888889,3.8095238095238093,AAN,passive
+285,The policeman subdued the rabble-rouser.,The rabble-rouser subdued the policeman.,6.409090909090909,4.304347826086956,AAN,active
+286,The rabble-rouser was subdued by the policeman.,The policeman was subdued by the rabble-rouser.,6.541666666666667,3.6666666666666665,AAN,passive
+287,The dad coddled the baby.,The baby coddled the dad.,6.65,2.272727272727273,AAN,active
+288,The baby was coddled by the dad.,The dad was coddled by the baby.,6.857142857142857,1.9444444444444444,AAN,passive
+289,The father pampered the infant.,The infant pampered the father.,6.88,1.9545454545454546,AAN,active
+290,The infant was pampered by the father.,The father was pampered by the infant.,6.695652173913044,1.3043478260869565,AAN,passive
+291,The king exiled the rebel.,The rebel exiled the king.,6.086956521739131,3.5925925925925926,AAN,active
+292,The rebel was exiled by the king.,The king was exiled by the rebel.,5.857142857142857,3.6363636363636362,AAN,passive
+293,The monarch banished the insurgent.,The insurgent banished the monarch.,6.125,4.25,AAN,active
+294,The insurgent was banished by the monarch.,The monarch was banished by the insurgent.,6.045454545454546,4.666666666666667,AAN,passive
+295,The thief robbed the manufacturer.,The manufacturer robbed the thief.,6.0,2.28,AAN,active
+296,The manufacturer was robbed by the thief.,The thief was robbed by the manufacturer.,6.48,3.0,AAN,passive
+297,The robber burgled the industrialist.,The industrialist burgled the robber.,5.52,2.9545454545454546,AAN,active
+298,The industrialist was burgled by the robber.,The robber was burgled by the industrialist.,6.25,2.3333333333333335,AAN,passive
+299,The pessimist discouraged the contestant.,The contestant discouraged the pessimist.,6.407407407407407,4.2727272727272725,AAN,active
+300,The contestant was discouraged by the pessimist.,The pessimist was discouraged by the contestant.,6.636363636363637,5.0,AAN,passive
+301,The cynic dissuaded the participant.,The participant dissuaded the cynic.,6.043478260869565,5.166666666666667,AAN,active
+302,The participant was dissuaded by the cynic.,The cynic was dissuaded by the participant.,5.444444444444445,5.454545454545454,AAN,passive
+303,The loudmouth tormented the loner.,The loner tormented the loudmouth.,6.5,4.7272727272727275,AAN,active
+304,The loner was tormented by the loudmouth.,The loudmouth was tormented by the loner.,6.944444444444445,4.65,AAN,passive
+305,The windbag taunted the recluse.,The recluse taunted the windbag.,3.772727272727273,3.1739130434782608,AAN,active
+306,The recluse was taunted by the windbag.,The windbag was taunted by the recluse.,4.086956521739131,3.84,AAN,passive
+307,The imitator fooled the investigator.,The investigator fooled the imitator.,6.0476190476190474,5.181818181818182,AAN,active
+308,The investigator was fooled by the imitator.,The imitator was fooled by the investigator.,6.3478260869565215,5.2592592592592595,AAN,passive
+309,The impersonator conned the inspector.,The inspector conned the impersonator.,6.0,4.458333333333333,AAN,active
+310,The inspector was conned by the impersonator.,The impersonator was conned by the inspector.,6.541666666666667,4.56,AAN,passive
+311,The boss fired the worker.,The worker fired the boss.,6.8,1.32,AAN,active
+312,The worker was fired by the boss.,The boss was fired by the worker.,6.666666666666667,2.1363636363636362,AAN,passive
+313,The pyromaniac unnerved the shopkeeper.,The shopkeeper unnerved the pyromaniac.,5.75,4.208333333333333,AAN,active
+314,The shopkeeper was unnerved by the pyromaniac.,The pyromaniac was unnerved by the shopkeeper.,5.36,4.863636363636363,AAN,passive
+315,The arsonist alarmed the vendor.,The vendor alarmed the arsonist.,5.1,4.84,AAN,active
+316,The vendor was alarmed by the arsonist.,The arsonist was alarmed by the vendor.,5.863636363636363,5.095238095238095,AAN,passive
+317,The professional supported the beginner.,The beginner supported the professional.,6.6923076923076925,5.041666666666667,AAN,active
+318,The beginner was supported by the professional.,The professional was supported by the beginner.,6.409090909090909,4.708333333333333,AAN,passive
+319,The master encouraged the rookie.,The rookie encouraged the master.,6.56,4.909090909090909,AAN,active
+320,The rookie was encouraged by the master.,The master was encouraged by the rookie.,6.863636363636363,4.75,AAN,passive
+321,The magician hypnotized the crowd.,The crowd hypnotized the magician.,5.75,2.3333333333333335,AAN,active
+322,The crowd was hypnotized by the magician.,The magician was hypnotized by the crowd.,6.545454545454546,2.4782608695652173,AAN,passive
+323,The businessman employed the expert.,The expert employed the businessman.,6.388888888888889,5.590909090909091,AAN,active
+324,The expert was employed by the businessman.,The businessman was employed by the expert.,6.913043478260869,5.125,AAN,passive
+325,The entrepreneur hired the specialist.,The specialist hired the entrepreneur.,6.818181818181818,5.7727272727272725,AAN,active
+326,The specialist was hired by the entrepreneur.,The entrepreneur was hired by the specialist.,6.7,4.916666666666667,AAN,passive
+327,The terrorist petrified the first lady.,The first lady petrified the terrorist.,6.086956521739131,3.9130434782608696,AAN,active
+328,The first lady was petrified by the terrorist.,The terrorist was petrified by the first lady.,6.28,3.772727272727273,AAN,passive
+329,The hijacker terrified the president's wife.,The president's wife terrified the hijacker.,6.090909090909091,3.45,AAN,active
+330,The president's wife was terrified by the hijacker.,The hijacker was terrified by the president's wife.,6.04,3.409090909090909,AAN,passive
+331,The judge praised the gold medalist.,The gold medalist praised the judge.,6.666666666666667,6.083333333333333,AAN,active
+332,The gold medalist was praised by the judge.,The judge was praised by the gold medalist.,6.7727272727272725,5.625,AAN,passive
+333,The panelist congratulated the winner.,The winner congratulated the panelist.,6.944444444444445,4.05,AAN,active
+334,The winner was congratulated by the panelist.,The panelist was congratulated by the winner.,6.7727272727272725,3.8636363636363638,AAN,passive
+335,The liar emulated the victor.,The victor emulated the liar.,5.2727272727272725,5.304347826086956,AAN,active
+336,The victor was emulated by the liar.,The liar was emulated by the victor.,4.833333333333333,4.0,AAN,passive
+337,The deceiver imitated the conqueror.,The conqueror imitated the deceiver.,5.3,4.04,AAN,active
+338,The conqueror was imitated by the deceiver.,The deceiver was imitated by the conqueror.,5.045454545454546,4.363636363636363,AAN,passive
+339,The environmentalist cautioned the tobacconist.,The tobacconist cautioned the environmentalist.,5.44,4.5,AAN,active
+340,The tobacconist was cautioned by the environmentalist.,The environmentalist was cautioned by the tobacconist.,6.0,3.5416666666666665,AAN,passive
+341,The alcoholic hassled the guest.,The guest hassled the alcoholic.,6.913043478260869,5.166666666666667,AAN,active
+342,The guest was hassled by the alcoholic.,The alcoholic was hassled by the guest.,6.166666666666667,5.5,AAN,passive
+343,The drunk bothered the visitor.,The visitor bothered the drunk.,6.521739130434782,5.888888888888889,AAN,active
+344,The visitor was bothered by the drunk.,The drunk was bothered by the visitor.,6.333333333333333,5.090909090909091,AAN,passive
+345,The sociologist accepted the offer.,The offer accepted the sociologist.,6.666666666666667,1.5416666666666667,AI,active
+346,The offer was accepted by the sociologist.,The sociologist was accepted by the offer.,6.5,2.125,AI,passive
+347,The boyfriend basted the turkey.,The turkey basted the boyfriend.,6.545454545454546,1.0869565217391304,AI,active
+348,The turkey was basted by the boyfriend.,The boyfriend was basted by the turkey.,6.185185185185185,1.380952380952381,AI,passive
+349,The caseworker posed the question.,The question posed the caseworker.,6.333333333333333,1.6818181818181819,AI,active
+350,The question was posed by the caseworker.,The caseworker was posed by the question.,6.125,2.4814814814814814,AI,passive
+351,The ditch digger bent the wire.,The wire bent the ditch digger.,5.48,1.875,AI,active
+352,The wire was bent by the ditch digger.,The ditch digger was bent by the wire.,5.761904761904762,1.28,AI,passive
+353,The uncle hung the ornament.,The ornament hung the uncle.,6.916666666666667,1.0454545454545454,AI,active
+354,The ornament was hung by the uncle.,The uncle was hung by the ornament.,6.36,1.24,AI,passive
+355,The attendant pressed the button.,The button pressed the attendant.,6.625,1.24,AI,active
+356,The button was pressed by the attendant.,The attendant was pressed by the button.,6.863636363636363,1.3333333333333333,AI,passive
+357,The bum stole the necklace.,The necklace stole the bum.,5.863636363636363,1.04,AI,active
+358,The necklace was stolen by the bum.,The bum was stolen by the necklace.,6.12,1.0,AI,passive
+359,The potter molded the clay.,The clay molded the potter.,6.888888888888889,1.2727272727272727,AI,active
+360,The clay was molded by the potter.,The potter was molded by the clay.,7.0,1.375,AI,passive
+361,The guarantor initialed the form.,The form initialed the guarantor.,6.333333333333333,1.7,AI,active
+362,The form was initialed by the guarantor.,The guarantor was initialed by the form.,6.5,2.0454545454545454,AI,passive
+363,The couch-potato forgot the umbrella.,The umbrella forgot the couch-potato.,5.086956521739131,1.08,AI,active
+364,The umbrella was forgotten by the couch-potato.,The couch-potato was forgotten by the umbrella.,5.181818181818182,1.1304347826086956,AI,passive
+365,The groupie attended the concert.,The concert attended the groupie.,6.76,1.2,AI,active
+366,The concert was attended by the groupie.,The groupie was attended by the concert.,6.625,1.7272727272727273,AI,passive
+367,The hacker memorized the password.,The password memorized the hacker.,6.791666666666667,1.2727272727272727,AI,active
+368,The password was memorized by the hacker.,The hacker was memorized by the password.,6.695652173913044,2.4782608695652173,AI,passive
+369,The marine packed the bag.,The bag packed the marine.,6.478260869565218,1.1851851851851851,AI,active
+370,The bag was packed by the marine.,The marine was packed by the bag.,6.2272727272727275,1.0454545454545454,AI,passive
+371,The seamstress ironed the shirt.,The shirt ironed the seamstress.,6.545454545454546,1.0,AI,active
+372,The shirt was ironed by the seamstress.,The seamstress was ironed by the shirt.,6.55,1.24,AI,passive
+373,The confectioner sprinkled the sugar.,The sugar sprinkled the confectioner.,6.714285714285714,1.0434782608695652,AI,active
+374,The sugar was sprinkled by the confectioner.,The confectioner was sprinkled by the sugar.,6.375,1.6470588235294117,AI,passive
+375,The voter sealed the envelope.,The envelope sealed the voter.,6.64,1.2916666666666667,AI,active
+376,The envelope was sealed by the voter.,The voter was sealed by the envelope.,6.681818181818182,1.08,AI,passive
+377,The fisherman emptied the trashcan.,The trashcan emptied the fisherman.,6.181818181818182,1.0869565217391304,AI,active
+378,The trashcan was emptied by the fisherman.,The fisherman was emptied by the trashcan.,6.173913043478261,1.12,AI,passive
+379,The cellist received the prize.,The prize received the cellist.,6.518518518518518,1.3333333333333333,AI,active
+380,The prize was received by the cellist.,The cellist was received by the prize.,6.045454545454546,1.5217391304347827,AI,passive
+381,The cheapskate rated the service.,The service rated the cheapskate.,5.925925925925926,2.6666666666666665,AI,active
+382,The service was rated by the cheapskate.,The cheapskate was rated by the service.,5.954545454545454,4.375,AI,passive
+383,The schoolgirl borrowed the key.,The key borrowed the schoolgirl.,6.7727272727272725,1.1363636363636365,AI,active
+384,The key was borrowed by the schoolgirl.,The schoolgirl was borrowed by the key.,6.555555555555555,1.15,AI,passive
+385,The bookworm recited the poem.,The poem recited the bookworm.,6.318181818181818,1.25,AI,active
+386,The poem was recited by the bookworm.,The bookworm was recited by the poem.,6.208333333333333,1.4,AI,passive
+387,The diver recharged the battery.,The battery recharged the diver.,6.136363636363637,1.1666666666666667,AI,active
+388,The battery was recharged by the diver.,The diver was recharged by the battery.,6.05,1.3636363636363635,AI,passive
+389,The poker player won the game.,The game won the poker player.,6.954545454545454,1.25,AI,active
+390,The game was won by the poker player.,The poker player was won by the game.,6.851851851851852,1.5833333333333333,AI,passive
+391,The copycat redecorated the apartment.,The apartment redecorated the copycat.,5.722222222222222,1.4,AI,active
+392,The apartment was redecorated by the copycat.,The copycat was redecorated by the apartment.,4.818181818181818,1.6818181818181819,AI,passive
+393,The winemaker uncorked the bottle.,The bottle uncorked the winemaker.,6.956521739130435,1.4166666666666667,AI,active
+394,The bottle was uncorked by the winemaker.,The winemaker was uncorked by the bottle.,6.888888888888889,1.1818181818181819,AI,passive
+395,The exterminator filed the complaint.,The complaint filed the exterminator.,6.458333333333333,1.3181818181818181,AI,active
+396,The complaint was filed by the exterminator.,The exterminator was filed by the complaint.,6.08,1.44,AI,passive
+397,The minuteman loaded the gun.,The gun loaded the minuteman.,6.375,1.25,AI,active
+398,The gun was loaded by the minuteman.,The minuteman was loaded by the gun.,6.08,1.2272727272727273,AI,passive
+399,The bookseller calculated the profit.,The profit calculated the bookseller.,6.863636363636363,1.0,AI,active
+400,The profit was calculated by the bookseller.,The bookseller was calculated by the profit.,6.611111111111111,1.55,AI,passive
+401,The count inherited the painting.,The painting inherited the count.,5.041666666666667,1.4814814814814814,AI,active
+402,The painting was inherited by the count.,The count was inherited by the painting.,5.333333333333333,1.7727272727272727,AI,passive
+403,The groundskeeper changed the light bulb.,The light bulb changed the groundskeeper.,6.863636363636363,1.0,AI,active
+404,The light bulb was changed by the groundskeeper.,The groundskeeper was changed by the light bulb.,6.8,1.4090909090909092,AI,passive
+405,The marcher sang the anthem.,The anthem sang the marcher.,6.291666666666667,1.2777777777777777,AI,active
+406,The anthem was sung by the marcher.,The marcher was sung by the anthem.,5.636363636363637,1.0,AI,passive
+407,The deckhand unlocked the door.,The door unlocked the deckhand.,5.954545454545454,1.1363636363636365,AI,active
+408,The door was unlocked by the deckhand.,The deckhand was unlocked by the door.,6.695652173913044,1.2592592592592593,AI,passive
+409,The supremacist established the fund.,The fund established the supremacist.,5.695652173913044,2.56,AI,active
+410,The fund was established by the supremacist.,The supremacist was established by the fund.,6.454545454545454,2.8260869565217392,AI,passive
+411,The house sitter watered the plant.,The plant watered the house sitter.,6.363636363636363,1.0,AI,active
+412,The plant was watered by the house sitter.,The house sitter was watered by the plant.,6.76,1.25,AI,passive
+413,The interviewee wrinkled the suit.,The suit wrinkled the interviewee.,5.666666666666667,1.3333333333333333,AI,active
+414,The suit was wrinkled by the interviewee.,The interviewee was wrinkled by the suit.,5.590909090909091,2.3333333333333335,AI,passive
+415,The cryptographer sent the letter.,The letter sent the cryptographer.,6.454545454545454,1.7,AI,active
+416,The letter was sent by the cryptographer.,The cryptographer was sent by the letter.,6.12,1.6363636363636365,AI,passive
+417,The bellboy erased the message.,The message erased the bellboy.,5.666666666666667,1.6818181818181819,AI,active
+418,The message was erased by the bellboy.,The bellboy was erased by the message.,6.0,1.1481481481481481,AI,passive
+419,The forger shipped the package.,The package shipped the forger.,6.166666666666667,1.4210526315789473,AI,active
+420,The package was shipped by the forger.,The forger was shipped by the package.,6.090909090909091,1.3636363636363635,AI,passive
+421,The crackhead smoked the pipe.,The pipe smoked the crackhead.,6.44,1.0909090909090908,AI,active
+422,The pipe was smoked by the crackhead.,The crackhead was smoked by the pipe.,6.583333333333333,1.125,AI,passive
+423,The manicurist rescheduled the appointment.,The appointment rescheduled the manicurist.,6.5,1.7727272727272727,AI,active
+424,The appointment was rescheduled by the manicurist.,The manicurist was rescheduled by the appointment.,6.7407407407407405,1.8571428571428572,AI,passive
+425,The charlatan burned the contract.,The contract burned the charlatan.,6.0,1.4090909090909092,AI,active
+426,The contract was burnt by the charlatan.,The charlatan was burnt by the contract.,5.956521739130435,2.869565217391304,AI,passive
+427,The tanner placed the order.,The order placed the tanner.,5.88,1.8095238095238095,AI,active
+428,The order was placed by the tanner.,The tanner was placed by the order.,5.954545454545454,1.75,AI,passive
+429,The archaeologist canceled the trip.,The trip canceled the archaeologist.,6.777777777777778,1.4090909090909092,AI,active
+430,The trip was canceled by the archaeologist.,The archaeologist was canceled by the trip.,6.478260869565218,1.0833333333333333,AI,passive
+431,The Frenchman sliced the baguette.,The baguette sliced the Frenchman.,6.52,1.44,AI,active
+432,The baguette was sliced by the Frenchman.,The Frenchman was sliced by the baguette.,6.958333333333333,1.3636363636363635,AI,passive
+433,The producer cast the actress.,The actress cast the producer.,6.695652173913044,2.12,AAN,active
+434,The actress was cast by the producer.,The producer was cast by the actress.,6.818181818181818,1.7391304347826086,AAN,passive
+435,The exorcist vanquished the spirit.,The spirit vanquished the exorcist.,6.0,2.5833333333333335,AAN,active
+436,The spirit was vanquished by the exorcist.,The exorcist was vanquished by the spirit.,4.375,2.72,AAN,passive
+437,The barber shaved the old man.,The old man shaved the barber.,6.571428571428571,3.909090909090909,AAN,active
+438,The old man was shaved by the barber.,The barber was shaved by the old man.,6.944444444444445,3.35,AAN,passive
+439,The paparazzi stalked the pop star.,The pop star stalked the paparazzi.,6.75,2.3043478260869565,AAN,active
+440,The pop star was stalked by the paparazzi.,The paparazzi was stalked by the pop star.,6.76,3.0,AAN,passive
+441,The brunette tipped the busboy.,The busboy tipped the brunette.,6.666666666666667,3.7083333333333335,AAN,active
+442,The busboy was tipped by the brunette.,The brunette was tipped by the busboy.,6.136363636363637,2.72,AAN,passive
+443,The roommate adopted the newborn.,The newborn adopted the roommate.,6.045454545454546,1.1666666666666667,AAN,active
+444,The newborn was adopted by the roommate.,The roommate was adopted by the newborn.,5.185185185185185,1.7083333333333333,AAN,passive
+445,The cartoonist sketched the unicyclist.,The unicyclist sketched the cartoonist.,6.75,3.5,AAN,active
+446,The unicyclist was sketched by the cartoonist.,The cartoonist was sketched by the unicyclist.,6.0,3.0,AAN,passive
+447,The streetwalker undercharged the seaman.,The seaman undercharged the streetwalker.,4.72,4.045454545454546,AAN,active
+448,The seaman was undercharged by the streetwalker.,The streetwalker was undercharged by the seaman.,3.9565217391304346,3.608695652173913,AAN,passive
+449,The urologist treated the widower.,The widower treated the urologist.,5.954545454545454,2.56,AAN,active
+450,The widower was treated by the urologist.,The urologist was treated by the widower.,6.16,2.7916666666666665,AAN,passive
+451,The jury acquitted the economist.,The economist acquitted the jury.,5.947368421052632,2.0454545454545454,AAN,active
+452,The economist was acquitted by the jury.,The jury was acquitted by the economist.,6.304347826086956,2.16,AAN,passive
+453,The freshman dodged the bully.,The bully dodged the freshman.,6.04,4.12,AAN,active
+454,The bully was dodged by the freshman.,The freshman was dodged by the bully.,6.130434782608695,3.8181818181818183,AAN,passive
+455,The nun reproached the hedonist.,The hedonist reproached the nun.,5.583333333333333,4.2592592592592595,AAN,active
+456,The hedonist was reproached by the nun.,The nun was reproached by the hedonist.,6.041666666666667,5.2272727272727275,AAN,passive
+457,The librarian admonished the plagiarist.,The plagiarist admonished the librarian.,5.818181818181818,4.0,AAN,active
+458,The plagiarist was admonished by the librarian.,The librarian was admonished by the plagiarist.,5.95,4.0,AAN,passive
+459,The colonel supervised the cadet.,The cadet supervised the colonel.,6.541666666666667,2.52,AAN,active
+460,The cadet was supervised by the colonel.,The colonel was supervised by the cadet.,6.681818181818182,2.875,AAN,passive
+461,The abolitionist hid the slave.,The slave hid the abolitionist.,6.409090909090909,3.3,AAN,active
+462,The slave was hidden by the abolitionist.,The abolitionist was hidden by the slave.,6.32,3.772727272727273,AAN,passive
+463,The personal trainer weighed the Olympian.,The Olympian weighed the personal trainer.,6.56,4.318181818181818,AAN,active
+464,The Olympian was weighed by the personal trainer.,The personal trainer was weighed by the Olympian.,6.791666666666667,3.3333333333333335,AAN,passive
+465,The zookeeper fed the giraffe.,The giraffe fed the zookeeper.,6.84,1.2083333333333333,AAN,active
+466,The giraffe was fed by the zookeeper.,The zookeeper was fed by the giraffe.,6.7727272727272725,1.4,AAN,passive
+467,The masseuse relaxed the linebacker.,The linebacker relaxed the masseuse.,6.583333333333333,2.5,AAN,active
+468,The linebacker was relaxed by the masseuse.,The masseuse was relaxed by the linebacker.,6.045454545454546,3.0434782608695654,AAN,passive
+469,The page obeyed the noble.,The noble obeyed the page.,4.37037037037037,3.090909090909091,AAN,active
+470,The noble was obeyed by the page.,The page was obeyed by the noble.,4.454545454545454,3.652173913043478,AAN,passive
+471,The lion chased the tour-guide.,The tour-guide chased the lion.,6.391304347826087,3.130434782608696,AAN,active
+472,The tour-guide was chased by the lion.,The lion was chased by the tour-guide.,5.88,3.1818181818181817,AAN,passive
+473,The caretaker quieted the orphan.,The orphan quieted the caretaker.,6.541666666666667,4.2272727272727275,AAN,active
+474,The orphan was quieted by the caretaker.,The caretaker was quieted by the orphan.,6.64,3.52,AAN,passive
+475,The tennis player thanked the chiropractor.,The chiropractor thanked the tennis player.,6.6521739130434785,5.24,AAN,active
+476,The chiropractor was thanked by the tennis player.,The tennis player was thanked by the chiropractor.,6.681818181818182,4.260869565217392,AAN,passive
+477,The experimenter recruited the subject.,The subject recruited the experimenter.,6.136363636363637,2.2222222222222223,AAN,active
+478,The subject was recruited by the experimenter.,The experimenter was recruited by the subject.,6.35,2.590909090909091,AAN,passive
+479,The mother disciplined the toddler.,The toddler disciplined the mother.,6.703703703703703,1.5833333333333333,AAN,active
+480,The toddler was disciplined by the mother.,The mother was disciplined by the toddler.,6.409090909090909,2.125,AAN,passive
+481,The assistant principal expelled the sociopath.,The sociopath expelled the assistant principal.,5.761904761904762,2.1818181818181817,AAN,active
+482,The sociopath was expelled by the assistant principal.,The assistant principal was expelled by the sociopath.,6.3478260869565215,2.5555555555555554,AAN,passive
+483,The channeler sensed the ghost.,The ghost sensed the channeler.,5.909090909090909,3.625,AAN,active
+484,The ghost was sensed by the channeler.,The channeler was sensed by the ghost.,4.5,2.72,AAN,passive
+485,The union ousted the whistle-blower.,The whistle-blower ousted the union.,5.7727272727272725,5.217391304347826,AAN,active
+486,The whistle-blower was ousted by the union.,The union was ousted by the whistle-blower.,6.555555555555555,5.428571428571429,AAN,passive
+487,The huntsman trapped the deer.,The deer trapped the huntsman.,6.84,2.590909090909091,AAN,active
+488,The deer was trapped by the huntsman.,The huntsman was trapped by the deer.,6.739130434782608,2.260869565217391,AAN,passive
+489,The cardiologist discredited the quack.,The quack discredited the cardiologist.,5.782608695652174,3.7777777777777777,AAN,active
+490,The quack was discredited by the cardiologist.,The cardiologist was discredited by the quack.,5.619047619047619,2.6363636363636362,AAN,passive
+491,The bailiff released the ruffian.,The ruffian released the bailiff.,5.916666666666667,2.5416666666666665,AAN,active
+492,The ruffian was released by the bailiff.,The bailiff was released by the ruffian.,5.8,2.8636363636363638,AAN,passive
+493,The shark mauled the snorkeler.,The snorkeler mauled the shark.,6.2592592592592595,2.8636363636363638,AAN,active
+494,The snorkeler was mauled by the shark.,The shark was mauled by the snorkeler.,6.636363636363637,1.6363636363636365,AAN,passive
+495,The president pardoned the traitor.,The traitor pardoned the president.,6.318181818181818,1.5217391304347827,AAN,active
+496,The traitor was pardoned by the president.,The president was pardoned by the traitor.,5.913043478260869,1.36,AAN,passive
+497,The au pair spanked the girl.,The girl spanked the au pair.,5.2727272727272725,2.64,AAN,active
+498,The girl was spanked by the au pair.,The au pair was spanked by the girl.,5.48,3.2083333333333335,AAN,passive
+499,The TV station head promoted the newsagent.,The newsagent promoted the TV station head.,6.291666666666667,4.875,AAN,active
+500,The newsagent was promoted by the TV station head.,The TV station head was promoted by the newsagent.,6.714285714285714,3.625,AAN,passive
+501,The policewoman handcuffed the offender.,The offender handcuffed the policewoman.,6.92,2.64,AAN,active
+502,The offender was handcuffed by the policewoman.,The policewoman was handcuffed by the offender.,6.958333333333333,2.1818181818181817,AAN,passive
+503,The anthropologist studied the tribesman.,The tribesman studied the anthropologist.,6.173913043478261,4.478260869565218,AAN,active
+504,The tribesman was studied by the anthropologist.,The anthropologist was studied by the tribesman.,5.92,4.181818181818182,AAN,passive
+505,The police chief rewarded the firefighter.,The firefighter rewarded the police chief.,5.315789473684211,4.6,AAN,active
+506,The firefighter was rewarded by the police chief.,The police chief was rewarded by the firefighter.,6.045454545454546,5.090909090909091,AAN,passive
+507,The miscreant kidnapped the beneficiary.,The beneficiary kidnapped the miscreant.,5.5,3.6363636363636362,AAN,active
+508,The beneficiary was kidnapped by the miscreant.,The miscreant was kidnapped by the beneficiary.,5.25,3.3703703703703702,AAN,passive
+509,The social worker comforted the abused woman.,The abused woman comforted the social worker.,6.68,3.4166666666666665,AAN,active
+510,The abused woman was comforted by the social worker.,The social worker was comforted by the abused woman.,6.681818181818182,3.32,AAN,passive
+511,The neuroscientist overwhelmed the lab assistant.,The lab assistant overwhelmed the neuroscientist.,5.833333333333333,5.636363636363637,AAN,active
+512,The lab assistant was overwhelmed by the neuroscientist.,The neuroscientist was overwhelmed by the lab assistant.,6.782608695652174,5.375,AAN,passive
+513,The warmonger terrorized the gunsmith.,The gunsmith terrorized the warmonger.,5.12,4.409090909090909,AAN,active
+514,The gunsmith was terrorized by the warmonger.,The warmonger was terrorized by the gunsmith.,4.7727272727272725,4.7,AAN,passive

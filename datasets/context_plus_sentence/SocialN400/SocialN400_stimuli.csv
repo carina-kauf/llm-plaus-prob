@@ -1,0 +1,302 @@
+ItemNum,Condition,Sentence1_Context,Sentence2_Main,Target_word_position,N_Words_Sentence1,N_Words_Sentence2
+1,Control,I went to a mechanic to fix my car. ,My car has big wheels now.,5,9,6
+1,SemAnom,I decided to paint my boat.,My boat has big wheels now.,5,6,6
+1,Critical,I decided to turn my boat into a car.,My boat has big wheels now.,5,9,6
+2,Control,Jane was cooking Christmas dinner.,Jane put the turkey in the oven for one hour.,7,5,10
+2,SemAnom,Jane was unpacking the groceries.,Jane put the cheese in the oven for one hour.,7,5,10
+2,Critical,Jane was making a baked brie.,Jane put the cheese in the oven for one hour.,7,6,10
+3,Control,Jane was getting ready for a date.,Jane put some make-up on.,4,7,5
+3,SemAnom,Phil was getting ready for an important business meeting.,Phil put some make-up on.,4,9,5
+3,Critical,Phil was training to become a clown.,Phil put some make-up on.,4,7,5
+4,Control,Alex saw a beautiful bird in the sky.,The bird's wings were bright yellow.,3,8,6
+4,SemAnom,Alex saw a girl waiving at him.   ,The girl's wings were bright yellow.,3,7,6
+4,Critical,Alex saw a girl dressed up as a fairy.,The girl's wings were bright yellow.,3,9,6
+5,Control,There were many events happening at the air show.,Mike saw some planes in the sky moving slowly.,7,9,9
+5,SemAnom,It was a clear spring day.,Mike saw some tulips in the sky moving slowly.,7,6,9
+5,Critical,There were many balloons that looked like flowers at the party. ,Mike saw some tulips in the sky moving slowly.,7,11,9
+6,Control,JFK is one of the busiest air hubs in the world. ,Airplanes arrive to the airport every 10 minutes.,5,11,8
+6,SemAnom,Andy is checking the schedule.,Ferries arrive to the airport every 10 minutes.,5,5,8
+6,Critical,A new water route connecting Manhattan and JFK was launched last month.,Ferries arrive to the airport every 10 minutes.,5,12,8
+7,Control,It was an enjoyable flight for John.,The flight attendent offered John some food and drinks,7,7,9
+7,SemAnom,John came to a walk-in clinic.,The doctor offered John some food and drinks.,6,6,8
+7,Critical,There was a reception at the physician's house.,The doctor offered John some food and drinks.,6,8,8
+8,Control,The flight boarding was announced.,The passengers were entering the airplane slowly,6,5,7
+8,SemAnom,The guards were observing the territory of the jail.,The prisoners were entering the airplane slowly.  ,6,9,7
+8,Critical,Two convicts had to be transported to a new jail by air.,The prisoners were entering the airplane slowly.  ,6,12,7
+9,Control,Mary is making some shortbread cookies.,Mary sprinkled the cookies with sugar and nutmeg.,6,6,8
+9,SemAnom,Mary is preparing some breakfast.,Mary sprinkled the bacon with sugar and nutmeg.,6,5,8
+9,Critical,Mary is making an unusual dessert from bacon. ,Mary sprinkled the bacon with sugar and nutmeg.,6,8,8
+10,Control,Lucy is singing a lullaby for a baby.,The baby is sleeping in the crib silently now.,7,8,9
+10,SemAnom,"Lucy has a big, hairy dog.",The dog is sleeping in the crib silently now.,7,6,9
+10,Critical,Lucy treats her dog as a baby.,The dog is sleeping in the crib silently now.,7,7,9
+11,Control,Mike is preparing a dinner.,"With a knife, he cuts some bread into slices.",7,5,9
+11,SemAnom,Mike is setting up a fire at the campsite.,"With an axe, he cuts some bread into slices.",7,9,9
+11,Critical,Michael could not find a knife at the campsite.,"With an axe, he cuts some bread into slices.",7,9,9
+12,Control,A dangerous leopard was approaching a group of monkeys.,One monkey climbed up the palm looking for some safe place.,6,9,11
+12,SemAnom,The Arctic Storm was approaching a dwelling of white bears.,One white bear climbed up the palm looking for some safe place. ,7,10,12
+12,Critical,The zoo keepers installed a fake tropical tree in a white bears' pavilion.,One white bear climbed up the palm looking for some safe place. ,7,13,12
+13,Control,It was very cold in the nursery that night.,Jane covered a baby with the blanket to keep it warm.,7,9,11
+13,SemAnom,Jane was busy cooking supper.,Jane covered an egg with the blanket to keep it warm.,7,5,11
+13,Critical,"For her science project, Jane was trying to hatch a chick in an incubator.",Jane covered an egg with the blanket to keep it warm.,7,14,11
+14,Control,The lawyer is preparing for a court hearing.,Anna was staring at a cake made of high quality chocolate with a desire to buy it. ,11,8,17
+14,SemAnom,There were a lot of expensive acccesories at the show.,Anna was staring at a bag made of high quality chocolate with a desire to buy it.,11,10,17
+14,Critical,Bakers created unique cakes that looked like ordinary things for the food show.,Anna was staring at a bag made of high quality chocolate with a desire to buy it. ,11,13,17
+15,Control,Kate was getting ready to go to school.,Kate put textbooks into her bag before leaving home for school.  ,6,8,11
+15,SemAnom,It was a busy day for Kate. ,Kate put the elephant into the bag before leaving home for school.,7,7,12
+15,Critical,Kate's favorite toy is an elephant. ,Kate put the elephant into her bag before leaving home for school.,7,6,12
+16,Control,Jane was walking through a dangerous part of the city. ,Jane checked that the bag's zipper was closed.,6,10,8
+16,SemAnom,Jane was taking care of animals in the zoo.,Jane checked that the monkey's zipper was closed.,6,9,8
+16,Critical,Jane keeps her wallet in a bag that looks like monkey toy.,Jane checked that the monkey's zipper was closed.,6,12,8
+17,Control,A baker's day starts very early.,The baker made lots of bread this morning.,6,6,8
+17,SemAnom,The lawyer is preparng for a court hearing.. ,The lawyer made lots of bread this morning.,6,8,8
+17,Critical,My lawyer's favorite pastime is baking. ,The lawyer made lots of bread this morning.,6,6,8
+18,Control,"Christmas is a busy time of the year for Mary, who is a baker. ",The baker spent her whole day in the bakery making cakes.,9,14,11
+18,SemAnom,"Mary, a ballet dancer, will perform a leading role in the new show.",The ballet dancer spent her whole day in the bakery making cakes. ,10,13,12
+18,Critical,"Mary, a ballet dancer, was taking some baking classes this week.",The ballet dancer spent her whole day in the bakery making cakes.,10,11,12
+19,Control,Nancy came home with a bag full of groceries. ,Nancy put the milk in the fridge right away. ,7,9,9
+19,SemAnom,Nancy was getting ready for a number of important business meetings with her clients. ,Nancy put the blouse in the fridge right away.,7,14,9
+19,Critical,"To get rid of the gum that got stuck on her blouse, Nancy wanted to freeze it.",Nancy put the blouse in the fridge right away.,7,17,9
+20,Control,Tom was making some chicken soup with noodles.,Tom poured some chicken stock into the pot carefully.,8,8,9
+20,SemAnom,Tom was having a great time at a party.,Tom poured some beer into the pot carefully.,7,9,8
+20,Critical,Tom was trying out a unique soup recipe that he got from a friend. ,Tom poured some beer into the pot carefully.,7,14,8
+21,Control,There was a Christmas party in the office.,Betty loved the red coat that Santa had on during the party. ,7,8,12
+21,SemAnom,Betty was spending her summer vacation at a tropical resort.,Betty loved the red swimsuit that Santa had on during the party. ,7,10,12
+21,Critical,Betty was spending her Christmas vacation at a tropical resort.,Betty loved the red swimsuit that Santa had on during the party. ,7,10,12
+22,Control,It is important for Kelly to wear the proper attire while she is cooking.    ,"Before starting to bake, Kelly put on her apron and a hat.",9,14,12
+22,SemAnom,Kelly prepared a dance routine where she and her partner portrayed policemen.  ,"Before starting to dance, Kelly put on her apron and a hat.",9,12,12
+22,Critical,Kelly prepared a dance routine where she and her partner portrayed bakers.,"Before starting to dance, Kelly put on her apron and a hat.",9,12,12
+23,Control,Mark is leaving for a tropical cruise tomorrow. ,Mark is going to the bank to get some money before starting his vacation.,10,8,14
+23,SemAnom,Mark is planning a big birthday party for his wife. ,Mark is going to the bakery to get some money before starting his vacation. ,10,10,14
+23,Critical,Today is a payday at the bakery where Mark works.,Mark is going to the bakery to get some money before starting his vacation. ,10,10,14
+24,Control,Cindy's dog has always been very quiet.,Cindy was startled when she heard the dog barking next to her. ,9,7,12
+24,SemAnom,Cindy's cat has always been very lazy.,Cindy was startled when she heard the cat barking next to her.,9,7,12
+24,Critical,Cindy mistook her friend's pet dog for a cat.,Cindy was startled when she heard the cat barking next to her. ,9,9,12
+25,Control,Jane wants her valuable property to be protected.,Jane keeps her jewels in the safe at the bank.,7,8,10
+25,SemAnom,Jane's kitchen is very well organized. ,Jane keeps the spoons in the safe at the bank.,7,6,10
+25,Critical,Jane owns a set of golden spoons incrusted with jewels. ,Jane keeps the spoons in the safe at the bank.,7,10,10
+26,Control,John's horse is taking part in today's final race.,"The horse is waiting at the starting line, ready to begin the race.",7,9,13
+26,SemAnom,John's cat is always hungry and demands more food. ,"The cat is waiting at the starting line, ready to begin the race.",7,9,13
+26,Critical,John's cat is taking part in a competition where cats race after a mouse.,"The cat is waiting at the starting line, ready to begin the race.",7,14,13
+27,Control,The farmer planted many new apple trees on his farm.,"In the fall, the farmer was busy making cider from apples. ",9,10,11
+27,SemAnom,The banker approved a huge loan for the development of the oil-producing company.,"In the fall, the banker was busy making cider from apples. ",9,13,11
+27,Critical,The banker purchased an apple farm last year. ,"In the fall, the banker was busy making cider from apples. ",9,8,11
+28,Control,The farmer was very proud of his poultry.,You can see a lot of chickens in the barn and in the field. ,10,8,14
+28,SemAnom,The tourists were warned by the guide that it was a dangerous place.,You can see a lot of alligators in the barn and in the field.,10,13,14
+28,Critical,The farmer was raising alligators for sale. ,You can see a lot of alligators in the barn and in the field.,10,7,14
+29,Control,Swimming in oceans and lakes is a popular pastime that attracts people of all ages during the summer.,"On this hot summer day, many people are heading to the beach for a swim.",12,18,15
+29,SemAnom,Meteorologists say that today is one of the coldest days in history.,"On this cold winter day, many people are heading to the beach for a swim.",12,12,15
+29,Critical,Today is an annual ice water swimming festival in Boston attended by many members of the Polar Bear Club. ,"On this cold winter day, many people are heading to the beach for a swim.",12,19,15
+30,Control,Dianna keeps many types of shampoo in her shower. ,Dianna used some lavender shampoo to wash her hair last night.,9,9,11
+30,SemAnom,"Dianna did some chores, including laundry, yesterday.",Dianna used some lavender detergent to wash her hair last night.,9,7,11
+30,Critical,"While taking a shower, Dianna accidentally grabbed a wrong bottle.",Dianna used some lavender detergent to wash her hair last night.,9,10,11
+31,Control,The kids were looking at a canary in the pet store with great interest.,The bird had a little beak and a bright yellow tail.    ,6,14,11
+31,SemAnom,Anna was definitely a very cute child. ,The girl had a little beak and a bright yellow tail. ,6,7,11
+31,Critical,The girl dressed up as a canary for Halloween. ,The girl had a little beak and a bright yellow tail. ,6,9,11
+32,Control,A big bird was searching for some food. ,The bird ate some worms that it found on the ground.  ,5,8,11
+32,SemAnom,Mike bought a bag of nuts to snack on during the flight. ,Mike ate some worms that he found in the bag.  ,4,12,10
+32,Critical,Mike bought a bag of gummy candy that looked like insects.,Mike ate some worms that he found in the bag.  ,4,11,10
+33,Control,Many birds lay eggs in the spring.,Mary saw big raven's eggs lying in the nest that the ravens built.,9,7,13
+33,SemAnom,Mary was getting ready for a night out with her husband.,Mary saw her blue earrings lying in the nest that the ravens built.,9,11,13
+33,Critical,Ravens are known for their tendency to bring home jewelry that they find.,Mary saw her blue earrings lying in the nest that the ravens built.,9,13,13
+34,Control,A bear saw a salmon swimming in the lake. ,The bear caught the fish and brought it to the shore. ,5,9,11
+34,SemAnom,Andy was playing with his dog in the park.,The dog caught the fish and brought it to the shore. ,5,9,11
+34,Critical,"Andy's dog was jumping in the pond, chasing a small salmon.  ",The dog caught the fish and brought it to the shore. ,5,11,11
+35,Control,Mike's mom prepared some pancakes this morning. ,"At breakfast, Mike grabs a bear-shaped bottle and pours some honey over his pancakes.",10,7,14
+35,SemAnom,Mike enjoys his food with some citrus flavour. ,"At breakfast, Mike grabs a lemon-shaped bottle and pours some honey over his pancakes.",10,8,14
+35,Critical,Mike purchased some wimsically packaged produce from the bee-keeping farm yesterday.    ,"At breakfast, Mike grabs a lemon-shaped bottle and pours some honey over his pancakes.",10,11,14
+36,Control,It was a long day for Dan with a large number of meetings.,Dan came home very sleepy and went to bed early. ,9,13,10
+36,SemAnom,Dan learned about being promoted.,Dan came home very excited and went to bed early. ,9,5,10
+36,Critical,Dan had an early flight to Paris next morning.  ,Dan came home very excited and went to bed early. ,9,9,10
+37,Control,Jane's bedroom is very well decorated. ,Jane's bed has several small pillows and a comforter.   ,6,6,9
+37,SemAnom,"By accident, Jane backed her car up into a garage door. ",Jane's car has several small pillows and a comforter.   ,6,11,9
+37,Critical,Jane often takes naps in her car.,Jane's car has several small pillows and a comforter.   ,6,7,9
+38,Control,John was stopped by a police officer on the highway.,The man was going too fast in the car that day.,9,10,11
+38,SemAnom,John owns a greyhound who loves running and chasing other dogs.,The dog was going too fast in the car that day.,9,11,11
+38,Critical,A dog that was trained by the clown to operate vehicles was a part of the circus show.,The dog was going too fast in the car that day.,9,18,11
+39,Control,Daniel had many guests attending his birthday party.,Daniel was interacting with the guests at the party.,6,8,9
+39,SemAnom,"Daniel, a zoologist, was observing the behavior of monkeys in the wild.",The monkey was interacting with the guests at the party.,7,12,10
+39,Critical,Daniel was dressed up as a monkey for Halloween.,The monkey was interacting with the guests at the party.,7,9,10
+40,Control,Mary was taking an overnight flight. ,The flight attendant was serving drinks on the plane to Seattle.,9,6,11
+40,SemAnom,There was a huge bbq party at my neighbour's place.,My neighbour was serving drinks on the plane to Seattle.,8,10,10
+40,Critical,My neighbour works as a flight attendant.,My neigbour was serving drinks on the plane to Seattle.,8,7,10
+41,Control,Mary was attending a funeral ceremony at the church.,Mary had on a black shirt and a skirt for the occasion.  ,9,9,12
+41,SemAnom,Mark was attending a formal meeting with his potential business partners.,Mark had on a black shirt and a skirt for the occasion.  ,9,11,12
+41,Critical,Mark was Scottish and often wore his traditional kilt costume to parties.,Mark had on a black shirt and a skirt for the occasion.  ,9,12,12
+42,Control,Kelly has a new pet rabbit.,The rabbit's favorite foods are carrots and cabbage.,6,6,8
+42,SemAnom,Kelly has a new pet cat.,The cat's favorite foods are carrots and cabbage.,6,6,8
+42,Critical,Kelly's cat enjoys eating veggies.,The cat's favorite foods are carrots and cabbage.,6,5,8
+43,Control,It was a happy day for the bride and the groom.,Thomas wore a nice suite to the wedding yesterday.,8,11,9
+43,SemAnom,Thomas was very excited about the upcoming game.,Thomas wore a hockey jersey to the wedding yesterday.,8,8,9
+43,Critical,The bride and groom decided to have a hockey-themed celebration.,Thomas wore a hockey jersey to the wedding yesterday.,8,10,9
+44,Control,The hotel had a nice outdoor aquatic area with a pool and water slides. ,"On this hot summer day, many guests went for a swim outside.",11,14,12
+44,SemAnom,It was an unusually cold winter for Massachusetts.,"On this cold winter day, many guests went for a swim outside.",11,8,12
+44,Critical,There was a heated outdoor pool at the hotel.,"On this cold winter day, many guests went for a swim outside.",11,9,12
+45,Control,Sarah was enjoying the view of the starry sky.,The stars shone brightly that night in the sky.,6,9,9
+45,SemAnom,Sarah was looking at the clear sky.,The sun shone brightly that night in the sky.,6,7,9
+45,Critical,Sarah was looking at a fluorescent sun sticker that she attached to her bedroom wall.,The sun shone brightly that night in the sky.,6,15,9
+46,Control,Joseph learned that the weather forcast was not very favourable. ,Joseph grabbed the umbrella because it was raining outside.,8,10,9
+46,SemAnom,Joseph was in a hurry to an important business meeting.,Joseph grabbed the bag because it was raining outside.,8,10,9
+46,Critical,Joseph forgot his umbrella at home and decided to use a plastic bag instead.,Joseph grabbed the bag because it was raining outside.,8,14,9
+47,Control,There were many patients in the hospital.,The nurse administered several injections that day.,5,7,7
+47,SemAnom,The brigade members were practicing their combat skills.,The soldier administered several injections that day.,5,8,7
+47,Critical,A soldier was the only person with medical experience on the plane. ,The soldier administered several injections that day.,5,12,7
+48,Control,Amanda is a renowned lawyer in her city.,Amanda wears a suit to work every day.,6,8,8
+48,SemAnom,Amanda is working as a secretary at a law company.,Amanda wears a swimsuit to work every day.,6,10,8
+48,Critical,Amanda is a swimming instructor at the local pool.,Amanda wears a swimsuit to work every day.,6,9,8
+49,Control,Mark prefers tea to coffee. ,Mark has tea with honey every night. ,5,5,7
+49,SemAnom,Mark comes home at 6 pm from work. ,Mark has beer with honey every night. ,5,8,7
+49,Critical,Mark tends to put some natural sweeteners into his alcoholic drinks.,Mark has beer with honey every night. ,5,11,7
+50,Control,Tami is one of the leading florists in the shop.,Tami made a bouqet out of flowers for her client.,7,10,10
+50,SemAnom,Tami is designing a business costume. ,Tami made a hat out of flowers for her client.,7,6,10
+50,Critical,"In Tami's floral shop, Jane ordered a very unusual headware. ",Tami made a hat out of flowers for her client.,7,10,10
+51,Control,Mark and Peter have been friends since high school.,The friends were having beer and chips while watching the game.,7,9,11
+51,SemAnom,Mark and Peter had some high tea in an upscale restaurant.,The friends were having tea and chips while watching the game.,7,11,11
+51,Critical,Mark came to his friend to watch some football and brought a bag of Lays with him. ,The friends were having tea and chips while watching the game.,7,17,11
+52,Control,A beautiful canary was sitting on a branch of an apple tree. ,The bird was cleaning its feathers when Bob saw it.    ,6,12,10
+52,SemAnom,A girl was getting ready for a day of work. ,The girl was cleaning her feathers when Bob saw her.    ,6,10,10
+52,Critical,A girl dressed up as a canary for the play.,The girl was cleaning her feathers when Bob saw her.    ,6,10,10
+53,Control,"In the forest, Jake saw a bald eagle, a rare species of bird. ",The bird was sitting on a tree high above the ground. ,7,13,11
+53,SemAnom,Jake was relaxing after a hard day of work.,The man was sitting on a tree high above the ground. ,7,9,11
+53,Critical, Jake saw a pack of wolves in the forest and decided to hide in a safe place. ,The man was sitting on a tree high above the ground. ,7,17,11
+54,Control,Melissa has an adorable hamster in her apartment.  ,Melissa just puts some food into the hamster's cage and leaves.,9,8,11
+54,SemAnom,Melissa works as a babysitter in the Smiths household.,Melissa just puts some food into the baby's cage and leaves.,9,9,11
+54,Critical,Melissa kidnapped a baby and kept it in a prison like environment. ,Melissa just puts some food into the baby's cage and leaves.,9,12,11
+55,Control,Dan is an avid bird watcher who spends every free minute outside looking for birds.,Dan saw some birds eating bugs and grasshoppers.,6,15,8
+55,SemAnom,Dan was invited to attend a formal reception at the most popular bakery in New York.,Dan saw some women eating bugs and grasshoppers.,6,16,8
+55,Critical,"In many Asian countries, fried insects are a great delicacy.",Dan saw some women eating bugs and grasshoppers.,6,10,8
+56,Control,Our cat has very strong predatory instincts.,"As a result, our cat likes to chase mice from morning till night.",9,7,13
+56,SemAnom,Our dog does not get along with cats very well.,"As a result, our dog likes to chase mice from morning till night.",9,10,13
+56,Critical,The puppy was raised by the cat like a kitten.,"As a result, our dog likes to chase mice from morning till night.",9,10,13
+57,Control,There was a big sailing show at the fair on the weekend.,The sailors were preparing their boat for the show. ,6,12,9
+57,SemAnom,There was a big musical performance at the fair on the weekend.,The musicians were preparing their boat for the show. ,6,12,9
+57,Critical,The musicians formed a rowing team and decided to take part in a rowing show. ,The musicians were preparing their boat for the show. ,6,15,9
+58,Control,John has been cleaning his boat the whole day.,His boat has a shiny anchor now.,6,9,7
+58,SemAnom,John is cleaning his house before Easter.,His house has a shiny anchor now.,6,7,7
+58,Critical,The former sailsman has decorated his house with many parts of his old boat.,His house has a shiny anchor now.,6,14,7
+59,Control,Mary's car stopped in the middle of highway.,Mary opened a car hood and saw a high-tech motor inside.,10,8,11
+59,SemAnom,Mary was deciding what gown to wear to the theater .,Mary opened a closet door and saw a high-tech motor inside.,10,11,11
+59,Critical,Mary's husband redesigned her closet in such a way that the shelves would move automatically.   ,Mary opened a closet door and saw a high-tech motor inside.,10,15,11
+60,Control,Alex purchased a new boat.,Alex will be boating on a lake this summer.,7,5,9
+60,SemAnom,Alex got a new snowsuit and a pair of skis.,Alex will be skiing on a lake this summer.  ,7,10,9
+60,Critical,Alex enjoys extreme water sports.,Alex will be skiing on a lake this summer.  ,7,5,9
+61,Control,Dog owners often bring treats to their pets.,In this picture you see a dog chewing on a bone with great pleasure.,11,8,14
+61,SemAnom,Teething is a painful time for babies.,In this picture you see a baby chewing on a bone with great pleasure.,11,7,14
+61,Critical,"In pre-historic times, animal parts that were not good for eating were given to children to play with.  ",In this picture you see a baby chewing on a bone with great pleasure.,11,18,14
+62,Control,"During the school break, children went to the National Museum of Natural History.","At the dinosaur exposition, the kids saw many bones of different sizes.",9,13,12
+62,SemAnom,"During the school break, chldren went to the botanical garden.","At the flower exposition, the kids saw many bones of different sizes.",9,10,12
+62,Critical,The art musem prepared a new avangard exposition of flowers made of skeleton parts.,"At the flower exposition, the kids saw many bones of different sizes.",9,14,12
+63,Control,Breakfast is the main meal of the day for Lucy.,She pours some milk into her cereal and grabs a spoon.,7,10,11
+63,SemAnom,Lucy stops for a break during the marathon.,She pours some water into her cereal and grabs a spoon.,7,8,11
+63,Critical,"Being lactose intolerant, Lucy always uses water instead of milk in her breakfast foods.",She pours some water into her cereal and grabs a spoon.,7,14,11
+64,Control,"For her birthday, Cindy got a book with many vegan recipes. ",Cindy takes the book and starts reading the recipe.,7,11,9
+64,SemAnom,Cindy has found a picture of her and her friends vacationing in New Zealand.,Cindy takes the photo and starts reading the recipe.,7,14,9
+64,Critical,Cindy took a picture with her phone of a cake recipe she found in a journal,Cindy takes the photo and starts reading the recipe.,7,16,9
+65,Control,There are many specialized retailers in this outlet mall.,"In the optical shop, you can purchase glasses and contacts.",8,9,10
+65,SemAnom,Many new shops have opened in the downtown area.,"In the flower shop, you can purchase glasses and contacts.",8,9,10
+65,Critical,The optical shop was flooded and all its merchandise was moved to a nearby flower shop.,"In this flower shop, you can purchase glasses and contacts.",8,16,10
+66,Control,Everything was ready for the birthday celebration. ,The cake had birthday candles in it.,5,7,7
+66,SemAnom,Anna received a postcard from her German friend this morning.,The postcard had birthday candles in it.,5,10,7
+66,Critical,The cake was baked in the form of a large postcard.,The postcard had birthday candles in it.,5,11,7
+67,Control,"At the British Museum, we purchased a book titled The Treasure of Impressionism.",The book was made of the highest quality paper and was very expensive.,9,13,13
+67,SemAnom,"In the British Museum, we saw a coronation dress belonging to Queen Elizabeth II.",The dress was made of the highest quality paper and was very expensive.,9,14,13
+67,Critical,The fashion designer used pages from fashion magazines to create his new dress. ,The dress was made of the highest quality paper and was very expensive.,9,13,13
+68,Control,John was solving a crossword puzzle.,John opened the dictionary to look up the word that he did not know.,9,6,14
+68,SemAnom,John is expecting some guest tonight and decides to make lemon chicken for them.,John opened the cookbook to look up the word that he did not know.,9,14,14
+68,Critical,John's cookbook has a glossary containing names of many exotic ingredients and brief descriptions of what they are.,John opened the cookbook to look up the word that he did not know.,9,18,14
+69,Control,The fate of a writer changed overnight.,The writer became famous when his new book hit the shelves.  ,8,7,11
+69,SemAnom,Larry Black is a talented singer with great passion for music.,The singer became famous when his new book hit the shelves.  ,8,11,11
+69,Critical,A singer from a small town wrote a book about his encounter with the Beatles.,The singer became famous when his new book hit the shelves.  ,8,15,11
+70,Control,Nick was preparing a report for his history class.,Nick decided to get some books from the school's library at the end of the school day.  ,10,9,17
+70,SemAnom,Nick realized that he was very hungry.,Nick decided to get some snacks from the school's library  at the end of the school day.  ,10,7,17
+70,Critical,The librarians organized a Halloween party for their patrons.,Nick decided to get some snacks from the school's library  at the end of the school day.  ,10,9,17
+71,Control,John received a book written by his favorite author as his birthday present.,John put the new book on the bookshelf in the living room.,8,13,12
+71,SemAnom,John purchased an orthopedic pillow that has memory foam inside.,John put the new pillow on the bookshelf in the living room.,8,10,12
+71,Critical,John has a collection of miniature decorative pillows that he keeps next to his books.,John put the new pillow on the bookshelf in the living room.,8,15,12
+72,Control,"John, a builder, is on his way to work.",The builder is heading to the construction site.,7,9,8
+72,SemAnom,"John, a librarian, is on his way to work.",The librarian is heading to the construction site.,7,9,8
+72,Critical,A new library is being erected in the downtown Boston.,The librarian is heading to the construction site.,7,10,8
+73,Control,Safety is the main priority for this construction company.,Builders are required to wear helmets on the construction site.,6,9,10
+73,SemAnom,Hygiene and infection control standards are very high in St. Michaels Hospital.,Nurses are required to wear helmets on the construction site.,6,12,10
+73,Critical,A group of nurses tours the construction site of a new hospital. ,Nurses are required to wear helmets on the construction site.,6,12,10
+74,Control,Nathan was looking at a picture of a beautiful girl.,The girl's lips were red and her skin was pale.,5,10,10
+74,SemAnom,Nathan's daughter was one of the most attractive girls in their village.,The girl's eyes were red and her skin was pale. ,5,12,10
+74,Critical,A little girl stayed home alone and watched TV for ten hours.,The girls eyes were red and her skin was pale. ,5,12,10
+75,Control,"In the hallway, the kids broke a pot containing the palm tree. ",The servant was cleaning the floors in a hurry.,6,12,9
+75,SemAnom,A princess starts every morning with the same beauty routine,The princess was cleaning the floors in a hurry.,6,10,9
+75,Critical,The pirates captured a princess and made her do all the house chores.,The princess was cleaning the floors in a hurry.,6,13,9
+76,Control,Mary put the flowers into the vase.,The vase is made of glass and is very fragile.,6,7,10
+76,SemAnom,Mary purchased a toy car for her 2 year old son.,The car is made of glass and is very fragile.,6,11,10
+76,Critical,Mary purchased a Swarovski Christmas decoration that looks like a mini car.,The car is made of glass and is very fragile.,6,12,10
+77,Control,Dan is very proud of his pet bird.,Dan's parrot is smart enough to open the cage's lock without any trouble.,10,8,13
+77,SemAnom,Dan's parrot often steals treats from the fridge.,Dan's parrot is smart enough to open the fridge's lock without any trouble.,10,8,13
+77,Critical,A key is needed to open Dan's fridge.,Dan's parrot is smart enough to open the fridge's lock without any trouble.,10,8,13
+78,Control,Nancy is fond of elephants and zebras.,"In order to see the animals, Nancy went to the zoo with her mother.",11,7,14
+78,SemAnom,Nancy has heard a lot about Mona Lisa and The Last Supper by da Vinci.,"In order to see the paintings, Nancy went to the zoo with her mother.",11,15,14
+78,Critical,Paintings of animals by a famous artist were exhibited next to the cages with animals. ,"In order to see the paintings, Nancy went to the zoo with her mother.",11,15,14
+79,Control,Berta was preparing for the party.,Berta put some icing on the cake as a decoration.,7,6,10
+79,SemAnom,Berta was making breakfast for her kids.,Berta put some eggs on the cake as a decoration.  ,7,7,10
+79,Critical,Berta was baking a dessert for Easter.,Berta put some eggs on the cake as a decoration.  ,7,7,10
+80,Control,Elsa was serving some cake to her guests.,She put a piece of cake on the plate for Jim.,9,8,11
+80,SemAnom,Elsa was showing Jim her collection of semi precious stones.,She put a piece of rock on the plate for Jim.,9,10,11
+80,Critical,The girl was making mudpies out of rocks and sand. ,She put a piece of rock on the plate for Jim.,9,10,11
+81,Control,Nick turns seven today.,Mom purchased a big cake for the birthday party.,8,4,9
+81,SemAnom,Many family members will come to Nick's house for Christmas.,Mom purchased a Christmas tree for the birthday party.,8,10,9
+81,Critical,Nick was born on Christmas day. ,Mom purchased a Christmas tree for his birthday party.,8,6,9
+82,Control,"For dessert, Ryan ordered a piece of carrot cake.",Ryan was eating the cake with a fork and knife.,8,9,10
+82,SemAnom,Ryan purchased a blizzard at Dairy Queen.,Ryan was eating the ice cream with a fork and knife.,9,7,11
+82,Critical,Ice cream was so frozen that Ryan could not scoop any out with a spoon.,Ryan was eating the ice cream with a fork and knife.,9,15,11
+83,Control,Mary took her kids to the zoo to see a camel and a giraffe.,The kids noticed that the camel had a large hump and a long tail. ,10,14,14
+83,SemAnom,The kids were playing with Mary's labrador.,The kids noticed that the dog had a large hump and a long tail. ,10,7,14
+83,Critical,Mary dressed her pet dog as a camel for Halloween.,The kids noticed that the dog had a large hump and a long tail. ,10,10,14
+84,Control,A group of camels was used to transport precious water to oil drilling stations.,The camels were travelling through the desert slowly.,7,14,8
+84,SemAnom,"In search for food, a family of monkeys moved to a land with abundant vegetation.",The monkeys were travelling through the desert slowly.,7,15,8
+84,Critical,Wild fires pushed a family of monkeys on to the territory of the Sahara.,The monkeys were traveling through the desert slowly.,7,14,8
+85,Control,Ted purchased some candles and candleholders at the crafts fair.,The Easter candles were made of high quality wax and could burn for 5 hours.,9,10,15
+85,SemAnom,Ted purchased some Christmas ornaments that were very fragile.,The Christmas ornaments were made of high quality wax and could burn for 5 hours.,9,9,15
+85,Critical,Ted purchased some Christmas ornaments that could also be used as candles.,The Christmas ornaments were made of high quality wax and could burn for 5 hours.,9,12,15
+86,Control,Nancy knows that her son has a sweet tooth.,Nancy's youngest son enjoys eating candy most of all. ,6,9,9
+86,SemAnom,Nancy is very fond of her goldfish and takes good care of it.,Nancy's goldfish enjoys eating candy most of all. ,5,13,8
+86,Critical,Nancy's son dropped tiny pieces of peanut butter cups into a fishtank.,Nancy's goldfish enjoys eating candy most of all. ,5,12,8
+87,Control,Tina is leaving home for work.,"Tina looked into her bag seaching for the car key, without any success.",10,6,13
+87,SemAnom,Tina is waiting for a bus at a bus stop.,"Tina looked into her bag seaching for the bus key, without any success.",10,10,13
+87,Critical,"Tina, a bus driver, cannot start her shift on time.","Tina looked into her bag seaching for the bus key, without any success.",10,10,13
+88,Control,Larry is very fond of his red Ferrarri.,The car is placed in the garage overnight.,7,8,8
+88,SemAnom,Larry's son is very fond of his new puppy.,The puppy is placed in the garage overnight.,7,9,8
+88,Critical,"Larry hid a puppy, a surprise birthday gift for his son, next to the car for one night.   ",The puppy is placed in the garage overnight.,7,18,8
+89,Control,The king summoned the knights before an important battle.,The knights gathered in the castle to hear the king's speech. ,6,9,11
+89,SemAnom,A group of astronauts was about to start their expedition to Mars.,The astronauts gathered in the castle to hear the king's speech. ,6,12,11
+89,Critical,A group of astronauts went to the Royal Medieval Fair to have some fun.,The astronauts gathered in the castle to hear the king's speech. ,6,14,11
+90,Control,The Tower of London is one of the oldest castles in London.,The old castle belonged to the king of England.,7,12,9
+90,SemAnom,This drugstore is open for 24 hours 7 days a week.,The drugstore belongs to the king of England.,6,11,8
+90,Critical,Richard I transformed one of his castles into the first drugstore in England.,The drugstore belonged to the king of England.,6,13,8
+91,Control,My pet cat was a big coward.,The cat was afraid to leave the house even for a second.,8,7,12
+91,SemAnom,One of the swines that we kept on our farm never ventured outside.,The pig was afraid to leave the house even for a second.,8,13,12
+91,Critical,My daughter owned a cute mini pig as a pet. ,The pig was afraid to leave the house even for a second.,8,10,12
+92,Control,Mike is figuring out what products have high content of lactose.,Mike learned that milk is the main ingredient in the cheese that he bought. ,11,11,14
+92,SemAnom,The doctors advised Mike to cut down on the consumption of rice and other carbohydrates. ,Mike learned that rice is the main ingredient in the cheese that he bought. ,11,15,14
+92,Critical,Daya Company uses rice milk to produce lactose-free dairy products.,Mike learned that rice is the main ingredient in the cheese that he bought. ,11,10,14
+93,Control,Rodents are known to be attracted to cheese products.,Robert put a piece of cheese in the trap to catch the mouse. ,9,9,13
+93,SemAnom,Robert finished his report and was about to print it.,Robert put a piece of paper in the trap to catch the mouse. ,9,10,13
+93,Critical,Robert noticed that a mouse living in his house was snatching paper.,Robert put a piece of paper in the trap to catch the mouse. ,9,12,13
+94,Control,Many tourists come to Paris to taste food prepared by Kyle Jacobs.,The famous sous chef works at the popular restaurant in Paris.,9,12,11
+94,SemAnom,Many tourists come to Paris to attend Kyle Jacobs' performance.,The famous opera singer works at the popular restaurant in Paris.,9,10,11
+94,Critical,"Kyle Jacobs, a world-known singer, turned his passion of cooking into a business.",The famous opera singer works at the popular restaurant in Paris.,9,13,11
+95,Control,Linda noticed that her dog was feeble and refused to eat. ,"Linda broght her sick dog to a vet, hoping for some help.",8,11,12
+95,SemAnom,Linda's daughter had a high fever and kept coughing through the night.,"Linda broght her sick daughter to a vet, hoping for some help.",8,12,12
+95,Critical,"In the small, distant village, an animal clinic was the only medical facility.","Linda broght her sick daughter to a vet, hoping for some help.",8,13,12
+96,Control,The circus pitched its tent in the middle of the town.,Many people went to the circus to see clowns and acrobats.,9,11,11
+96,SemAnom,"In a small town, the church was the only place where people convened on a regular basis.",Many people went to the church to see clowns and acrobats.,9,17,11
+96,Critical,The circus gave its performance in the building of an old church,Many people went to the church to see clowns and acrobats.,9,12,11
+97,Control,The kids noticed a brightly dressed clown crossing the street.,The clown's nose was red and he had a yellow wig on.,5,10,12
+97,SemAnom,The dentist had difficulty breathing due to a cold.,The dentist's nose was red and he had a yellow wig on.,5,9,12
+97,Critical,The dentist dressed up as a clown to entartain his patients.,The dentist's nose was red and he had a yellow wig on.,5,11,12
+98,Control,Drinking coffee helps Steve to wake up and stay alert.,Steve has a cup of coffee every morning on his way to work.,8,10,13
+98,SemAnom,Drinking beer helps Steve to calm down and relax after a hard day of work.,Steve has a glass of beer every morning on his way to work.,8,15,13
+98,Critical,Steve believes that the best way to start the day is to have some beer.,Steve has a glass of beer every morning on his way to work.,8,15,13
+99,Control,The Smiths will spend their vacation in Europe.,It is often hot and sunny in summer there.,8,8,9
+99,SemAnom,The Smiths decided to spend their Christmas in London.,It is often cold and snowing in summer there.,8,9,9
+99,Critical,"In Australia, winter is the warmest out of the four seasons.",It is often cold and snowing in summer there.,8,11,9
+100,Control,Henry VIII's crown can be seen at the British Museum.,The crown is made of gold and decorated with diamonds.,6,10,10
+100,SemAnom,Mary purchased her baby boy's first shoes.,The shoes are made of gold and decorated with diamonds.,6,7,10
+100,Critical,Jewelry makers created special shoes for the Queen.,The shoes are made of gold and decorated with diamonds.,6,8,10
+,,,,,,10.53333333
